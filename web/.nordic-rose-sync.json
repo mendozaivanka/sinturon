@@ -1,6 +1,6 @@
 {
   "source": "mendozaivanka/nordic-rose",
-  "commit": "d536eeb",
+  "commit": "3c64e58",
   "files": {
     "src/data/tokens.ts": "92f3bd8540c3c08fdef5c81e7fef16c8b8307a8e8cfc476eb237800451fd56e9",
     "scripts/gen-tokens.ts": "63d7caeb7ca9bac898d9a6c3786d6e299f789f37641fb65d57a5396faacf1c04",
@@ -29,7 +29,7 @@
     "src/components/ThemeMenu.tsx": "30db6985f3fd9bdfcd0ed99006c6a48140e9812d34d89348f620e1a5f8c7031e",
     "src/components/ContrastSwitch.tsx": "983a9bfabbabb08703ad7ce03bd350b840a9e91b7534cf62419d7267526c1b02",
     "src/components/RoseMark.tsx": "07f1b5f0003fe28e18588e7862c7cd192a9a3dc7fd365da3f4c3c1cddd5a34e5",
-    "src/components/RoseDemo.tsx": "230ca7599a9851a7b58fd13b37a13bff90988d3a81bee073763767236f486a6f",
+    "src/components/RoseDemo.tsx": "51270f5356dfa9ec7f7a1d321f3c480c53ceac0e2010fa24f8b6f13665a015bf",
     "src/lib/utils.ts": "14300d758170c270c75b057f38fedb3793a5920ea872f0477e29fb131185e8a7",
     "src/lib/theme.ts": "b656207911c9b5c99510804d860cbcea4b174f40a778191d9a8dcaa379479061",
     "src/lib/contrast.ts": "f3dd824de4620eae1c8f5ff2ffd851edfd0eb2e2972e786f86f8e4a4e38932a7",

@@ -71,14 +71,14 @@ export default function RoseDemo() {
         </div>
         <div className="grid w-full gap-1.5">
           <Label htmlFor="demo-model">Model</Label>
-          <Select defaultValue="opus">
+          <Select defaultValue="large">
             <SelectTrigger id="demo-model" className="w-full">
               <SelectValue placeholder="Pick a model" />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="opus">Claude Opus</SelectItem>
-              <SelectItem value="sonnet">Claude Sonnet</SelectItem>
-              <SelectItem value="haiku">Claude Haiku</SelectItem>
+              <SelectItem value="large">Large model</SelectItem>
+              <SelectItem value="medium">Medium model</SelectItem>
+              <SelectItem value="small">Small model</SelectItem>
             </SelectContent>
           </Select>
         </div>
