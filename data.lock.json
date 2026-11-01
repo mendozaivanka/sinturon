@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "tag": "data-v1",
+  "asset": "read-models-v1.tar.gz",
+  "sha256": "unreleased: run scripts/release-data.sh 1 to publish data-v1 and pin its sha256 here"
+}

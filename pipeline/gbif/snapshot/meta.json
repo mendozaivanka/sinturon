@@ -1,0 +1,47 @@
+{
+ "fetchedAt": "2026-11-01",
+ "fetchedAtUtc": "2026-11-01T15:45:29+00:00",
+ "api": "https://api.gbif.org/v1/occurrence/search",
+ "filters": {
+  "hasCoordinate": "true",
+  "hasGeospatialIssue": "false",
+  "license": [
+   "CC0_1_0",
+   "CC_BY_4_0"
+  ]
+ },
+ "excelsaTaxonKeys": [
+  2895394,
+  2895399
+ ],
+ "queries": [
+  {
+   "group": "arabica",
+   "taxonKey": 2895345,
+   "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=2895345&hasCoordinate=true&hasGeospatialIssue=false&license=CC0_1_0&license=CC_BY_4_0",
+   "gbifCount": 7741,
+   "rows": 7741
+  },
+  {
+   "group": "robusta",
+   "taxonKey": 2895528,
+   "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=2895528&hasCoordinate=true&hasGeospatialIssue=false&license=CC0_1_0&license=CC_BY_4_0",
+   "gbifCount": 4155,
+   "rows": 4155
+  },
+  {
+   "group": "liberica",
+   "taxonKey": 8524134,
+   "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=8524134&hasCoordinate=true&hasGeospatialIssue=false&license=CC0_1_0&license=CC_BY_4_0",
+   "gbifCount": 663,
+   "rows": 663
+  }
+ ],
+ "rowsBySpecies": {
+  "arabica": 7741,
+  "excelsa": 189,
+  "liberica": 474,
+  "robusta": 4155
+ },
+ "rows": 12559
+}

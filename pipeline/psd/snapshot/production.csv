@@ -1,0 +1,3807 @@
+psdCode,country,marketYear,arabica,robusta,other,total
+AO,Angola,1960,50,2450,0,2500
+AO,Angola,1961,56,2744,0,2800
+AO,Angola,1962,50,2450,0,2500
+AO,Angola,1963,54,2637,0,2691
+AO,Angola,1964,50,2437,0,2487
+AO,Angola,1965,61,2996,0,3057
+AO,Angola,1966,74,3617,0,3691
+AO,Angola,1967,69,3389,0,3458
+AO,Angola,1968,70,3455,0,3525
+AO,Angola,1969,67,3301,0,3368
+AO,Angola,1970,56,2738,0,2794
+AO,Angola,1971,78,3802,0,3880
+AO,Angola,1972,79,3984,0,4063
+AO,Angola,1973,71,3476,0,3547
+AO,Angola,1974,69,3123,0,3192
+AO,Angola,1975,24,1076,0,1100
+AO,Angola,1976,22,989,0,1011
+AO,Angola,1977,30,890,0,920
+AO,Angola,1978,25,588,0,613
+AO,Angola,1979,20,240,0,260
+AO,Angola,1980,30,556,0,586
+AO,Angola,1981,20,372,0,392
+AO,Angola,1982,20,310,0,330
+AO,Angola,1983,20,240,0,260
+AO,Angola,1984,20,210,0,230
+AO,Angola,1985,20,230,0,250
+AO,Angola,1986,20,230,0,250
+AO,Angola,1987,20,250,0,270
+AO,Angola,1988,15,185,0,200
+AO,Angola,1989,10,160,0,170
+AO,Angola,1990,20,80,0,100
+AO,Angola,1991,20,60,0,80
+AO,Angola,1992,0,80,0,80
+AO,Angola,1993,0,33,0,33
+AO,Angola,1994,0,100,0,100
+AO,Angola,1995,0,62,0,62
+AO,Angola,1996,0,71,0,71
+AO,Angola,1997,0,64,0,64
+AO,Angola,1998,0,85,0,85
+AO,Angola,1999,0,55,0,55
+AO,Angola,2000,0,50,0,50
+AO,Angola,2001,0,21,0,21
+AO,Angola,2002,0,57,0,57
+AO,Angola,2003,0,38,0,38
+AO,Angola,2004,0,15,0,15
+AO,Angola,2005,0,25,0,25
+AO,Angola,2006,0,35,0,35
+AO,Angola,2007,0,30,0,30
+AO,Angola,2008,0,30,0,30
+AO,Angola,2009,0,30,0,30
+AO,Angola,2010,0,25,0,25
+AO,Angola,2011,0,35,0,35
+AO,Angola,2012,0,29,0,29
+AO,Angola,2013,0,31,0,31
+AO,Angola,2014,0,30,0,30
+AO,Angola,2015,0,25,0,25
+AO,Angola,2016,0,20,0,20
+AO,Angola,2017,0,19,0,19
+AO,Angola,2018,0,20,0,20
+AO,Angola,2019,0,32,0,32
+AO,Angola,2020,0,30,0,30
+AO,Angola,2021,0,30,0,30
+AO,Angola,2022,0,20,0,20
+AO,Angola,2023,0,30,0,30
+AO,Angola,2024,0,45,0,45
+AO,Angola,2025,0,45,0,45
+AO,Angola,2026,0,45,0,45
+BL,Bolivia,1960,28,0,0,28
+BL,Bolivia,1961,34,0,0,34
+BL,Bolivia,1962,38,0,0,38
+BL,Bolivia,1963,38,0,0,38
+BL,Bolivia,1964,58,0,0,58
+BL,Bolivia,1965,59,0,0,59
+BL,Bolivia,1966,72,0,0,72
+BL,Bolivia,1967,92,0,0,92
+BL,Bolivia,1968,59,0,0,59
+BL,Bolivia,1969,69,0,0,69
+BL,Bolivia,1970,86,0,0,86
+BL,Bolivia,1971,92,0,0,92
+BL,Bolivia,1972,88,0,0,88
+BL,Bolivia,1973,89,0,0,89
+BL,Bolivia,1974,100,0,0,100
+BL,Bolivia,1975,124,0,0,124
+BL,Bolivia,1976,108,0,0,108
+BL,Bolivia,1977,118,0,0,118
+BL,Bolivia,1978,122,0,0,122
+BL,Bolivia,1979,129,0,0,129
+BL,Bolivia,1980,145,0,0,145
+BL,Bolivia,1981,135,0,0,135
+BL,Bolivia,1982,155,0,0,155
+BL,Bolivia,1983,150,0,0,150
+BL,Bolivia,1984,140,0,0,140
+BL,Bolivia,1985,150,0,0,150
+BL,Bolivia,1986,157,0,0,157
+BL,Bolivia,1987,160,0,0,160
+BL,Bolivia,1988,170,0,0,170
+BL,Bolivia,1989,170,0,0,170
+BL,Bolivia,1990,190,0,0,190
+BL,Bolivia,1991,200,0,0,200
+BL,Bolivia,1992,85,0,0,85
+BL,Bolivia,1993,58,0,0,58
+BL,Bolivia,1994,123,0,0,123
+BL,Bolivia,1995,151,0,0,151
+BL,Bolivia,1996,133,0,0,133
+BL,Bolivia,1997,153,0,0,153
+BL,Bolivia,1998,150,0,0,150
+BL,Bolivia,1999,184,0,0,184
+BL,Bolivia,2000,173,0,0,173
+BL,Bolivia,2001,118,0,0,118
+BL,Bolivia,2002,149,0,0,149
+BL,Bolivia,2003,125,0,0,125
+BL,Bolivia,2004,165,0,0,165
+BL,Bolivia,2005,135,0,0,135
+BL,Bolivia,2006,152,0,0,152
+BL,Bolivia,2007,140,0,0,140
+BL,Bolivia,2008,135,0,0,135
+BL,Bolivia,2009,140,0,0,140
+BL,Bolivia,2010,125,0,0,125
+BL,Bolivia,2011,140,0,0,140
+BL,Bolivia,2012,115,0,0,115
+BL,Bolivia,2013,128,0,0,128
+BL,Bolivia,2014,100,0,0,100
+BL,Bolivia,2015,80,0,0,80
+BL,Bolivia,2016,75,0,0,75
+BL,Bolivia,2017,85,0,0,85
+BL,Bolivia,2018,85,0,0,85
+BL,Bolivia,2019,85,0,0,85
+BL,Bolivia,2020,80,0,0,80
+BL,Bolivia,2021,85,0,0,85
+BL,Bolivia,2022,90,0,0,90
+BL,Bolivia,2023,70,0,0,70
+BL,Bolivia,2024,85,0,0,85
+BL,Bolivia,2025,80,0,0,80
+BL,Bolivia,2026,80,0,0,80
+BR,Brazil,1960,29800,0,0,29800
+BR,Brazil,1961,39600,0,0,39600
+BR,Brazil,1962,28900,0,0,28900
+BR,Brazil,1963,23200,0,0,23200
+BR,Brazil,1964,11000,0,0,11000
+BR,Brazil,1965,37700,0,0,37700
+BR,Brazil,1966,21000,0,0,21000
+BR,Brazil,1967,24500,0,0,24500
+BR,Brazil,1968,17000,0,0,17000
+BR,Brazil,1969,21000,0,0,21000
+BR,Brazil,1970,11000,0,0,11000
+BR,Brazil,1971,24600,0,0,24600
+BR,Brazil,1972,24500,0,0,24500
+BR,Brazil,1973,14300,0,0,14300
+BR,Brazil,1974,27500,0,0,27500
+BR,Brazil,1975,22800,200,0,23000
+BR,Brazil,1976,9000,300,0,9300
+BR,Brazil,1977,17100,400,0,17500
+BR,Brazil,1978,19100,900,0,20000
+BR,Brazil,1979,20900,1100,0,22000
+BR,Brazil,1980,20250,1250,0,21500
+BR,Brazil,1981,31500,1500,0,33000
+BR,Brazil,1982,15750,2000,0,17750
+BR,Brazil,1983,28000,2000,0,30000
+BR,Brazil,1984,25000,2000,0,27000
+BR,Brazil,1985,30600,2400,0,33000
+BR,Brazil,1986,10400,3500,0,13900
+BR,Brazil,1987,34300,3700,0,38000
+BR,Brazil,1988,21300,3700,0,25000
+BR,Brazil,1989,22500,3500,0,26000
+BR,Brazil,1990,26500,4500,0,31000
+BR,Brazil,1991,24000,4500,0,28500
+BR,Brazil,1992,19200,4800,0,24000
+BR,Brazil,1993,24000,4500,0,28500
+BR,Brazil,1994,24500,3500,0,28000
+BR,Brazil,1995,14000,2800,0,16800
+BR,Brazil,1996,22700,5300,0,28000
+BR,Brazil,1997,19200,4300,0,23500
+BR,Brazil,1998,30600,5000,0,35600
+BR,Brazil,1999,25800,5000,0,30800
+BR,Brazil,2000,26600,7500,0,34100
+BR,Brazil,2001,24400,10700,0,35100
+BR,Brazil,2002,41600,12000,0,53600
+BR,Brazil,2003,23600,9600,0,33200
+BR,Brazil,2004,34300,9300,0,43600
+BR,Brazil,2005,26000,10100,0,36100
+BR,Brazil,2006,36000,10700,0,46700
+BR,Brazil,2007,27650,11450,0,39100
+BR,Brazil,2008,40500,12800,0,53300
+BR,Brazil,2009,33000,11800,0,44800
+BR,Brazil,2010,41800,12700,0,54500
+BR,Brazil,2011,34700,14500,0,49200
+BR,Brazil,2012,42100,15500,0,57600
+BR,Brazil,2013,41800,15400,0,57200
+BR,Brazil,2014,37300,17000,0,54300
+BR,Brazil,2015,36100,13300,0,49400
+BR,Brazil,2016,45600,10500,0,56100
+BR,Brazil,2017,39500,12600,0,52100
+BR,Brazil,2018,49700,16800,0,66500
+BR,Brazil,2019,42000,18500,0,60500
+BR,Brazil,2020,49700,20200,0,69900
+BR,Brazil,2021,36400,21700,0,58100
+BR,Brazil,2022,39800,22800,0,62600
+BR,Brazil,2023,44900,21400,0,66300
+BR,Brazil,2024,44500,21000,0,65500
+BR,Brazil,2025,38000,25000,0,63000
+BR,Brazil,2026,47500,24400,0,71900
+BY,Burundi,1960,222,10,0,232
+BY,Burundi,1961,207,10,0,217
+BY,Burundi,1962,192,10,0,202
+BY,Burundi,1963,84,10,0,94
+BY,Burundi,1964,256,10,0,266
+BY,Burundi,1965,217,10,0,227
+BY,Burundi,1966,240,10,0,250
+BY,Burundi,1967,205,10,0,215
+BY,Burundi,1968,268,10,0,278
+BY,Burundi,1969,234,10,0,244
+BY,Burundi,1970,356,15,0,371
+BY,Burundi,1971,405,15,0,420
+BY,Burundi,1972,313,15,0,328
+BY,Burundi,1973,344,15,0,359
+BY,Burundi,1974,459,20,0,479
+BY,Burundi,1975,264,15,0,279
+BY,Burundi,1976,339,20,0,359
+BY,Burundi,1977,270,15,0,285
+BY,Burundi,1978,367,20,0,387
+BY,Burundi,1979,441,25,0,466
+BY,Burundi,1980,295,20,0,315
+BY,Burundi,1981,695,35,0,730
+BY,Burundi,1982,320,20,0,340
+BY,Burundi,1983,700,30,0,730
+BY,Burundi,1984,300,25,0,325
+BY,Burundi,1985,508,27,0,535
+BY,Burundi,1986,479,16,0,495
+BY,Burundi,1987,609,16,0,625
+BY,Burundi,1988,588,17,0,605
+BY,Burundi,1989,600,16,0,616
+BY,Burundi,1990,500,17,0,517
+BY,Burundi,1991,544,18,0,562
+BY,Burundi,1992,590,17,0,607
+BY,Burundi,1993,388,6,0,394
+BY,Burundi,1994,659,5,0,664
+BY,Burundi,1995,434,0,0,434
+BY,Burundi,1996,396,5,0,401
+BY,Burundi,1997,292,5,0,297
+BY,Burundi,1998,357,0,0,357
+BY,Burundi,1999,504,3,0,507
+BY,Burundi,2000,446,0,0,446
+BY,Burundi,2001,261,0,0,261
+BY,Burundi,2002,454,0,0,454
+BY,Burundi,2003,338,0,0,338
+BY,Burundi,2004,337,0,0,337
+BY,Burundi,2005,285,0,0,285
+BY,Burundi,2006,287,0,0,287
+BY,Burundi,2007,209,0,0,209
+BY,Burundi,2008,250,0,0,250
+BY,Burundi,2009,300,0,0,300
+BY,Burundi,2010,235,0,0,235
+BY,Burundi,2011,210,0,0,210
+BY,Burundi,2012,235,0,0,235
+BY,Burundi,2013,185,0,0,185
+BY,Burundi,2014,160,0,0,160
+BY,Burundi,2015,240,0,0,240
+BY,Burundi,2016,200,0,0,200
+BY,Burundi,2017,205,0,0,205
+BY,Burundi,2018,205,0,0,205
+BY,Burundi,2019,265,0,0,265
+BY,Burundi,2020,230,0,0,230
+BY,Burundi,2021,165,0,0,165
+BY,Burundi,2022,175,0,0,175
+BY,Burundi,2023,140,0,0,140
+BY,Burundi,2024,115,0,0,115
+BY,Burundi,2025,140,0,0,140
+BY,Burundi,2026,140,0,0,140
+CE,Sri Lanka,1960,1,5,0,6
+CE,Sri Lanka,1961,1,7,0,8
+CE,Sri Lanka,1962,1,7,0,8
+CE,Sri Lanka,1963,1,9,0,10
+CE,Sri Lanka,1964,1,9,0,10
+CE,Sri Lanka,1965,1,9,0,10
+CE,Sri Lanka,1966,1,9,0,10
+CE,Sri Lanka,1967,1,9,0,10
+CE,Sri Lanka,1968,1,9,0,10
+CE,Sri Lanka,1969,1,9,0,10
+CE,Sri Lanka,1970,2,9,0,11
+CE,Sri Lanka,1971,2,9,0,11
+CE,Sri Lanka,1972,2,9,0,11
+CE,Sri Lanka,1973,3,15,0,18
+CE,Sri Lanka,1974,6,26,0,32
+CE,Sri Lanka,1975,8,35,0,43
+CE,Sri Lanka,1976,8,32,0,40
+CE,Sri Lanka,1977,9,37,0,46
+CE,Sri Lanka,1978,11,44,0,55
+CE,Sri Lanka,1979,9,38,0,47
+CE,Sri Lanka,1980,11,39,0,50
+CE,Sri Lanka,1981,10,44,0,54
+CE,Sri Lanka,1982,12,52,0,64
+CE,Sri Lanka,1983,10,48,0,58
+CE,Sri Lanka,1984,13,72,0,85
+CE,Sri Lanka,1985,12,66,0,78
+CE,Sri Lanka,1986,10,15,0,25
+CE,Sri Lanka,1987,12,58,0,70
+CE,Sri Lanka,1988,12,63,0,75
+CE,Sri Lanka,1989,10,60,0,70
+CE,Sri Lanka,1990,10,65,0,75
+CE,Sri Lanka,1991,10,65,0,75
+CE,Sri Lanka,1992,10,40,0,50
+CE,Sri Lanka,1993,10,44,0,54
+CE,Sri Lanka,1994,10,32,0,42
+CE,Sri Lanka,1995,10,26,0,36
+CE,Sri Lanka,1996,10,27,0,37
+CE,Sri Lanka,1997,10,48,0,58
+CE,Sri Lanka,1998,10,36,0,46
+CE,Sri Lanka,1999,10,31,0,41
+CE,Sri Lanka,2000,10,33,0,43
+CE,Sri Lanka,2001,10,22,0,32
+CE,Sri Lanka,2002,10,24,0,34
+CE,Sri Lanka,2003,10,27,0,37
+CE,Sri Lanka,2004,10,22,0,32
+CE,Sri Lanka,2005,10,24,0,34
+CE,Sri Lanka,2006,9,23,0,32
+CE,Sri Lanka,2007,10,25,0,35
+CE,Sri Lanka,2008,10,25,0,35
+CE,Sri Lanka,2009,0,0,0,0
+CE,Sri Lanka,2010,0,0,0,0
+CE,Sri Lanka,2011,0,0,0,0
+CE,Sri Lanka,2012,0,0,0,0
+CE,Sri Lanka,2013,0,0,0,0
+CE,Sri Lanka,2014,0,0,0,0
+CE,Sri Lanka,2015,0,0,0,0
+CE,Sri Lanka,2016,0,0,0,0
+CE,Sri Lanka,2017,0,0,0,0
+CE,Sri Lanka,2018,0,0,0,0
+CE,Sri Lanka,2019,0,0,0,0
+CE,Sri Lanka,2020,0,0,0,0
+CE,Sri Lanka,2021,0,0,0,0
+CE,Sri Lanka,2022,0,0,0,0
+CE,Sri Lanka,2023,0,0,0,0
+CE,Sri Lanka,2024,0,0,0,0
+CE,Sri Lanka,2025,0,0,0,0
+CE,Sri Lanka,2026,0,0,0,0
+CF,Congo (Brazzaville),1960,0,5,0,5
+CF,Congo (Brazzaville),1961,0,8,0,8
+CF,Congo (Brazzaville),1962,0,11,0,11
+CF,Congo (Brazzaville),1963,0,11,0,11
+CF,Congo (Brazzaville),1964,0,8,0,8
+CF,Congo (Brazzaville),1965,0,22,0,22
+CF,Congo (Brazzaville),1966,0,11,0,11
+CF,Congo (Brazzaville),1967,0,16,0,16
+CF,Congo (Brazzaville),1968,0,21,0,21
+CF,Congo (Brazzaville),1969,0,25,0,25
+CF,Congo (Brazzaville),1970,0,16,0,16
+CF,Congo (Brazzaville),1971,0,18,0,18
+CF,Congo (Brazzaville),1972,0,14,0,14
+CF,Congo (Brazzaville),1973,0,8,0,8
+CF,Congo (Brazzaville),1974,0,11,0,11
+CF,Congo (Brazzaville),1975,0,28,0,28
+CF,Congo (Brazzaville),1976,0,33,0,33
+CF,Congo (Brazzaville),1977,0,46,0,46
+CF,Congo (Brazzaville),1978,0,107,0,107
+CF,Congo (Brazzaville),1979,0,43,0,43
+CF,Congo (Brazzaville),1980,0,40,0,40
+CF,Congo (Brazzaville),1981,0,36,0,36
+CF,Congo (Brazzaville),1982,0,32,0,32
+CF,Congo (Brazzaville),1983,0,35,0,35
+CF,Congo (Brazzaville),1984,0,25,0,25
+CF,Congo (Brazzaville),1985,0,20,0,20
+CF,Congo (Brazzaville),1986,0,15,0,15
+CF,Congo (Brazzaville),1987,0,15,0,15
+CF,Congo (Brazzaville),1988,0,25,0,25
+CF,Congo (Brazzaville),1989,0,25,0,25
+CF,Congo (Brazzaville),1990,0,25,0,25
+CF,Congo (Brazzaville),1991,0,25,0,25
+CF,Congo (Brazzaville),1992,0,25,0,25
+CF,Congo (Brazzaville),1993,0,3,0,3
+CF,Congo (Brazzaville),1994,0,8,0,8
+CF,Congo (Brazzaville),1995,0,12,0,12
+CF,Congo (Brazzaville),1996,0,14,0,14
+CF,Congo (Brazzaville),1997,0,3,0,3
+CF,Congo (Brazzaville),1998,0,3,0,3
+CF,Congo (Brazzaville),1999,0,3,0,3
+CF,Congo (Brazzaville),2000,0,3,0,3
+CF,Congo (Brazzaville),2001,0,3,0,3
+CF,Congo (Brazzaville),2002,0,3,0,3
+CF,Congo (Brazzaville),2003,0,0,0,0
+CF,Congo (Brazzaville),2004,0,0,0,0
+CF,Congo (Brazzaville),2005,0,0,0,0
+CF,Congo (Brazzaville),2006,0,0,0,0
+CF,Congo (Brazzaville),2007,0,0,0,0
+CF,Congo (Brazzaville),2008,0,0,0,0
+CF,Congo (Brazzaville),2009,0,0,0,0
+CF,Congo (Brazzaville),2010,0,0,0,0
+CF,Congo (Brazzaville),2011,0,0,0,0
+CF,Congo (Brazzaville),2012,0,0,0,0
+CF,Congo (Brazzaville),2013,0,0,0,0
+CF,Congo (Brazzaville),2014,0,0,0,0
+CF,Congo (Brazzaville),2015,0,0,0,0
+CF,Congo (Brazzaville),2016,0,0,0,0
+CF,Congo (Brazzaville),2017,0,0,0,0
+CF,Congo (Brazzaville),2018,0,0,0,0
+CF,Congo (Brazzaville),2019,0,0,0,0
+CF,Congo (Brazzaville),2020,0,0,0,0
+CF,Congo (Brazzaville),2021,0,0,0,0
+CF,Congo (Brazzaville),2022,0,0,0,0
+CF,Congo (Brazzaville),2023,0,0,0,0
+CF,Congo (Brazzaville),2024,0,0,0,0
+CF,Congo (Brazzaville),2025,0,0,0,0
+CF,Congo (Brazzaville),2026,0,0,0,0
+CG,Congo (Kinshasa),1960,104,589,0,693
+CG,Congo (Kinshasa),1961,106,600,0,706
+CG,Congo (Kinshasa),1962,130,737,0,867
+CG,Congo (Kinshasa),1963,158,892,0,1050
+CG,Congo (Kinshasa),1964,117,662,0,779
+CG,Congo (Kinshasa),1965,103,581,0,684
+CG,Congo (Kinshasa),1966,163,924,0,1087
+CG,Congo (Kinshasa),1967,180,1020,0,1200
+CG,Congo (Kinshasa),1968,175,992,0,1167
+CG,Congo (Kinshasa),1969,218,1235,0,1453
+CG,Congo (Kinshasa),1970,183,1039,0,1222
+CG,Congo (Kinshasa),1971,200,1135,0,1335
+CG,Congo (Kinshasa),1972,226,1282,0,1508
+CG,Congo (Kinshasa),1973,237,1348,0,1585
+CG,Congo (Kinshasa),1974,191,1085,0,1276
+CG,Congo (Kinshasa),1975,161,911,0,1072
+CG,Congo (Kinshasa),1976,205,1212,0,1417
+CG,Congo (Kinshasa),1977,179,950,0,1129
+CG,Congo (Kinshasa),1978,243,1050,0,1293
+CG,Congo (Kinshasa),1979,265,1051,0,1316
+CG,Congo (Kinshasa),1980,265,1261,0,1526
+CG,Congo (Kinshasa),1981,305,1120,0,1425
+CG,Congo (Kinshasa),1982,325,1029,0,1354
+CG,Congo (Kinshasa),1983,167,1183,0,1350
+CG,Congo (Kinshasa),1984,200,1340,0,1540
+CG,Congo (Kinshasa),1985,10,1600,0,1610
+CG,Congo (Kinshasa),1986,180,1695,0,1875
+CG,Congo (Kinshasa),1987,220,1780,0,2000
+CG,Congo (Kinshasa),1988,240,1510,0,1750
+CG,Congo (Kinshasa),1989,300,1700,0,2000
+CG,Congo (Kinshasa),1990,295,1400,0,1695
+CG,Congo (Kinshasa),1991,200,1300,0,1500
+CG,Congo (Kinshasa),1992,300,1490,0,1790
+CG,Congo (Kinshasa),1993,118,862,0,980
+CG,Congo (Kinshasa),1994,300,998,0,1298
+CG,Congo (Kinshasa),1995,165,934,0,1099
+CG,Congo (Kinshasa),1996,99,695,0,794
+CG,Congo (Kinshasa),1997,195,605,0,800
+CG,Congo (Kinshasa),1998,55,589,0,644
+CG,Congo (Kinshasa),1999,44,433,0,477
+CG,Congo (Kinshasa),2000,73,289,0,362
+CG,Congo (Kinshasa),2001,88,332,0,420
+CG,Congo (Kinshasa),2002,45,274,0,319
+CG,Congo (Kinshasa),2003,55,295,0,350
+CG,Congo (Kinshasa),2004,58,202,0,260
+CG,Congo (Kinshasa),2005,54,182,0,236
+CG,Congo (Kinshasa),2006,100,180,0,280
+CG,Congo (Kinshasa),2007,115,200,0,315
+CG,Congo (Kinshasa),2008,100,200,0,300
+CG,Congo (Kinshasa),2009,105,200,0,305
+CG,Congo (Kinshasa),2010,100,165,0,265
+CG,Congo (Kinshasa),2011,90,165,0,255
+CG,Congo (Kinshasa),2012,80,150,0,230
+CG,Congo (Kinshasa),2013,70,170,0,240
+CG,Congo (Kinshasa),2014,70,150,0,220
+CG,Congo (Kinshasa),2015,70,150,0,220
+CG,Congo (Kinshasa),2016,70,160,0,230
+CG,Congo (Kinshasa),2017,75,175,0,250
+CG,Congo (Kinshasa),2018,70,175,0,245
+CG,Congo (Kinshasa),2019,75,180,0,255
+CG,Congo (Kinshasa),2020,75,175,0,250
+CG,Congo (Kinshasa),2021,70,200,0,270
+CG,Congo (Kinshasa),2022,75,180,0,255
+CG,Congo (Kinshasa),2023,75,150,0,225
+CG,Congo (Kinshasa),2024,50,120,0,170
+CG,Congo (Kinshasa),2025,50,110,0,160
+CG,Congo (Kinshasa),2026,50,110,0,160
+CH,China,2002,324,0,0,324
+CH,China,2003,386,0,0,386
+CH,China,2004,361,0,0,361
+CH,China,2005,365,0,0,365
+CH,China,2006,428,0,0,428
+CH,China,2007,433,0,0,433
+CH,China,2008,555,0,0,555
+CH,China,2009,1173,0,0,1173
+CH,China,2010,827,0,0,827
+CH,China,2011,1090,0,0,1090
+CH,China,2012,1535,0,0,1535
+CH,China,2013,1947,0,0,1947
+CH,China,2014,2125,0,0,2125
+CH,China,2015,1925,0,0,1925
+CH,China,2016,1900,0,0,1900
+CH,China,2017,1925,0,0,1925
+CH,China,2018,1925,0,0,1925
+CH,China,2019,2000,0,0,2000
+CH,China,2020,1900,0,0,1900
+CH,China,2021,1800,0,0,1800
+CH,China,2022,1800,0,0,1800
+CH,China,2023,1800,0,0,1800
+CH,China,2024,1900,0,0,1900
+CH,China,2025,1900,0,0,1900
+CH,China,2026,1900,0,0,1900
+CM,Cameroon,1960,168,687,0,855
+CM,Cameroon,1961,147,396,0,543
+CM,Cameroon,1962,221,529,0,750
+CM,Cameroon,1963,235,621,0,856
+CM,Cameroon,1964,312,551,0,863
+CM,Cameroon,1965,343,833,0,1176
+CM,Cameroon,1966,392,801,0,1193
+CM,Cameroon,1967,358,846,0,1204
+CM,Cameroon,1968,376,818,0,1194
+CM,Cameroon,1969,369,823,0,1192
+CM,Cameroon,1970,330,850,0,1180
+CM,Cameroon,1971,350,900,0,1250
+CM,Cameroon,1972,379,984,0,1363
+CM,Cameroon,1973,479,1074,0,1553
+CM,Cameroon,1974,428,1392,0,1820
+CM,Cameroon,1975,370,1112,0,1482
+CM,Cameroon,1976,327,980,0,1307
+CM,Cameroon,1977,344,1027,0,1371
+CM,Cameroon,1978,413,1221,0,1634
+CM,Cameroon,1979,458,1200,0,1658
+CM,Cameroon,1980,425,1435,0,1860
+CM,Cameroon,1981,415,1435,0,1850
+CM,Cameroon,1982,327,1503,0,1830
+CM,Cameroon,1983,250,750,0,1000
+CM,Cameroon,1984,333,1983,0,2316
+CM,Cameroon,1985,330,1737,0,2067
+CM,Cameroon,1986,346,1845,0,2191
+CM,Cameroon,1987,248,1003,0,1251
+CM,Cameroon,1988,255,1505,0,1760
+CM,Cameroon,1989,166,1274,0,1440
+CM,Cameroon,1990,230,1220,0,1450
+CM,Cameroon,1991,290,1630,0,1920
+CM,Cameroon,1992,212,625,0,837
+CM,Cameroon,1993,25,657,0,682
+CM,Cameroon,1994,17,386,0,403
+CM,Cameroon,1995,76,587,0,663
+CM,Cameroon,1996,49,1383,0,1432
+CM,Cameroon,1997,78,811,0,889
+CM,Cameroon,1998,43,1071,0,1114
+CM,Cameroon,1999,104,1266,0,1370
+CM,Cameroon,2000,149,964,0,1113
+CM,Cameroon,2001,75,611,0,686
+CM,Cameroon,2002,88,713,0,801
+CM,Cameroon,2003,99,801,0,900
+CM,Cameroon,2004,90,637,0,727
+CM,Cameroon,2005,93,757,0,850
+CM,Cameroon,2006,90,745,0,835
+CM,Cameroon,2007,90,605,0,695
+CM,Cameroon,2008,90,560,0,650
+CM,Cameroon,2009,90,500,0,590
+CM,Cameroon,2010,90,625,0,715
+CM,Cameroon,2011,90,645,0,735
+CM,Cameroon,2012,50,485,0,535
+CM,Cameroon,2013,50,375,0,425
+CM,Cameroon,2014,50,525,0,575
+CM,Cameroon,2015,50,575,0,625
+CM,Cameroon,2016,50,450,0,500
+CM,Cameroon,2017,50,375,0,425
+CM,Cameroon,2018,50,400,0,450
+CM,Cameroon,2019,50,425,0,475
+CM,Cameroon,2020,50,350,0,400
+CM,Cameroon,2021,25,250,0,275
+CM,Cameroon,2022,50,220,0,270
+CM,Cameroon,2023,25,190,0,215
+CM,Cameroon,2024,25,180,0,205
+CM,Cameroon,2025,25,200,0,225
+CM,Cameroon,2026,25,190,0,215
+CO,Colombia,1960,7260,0,0,7260
+CO,Colombia,1961,7571,0,0,7571
+CO,Colombia,1962,7180,0,0,7180
+CO,Colombia,1963,7556,0,0,7556
+CO,Colombia,1964,8428,0,0,8428
+CO,Colombia,1965,8200,0,0,8200
+CO,Colombia,1966,7600,0,0,7600
+CO,Colombia,1967,8000,0,0,8000
+CO,Colombia,1968,7900,0,0,7900
+CO,Colombia,1969,8450,0,0,8450
+CO,Colombia,1970,8000,0,0,8000
+CO,Colombia,1971,7200,0,0,7200
+CO,Colombia,1972,8600,0,0,8600
+CO,Colombia,1973,7800,0,0,7800
+CO,Colombia,1974,9000,0,0,9000
+CO,Colombia,1975,8500,0,0,8500
+CO,Colombia,1976,9300,0,0,9300
+CO,Colombia,1977,11050,0,0,11050
+CO,Colombia,1978,12600,0,0,12600
+CO,Colombia,1979,12712,0,0,12712
+CO,Colombia,1980,13500,0,0,13500
+CO,Colombia,1981,14342,0,0,14342
+CO,Colombia,1982,13300,0,0,13300
+CO,Colombia,1983,13000,0,0,13000
+CO,Colombia,1984,11000,0,0,11000
+CO,Colombia,1985,12000,0,0,12000
+CO,Colombia,1986,11000,0,0,11000
+CO,Colombia,1987,13000,0,0,13000
+CO,Colombia,1988,10700,0,0,10700
+CO,Colombia,1989,13300,0,0,13300
+CO,Colombia,1990,14500,0,0,14500
+CO,Colombia,1991,17980,0,0,17980
+CO,Colombia,1992,14950,0,0,14950
+CO,Colombia,1993,11400,0,0,11400
+CO,Colombia,1994,13000,0,0,13000
+CO,Colombia,1995,12939,0,0,12939
+CO,Colombia,1996,10779,0,0,10779
+CO,Colombia,1997,12043,0,0,12043
+CO,Colombia,1998,10868,0,0,10868
+CO,Colombia,1999,9512,0,0,9512
+CO,Colombia,2000,10500,0,0,10500
+CO,Colombia,2001,11950,0,0,11950
+CO,Colombia,2002,11712,0,0,11712
+CO,Colombia,2003,11053,0,0,11053
+CO,Colombia,2004,11532,0,0,11532
+CO,Colombia,2005,11953,0,0,11953
+CO,Colombia,2006,12164,0,0,12164
+CO,Colombia,2007,12515,0,0,12515
+CO,Colombia,2008,8664,0,0,8664
+CO,Colombia,2009,8100,0,0,8100
+CO,Colombia,2010,8525,0,0,8525
+CO,Colombia,2011,7655,0,0,7655
+CO,Colombia,2012,9927,0,0,9927
+CO,Colombia,2013,12075,0,0,12075
+CO,Colombia,2014,13300,0,0,13300
+CO,Colombia,2015,14000,0,0,14000
+CO,Colombia,2016,14600,0,0,14600
+CO,Colombia,2017,13825,0,0,13825
+CO,Colombia,2018,13870,0,0,13870
+CO,Colombia,2019,14100,0,0,14100
+CO,Colombia,2020,13400,0,0,13400
+CO,Colombia,2021,11800,0,0,11800
+CO,Colombia,2022,10700,0,0,10700
+CO,Colombia,2023,12760,0,0,12760
+CO,Colombia,2024,14800,0,0,14800
+CO,Colombia,2025,12500,0,0,12500
+CO,Colombia,2026,13400,0,0,13400
+CS,Costa Rica,1960,951,0,0,951
+CS,Costa Rica,1961,1073,0,0,1073
+CS,Costa Rica,1962,952,0,0,952
+CS,Costa Rica,1963,1043,0,0,1043
+CS,Costa Rica,1964,845,0,0,845
+CS,Costa Rica,1965,1001,0,0,1001
+CS,Costa Rica,1966,1164,0,0,1164
+CS,Costa Rica,1967,1313,0,0,1313
+CS,Costa Rica,1968,1228,0,0,1228
+CS,Costa Rica,1969,1403,0,0,1403
+CS,Costa Rica,1970,1295,0,0,1295
+CS,Costa Rica,1971,1551,0,0,1551
+CS,Costa Rica,1972,1266,0,0,1266
+CS,Costa Rica,1973,1539,0,0,1539
+CS,Costa Rica,1974,1430,0,0,1430
+CS,Costa Rica,1975,1276,0,0,1276
+CS,Costa Rica,1976,1331,0,0,1331
+CS,Costa Rica,1977,1449,0,0,1449
+CS,Costa Rica,1978,1749,0,0,1749
+CS,Costa Rica,1979,1522,0,0,1522
+CS,Costa Rica,1980,2140,0,0,2140
+CS,Costa Rica,1981,1782,0,0,1782
+CS,Costa Rica,1982,2300,0,0,2300
+CS,Costa Rica,1983,2070,0,0,2070
+CS,Costa Rica,1984,2516,0,0,2516
+CS,Costa Rica,1985,1514,0,0,1514
+CS,Costa Rica,1986,2566,0,0,2566
+CS,Costa Rica,1987,2375,0,0,2375
+CS,Costa Rica,1988,2758,0,0,2758
+CS,Costa Rica,1989,2453,0,0,2453
+CS,Costa Rica,1990,2565,0,0,2565
+CS,Costa Rica,1991,2530,0,0,2530
+CS,Costa Rica,1992,2620,0,0,2620
+CS,Costa Rica,1993,2475,0,0,2475
+CS,Costa Rica,1994,2492,0,0,2492
+CS,Costa Rica,1995,2595,0,0,2595
+CS,Costa Rica,1996,2376,0,0,2376
+CS,Costa Rica,1997,2455,0,0,2455
+CS,Costa Rica,1998,2459,0,0,2459
+CS,Costa Rica,1999,2688,0,0,2688
+CS,Costa Rica,2000,2502,0,0,2502
+CS,Costa Rica,2001,2338,0,0,2338
+CS,Costa Rica,2002,2207,0,0,2207
+CS,Costa Rica,2003,2106,0,0,2106
+CS,Costa Rica,2004,1907,0,0,1907
+CS,Costa Rica,2005,1751,0,0,1751
+CS,Costa Rica,2006,1782,0,0,1782
+CS,Costa Rica,2007,1867,0,0,1867
+CS,Costa Rica,2008,1580,0,0,1580
+CS,Costa Rica,2009,1475,0,0,1475
+CS,Costa Rica,2010,1575,0,0,1575
+CS,Costa Rica,2011,1775,0,0,1775
+CS,Costa Rica,2012,1675,0,0,1675
+CS,Costa Rica,2013,1450,0,0,1450
+CS,Costa Rica,2014,1400,0,0,1400
+CS,Costa Rica,2015,1625,0,0,1625
+CS,Costa Rica,2016,1300,0,0,1300
+CS,Costa Rica,2017,1525,0,0,1525
+CS,Costa Rica,2018,1250,0,0,1250
+CS,Costa Rica,2019,1466,0,0,1466
+CS,Costa Rica,2020,1472,0,0,1472
+CS,Costa Rica,2021,1215,0,0,1215
+CS,Costa Rica,2022,1100,0,0,1100
+CS,Costa Rica,2023,1158,0,0,1158
+CS,Costa Rica,2024,1315,0,0,1315
+CS,Costa Rica,2025,1160,0,0,1160
+CS,Costa Rica,2026,1200,0,0,1200
+CT,Central African Republic,1960,0,130,0,130
+CT,Central African Republic,1961,0,141,0,141
+CT,Central African Republic,1962,0,99,0,99
+CT,Central African Republic,1963,0,180,0,180
+CT,Central African Republic,1964,0,121,0,121
+CT,Central African Republic,1965,0,183,0,183
+CT,Central African Republic,1966,0,150,0,150
+CT,Central African Republic,1967,0,142,0,142
+CT,Central African Republic,1968,0,155,0,155
+CT,Central African Republic,1969,0,242,0,242
+CT,Central African Republic,1970,0,212,0,212
+CT,Central African Republic,1971,0,195,0,195
+CT,Central African Republic,1972,0,193,0,193
+CT,Central African Republic,1973,0,132,0,132
+CT,Central African Republic,1974,0,194,0,194
+CT,Central African Republic,1975,0,150,0,150
+CT,Central African Republic,1976,0,166,0,166
+CT,Central African Republic,1977,0,165,0,165
+CT,Central African Republic,1978,0,130,0,130
+CT,Central African Republic,1979,0,230,0,230
+CT,Central African Republic,1980,0,277,0,277
+CT,Central African Republic,1981,0,284,0,284
+CT,Central African Republic,1982,0,316,0,316
+CT,Central African Republic,1983,0,150,0,150
+CT,Central African Republic,1984,0,275,0,275
+CT,Central African Republic,1985,0,250,0,250
+CT,Central African Republic,1986,0,255,0,255
+CT,Central African Republic,1987,0,215,0,215
+CT,Central African Republic,1988,0,362,0,362
+CT,Central African Republic,1989,0,300,0,300
+CT,Central African Republic,1990,0,350,0,350
+CT,Central African Republic,1991,0,350,0,350
+CT,Central African Republic,1992,0,200,0,200
+CT,Central African Republic,1993,0,165,0,165
+CT,Central African Republic,1994,0,250,0,250
+CT,Central African Republic,1995,0,108,0,108
+CT,Central African Republic,1996,0,208,0,208
+CT,Central African Republic,1997,0,115,0,115
+CT,Central African Republic,1998,0,214,0,214
+CT,Central African Republic,1999,0,241,0,241
+CT,Central African Republic,2000,0,122,0,122
+CT,Central African Republic,2001,0,75,0,75
+CT,Central African Republic,2002,0,92,0,92
+CT,Central African Republic,2003,0,25,0,25
+CT,Central African Republic,2004,0,20,0,20
+CT,Central African Republic,2005,0,21,0,21
+CT,Central African Republic,2006,0,45,0,45
+CT,Central African Republic,2007,0,50,0,50
+CT,Central African Republic,2008,0,10,0,10
+CT,Central African Republic,2009,0,30,0,30
+CT,Central African Republic,2010,0,27,0,27
+CT,Central African Republic,2011,0,10,0,10
+CT,Central African Republic,2012,0,7,0,7
+CT,Central African Republic,2013,0,6,0,6
+CT,Central African Republic,2014,0,6,0,6
+CT,Central African Republic,2015,0,8,0,8
+CT,Central African Republic,2016,0,5,0,5
+CT,Central African Republic,2017,0,3,0,3
+CT,Central African Republic,2018,0,2,0,2
+CT,Central African Republic,2019,0,0,0,0
+CT,Central African Republic,2020,0,0,0,0
+CT,Central African Republic,2021,0,0,0,0
+CT,Central African Republic,2022,0,0,0,0
+CT,Central African Republic,2023,0,0,0,0
+CT,Central African Republic,2024,0,0,0,0
+CT,Central African Republic,2025,0,0,0,0
+CT,Central African Republic,2026,0,0,0,0
+CU,Cuba,1960,700,0,0,700
+CU,Cuba,1961,750,0,0,750
+CU,Cuba,1962,630,0,0,630
+CU,Cuba,1963,475,0,0,475
+CU,Cuba,1964,600,0,0,600
+CU,Cuba,1965,460,0,0,460
+CU,Cuba,1966,450,0,0,450
+CU,Cuba,1967,450,0,0,450
+CU,Cuba,1968,500,0,0,500
+CU,Cuba,1969,500,0,0,500
+CU,Cuba,1970,475,0,0,475
+CU,Cuba,1971,460,0,0,460
+CU,Cuba,1972,475,0,0,475
+CU,Cuba,1973,500,0,0,500
+CU,Cuba,1974,450,0,0,450
+CU,Cuba,1975,365,0,0,365
+CU,Cuba,1976,400,0,0,400
+CU,Cuba,1977,262,0,0,262
+CU,Cuba,1978,223,0,0,223
+CU,Cuba,1979,372,0,0,372
+CU,Cuba,1980,344,0,0,344
+CU,Cuba,1981,383,0,0,383
+CU,Cuba,1982,300,0,0,300
+CU,Cuba,1983,385,0,0,385
+CU,Cuba,1984,400,0,0,400
+CU,Cuba,1985,396,0,0,396
+CU,Cuba,1986,408,0,0,408
+CU,Cuba,1987,436,0,0,436
+CU,Cuba,1988,450,0,0,450
+CU,Cuba,1989,475,0,0,475
+CU,Cuba,1990,480,0,0,480
+CU,Cuba,1991,450,0,0,450
+CU,Cuba,1992,335,0,0,335
+CU,Cuba,1993,285,0,0,285
+CU,Cuba,1994,284,0,0,284
+CU,Cuba,1995,285,0,0,285
+CU,Cuba,1996,366,0,0,366
+CU,Cuba,1997,300,0,0,300
+CU,Cuba,1998,280,0,0,280
+CU,Cuba,1999,328,0,0,328
+CU,Cuba,2000,313,0,0,313
+CU,Cuba,2001,285,0,0,285
+CU,Cuba,2002,239,0,0,239
+CU,Cuba,2003,224,0,0,224
+CU,Cuba,2004,154,0,0,154
+CU,Cuba,2005,125,0,0,125
+CU,Cuba,2006,100,0,0,100
+CU,Cuba,2007,70,0,0,70
+CU,Cuba,2008,127,0,0,127
+CU,Cuba,2009,120,0,0,120
+CU,Cuba,2010,120,0,0,120
+CU,Cuba,2011,170,0,0,170
+CU,Cuba,2012,125,0,0,125
+CU,Cuba,2013,150,0,0,150
+CU,Cuba,2014,150,0,0,150
+CU,Cuba,2015,150,0,0,150
+CU,Cuba,2016,150,0,0,150
+CU,Cuba,2017,100,0,0,100
+CU,Cuba,2018,110,0,0,110
+CU,Cuba,2019,90,0,0,90
+CU,Cuba,2020,100,0,0,100
+CU,Cuba,2021,100,0,0,100
+CU,Cuba,2022,100,0,0,100
+CU,Cuba,2023,100,0,0,100
+CU,Cuba,2024,100,0,0,100
+CU,Cuba,2025,100,0,0,100
+CU,Cuba,2026,100,0,0,100
+DM,Benin,1960,0,36,0,36
+DM,Benin,1961,0,30,0,30
+DM,Benin,1962,0,18,0,18
+DM,Benin,1963,0,20,0,20
+DM,Benin,1964,0,12,0,12
+DM,Benin,1965,0,11,0,11
+DM,Benin,1966,0,18,0,18
+DM,Benin,1967,0,7,0,7
+DM,Benin,1968,0,28,0,28
+DM,Benin,1969,0,9,0,9
+DM,Benin,1970,0,21,0,21
+DM,Benin,1971,0,43,0,43
+DM,Benin,1972,0,9,0,9
+DM,Benin,1973,0,23,0,23
+DM,Benin,1974,0,49,0,49
+DM,Benin,1975,0,19,0,19
+DM,Benin,1976,0,17,0,17
+DM,Benin,1977,0,3,0,3
+DM,Benin,1978,0,3,0,3
+DM,Benin,1979,0,5,0,5
+DM,Benin,1980,0,36,0,36
+DM,Benin,1981,0,37,0,37
+DM,Benin,1982,0,50,0,50
+DM,Benin,1983,0,55,0,55
+DM,Benin,1984,0,55,0,55
+DM,Benin,1985,0,25,0,25
+DM,Benin,1986,0,20,0,20
+DM,Benin,1987,0,30,0,30
+DM,Benin,1988,0,40,0,40
+DM,Benin,1989,0,35,0,35
+DM,Benin,1990,0,35,0,35
+DM,Benin,1991,0,35,0,35
+DM,Benin,1992,0,35,0,35
+DM,Benin,2003,0,0,0,0
+DM,Benin,2005,0,0,0,0
+DM,Benin,2006,0,0,0,0
+DM,Benin,2007,0,0,0,0
+DM,Benin,2008,0,0,0,0
+DM,Benin,2009,0,0,0,0
+DM,Benin,2010,0,0,0,0
+DM,Benin,2011,0,0,0,0
+DM,Benin,2012,0,0,0,0
+DM,Benin,2013,0,0,0,0
+DM,Benin,2014,0,0,0,0
+DM,Benin,2015,0,0,0,0
+DM,Benin,2016,0,0,0,0
+DM,Benin,2017,0,0,0,0
+DM,Benin,2018,0,0,0,0
+DM,Benin,2019,0,0,0,0
+DM,Benin,2020,0,0,0,0
+DM,Benin,2021,0,0,0,0
+DM,Benin,2022,0,0,0,0
+DM,Benin,2023,0,0,0,0
+DM,Benin,2024,0,0,0,0
+DM,Benin,2025,0,0,0,0
+DM,Benin,2026,0,0,0,0
+DR,Dominican Republic,1960,550,0,0,550
+DR,Dominican Republic,1961,649,0,0,649
+DR,Dominican Republic,1962,625,0,0,625
+DR,Dominican Republic,1963,755,0,0,755
+DR,Dominican Republic,1964,758,0,0,758
+DR,Dominican Republic,1965,709,0,0,709
+DR,Dominican Republic,1966,576,0,0,576
+DR,Dominican Republic,1967,706,0,0,706
+DR,Dominican Republic,1968,602,0,0,602
+DR,Dominican Republic,1969,795,0,0,795
+DR,Dominican Republic,1970,853,0,0,853
+DR,Dominican Republic,1971,768,0,0,768
+DR,Dominican Republic,1972,767,0,0,767
+DR,Dominican Republic,1973,853,0,0,853
+DR,Dominican Republic,1974,883,0,0,883
+DR,Dominican Republic,1975,1054,0,0,1054
+DR,Dominican Republic,1976,733,0,0,733
+DR,Dominican Republic,1977,1062,0,0,1062
+DR,Dominican Republic,1978,664,0,0,664
+DR,Dominican Republic,1979,1020,0,0,1020
+DR,Dominican Republic,1980,1105,0,0,1105
+DR,Dominican Republic,1981,812,1,0,813
+DR,Dominican Republic,1982,1156,3,0,1159
+DR,Dominican Republic,1983,863,8,0,871
+DR,Dominican Republic,1984,900,13,0,913
+DR,Dominican Republic,1985,895,15,0,910
+DR,Dominican Republic,1986,784,2,0,786
+DR,Dominican Republic,1987,835,2,0,837
+DR,Dominican Republic,1988,724,2,0,726
+DR,Dominican Republic,1989,754,2,0,756
+DR,Dominican Republic,1990,670,2,0,672
+DR,Dominican Republic,1991,700,2,0,702
+DR,Dominican Republic,1992,680,2,0,682
+DR,Dominican Republic,1993,543,2,0,545
+DR,Dominican Republic,1994,698,2,0,700
+DR,Dominican Republic,1995,793,2,0,795
+DR,Dominican Republic,1996,638,0,0,638
+DR,Dominican Republic,1997,941,0,0,941
+DR,Dominican Republic,1998,422,0,0,422
+DR,Dominican Republic,1999,694,0,0,694
+DR,Dominican Republic,2000,439,0,0,439
+DR,Dominican Republic,2001,435,0,0,435
+DR,Dominican Republic,2002,455,0,0,455
+DR,Dominican Republic,2003,351,0,0,351
+DR,Dominican Republic,2004,491,0,0,491
+DR,Dominican Republic,2005,310,0,0,310
+DR,Dominican Republic,2006,390,0,0,390
+DR,Dominican Republic,2007,465,0,0,465
+DR,Dominican Republic,2008,545,0,0,545
+DR,Dominican Republic,2009,500,0,0,500
+DR,Dominican Republic,2010,500,0,0,500
+DR,Dominican Republic,2011,500,0,0,500
+DR,Dominican Republic,2012,475,0,0,475
+DR,Dominican Republic,2013,275,0,0,275
+DR,Dominican Republic,2014,225,0,0,225
+DR,Dominican Republic,2015,225,0,0,225
+DR,Dominican Republic,2016,225,0,0,225
+DR,Dominican Republic,2017,125,0,0,125
+DR,Dominican Republic,2018,125,0,0,125
+DR,Dominican Republic,2019,120,0,0,120
+DR,Dominican Republic,2020,120,0,0,120
+DR,Dominican Republic,2021,125,0,0,125
+DR,Dominican Republic,2022,125,0,0,125
+DR,Dominican Republic,2023,125,0,0,125
+DR,Dominican Republic,2024,125,0,0,125
+DR,Dominican Republic,2025,125,0,0,125
+DR,Dominican Republic,2026,125,0,0,125
+EC,Ecuador,1960,584,10,0,594
+EC,Ecuador,1961,715,13,0,728
+EC,Ecuador,1962,609,17,0,626
+EC,Ecuador,1963,599,20,0,619
+EC,Ecuador,1964,760,23,0,783
+EC,Ecuador,1965,934,26,0,960
+EC,Ecuador,1966,852,47,0,899
+EC,Ecuador,1967,1065,33,0,1098
+EC,Ecuador,1968,925,49,0,974
+EC,Ecuador,1969,541,40,0,581
+EC,Ecuador,1970,1142,113,0,1255
+EC,Ecuador,1971,915,112,0,1027
+EC,Ecuador,1972,922,137,0,1059
+EC,Ecuador,1973,1202,212,0,1414
+EC,Ecuador,1974,798,163,0,961
+EC,Ecuador,1975,996,248,0,1244
+EC,Ecuador,1976,1042,347,0,1389
+EC,Ecuador,1977,1065,369,0,1434
+EC,Ecuador,1978,1214,426,0,1640
+EC,Ecuador,1979,1179,430,0,1609
+EC,Ecuador,1980,1021,496,0,1517
+EC,Ecuador,1981,1247,545,0,1792
+EC,Ecuador,1982,1009,791,0,1800
+EC,Ecuador,1983,610,770,0,1380
+EC,Ecuador,1984,700,800,0,1500
+EC,Ecuador,1985,1164,802,0,1966
+EC,Ecuador,1986,1368,900,0,2268
+EC,Ecuador,1987,931,732,0,1663
+EC,Ecuador,1988,1197,953,0,2150
+EC,Ecuador,1989,1150,1000,0,2150
+EC,Ecuador,1990,950,880,0,1830
+EC,Ecuador,1991,900,800,0,1700
+EC,Ecuador,1992,820,740,0,1560
+EC,Ecuador,1993,1200,950,0,2150
+EC,Ecuador,1994,1500,1050,0,2550
+EC,Ecuador,1995,1050,850,0,1900
+EC,Ecuador,1996,860,955,0,1815
+EC,Ecuador,1997,490,740,0,1230
+EC,Ecuador,1998,722,600,0,1322
+EC,Ecuador,1999,712,583,0,1295
+EC,Ecuador,2000,555,450,0,1005
+EC,Ecuador,2001,505,405,0,910
+EC,Ecuador,2002,410,380,0,790
+EC,Ecuador,2003,387,305,0,692
+EC,Ecuador,2004,398,335,0,733
+EC,Ecuador,2005,475,360,0,835
+EC,Ecuador,2006,500,375,0,875
+EC,Ecuador,2007,475,350,0,825
+EC,Ecuador,2008,360,275,0,635
+EC,Ecuador,2009,400,285,0,685
+EC,Ecuador,2010,400,250,0,650
+EC,Ecuador,2011,400,230,0,630
+EC,Ecuador,2012,315,150,0,465
+EC,Ecuador,2013,135,85,0,220
+EC,Ecuador,2014,120,135,0,255
+EC,Ecuador,2015,100,125,0,225
+EC,Ecuador,2016,70,100,0,170
+EC,Ecuador,2017,95,110,0,205
+EC,Ecuador,2018,140,115,0,255
+EC,Ecuador,2019,155,120,0,275
+EC,Ecuador,2020,88,167,0,255
+EC,Ecuador,2021,90,170,0,260
+EC,Ecuador,2022,113,241,0,354
+EC,Ecuador,2023,120,250,0,370
+EC,Ecuador,2024,105,250,0,355
+EC,Ecuador,2025,100,250,0,350
+EC,Ecuador,2026,100,250,0,350
+EK,Equatorial Guinea,1960,0,60,60,120
+EK,Equatorial Guinea,1961,0,60,60,120
+EK,Equatorial Guinea,1962,0,60,60,120
+EK,Equatorial Guinea,1963,0,60,60,120
+EK,Equatorial Guinea,1964,0,65,65,130
+EK,Equatorial Guinea,1965,0,63,63,126
+EK,Equatorial Guinea,1966,0,65,65,130
+EK,Equatorial Guinea,1967,0,73,73,146
+EK,Equatorial Guinea,1968,0,63,63,126
+EK,Equatorial Guinea,1969,0,60,60,120
+EK,Equatorial Guinea,1970,0,60,60,120
+EK,Equatorial Guinea,1971,0,58,58,116
+EK,Equatorial Guinea,1972,0,25,20,45
+EK,Equatorial Guinea,1973,0,30,25,55
+EK,Equatorial Guinea,1974,0,35,35,70
+EK,Equatorial Guinea,1975,0,15,10,25
+EK,Equatorial Guinea,1976,0,5,5,10
+EK,Equatorial Guinea,1977,0,5,5,10
+EK,Equatorial Guinea,1978,0,5,5,10
+EK,Equatorial Guinea,1979,0,5,5,10
+EK,Equatorial Guinea,1980,0,7,8,15
+EK,Equatorial Guinea,1981,0,9,11,20
+EK,Equatorial Guinea,1982,0,8,7,15
+EK,Equatorial Guinea,1983,0,8,7,15
+EK,Equatorial Guinea,1984,0,8,7,15
+EK,Equatorial Guinea,1985,0,8,7,15
+EK,Equatorial Guinea,1986,0,10,8,18
+EK,Equatorial Guinea,1987,0,11,7,18
+EK,Equatorial Guinea,1988,0,8,7,15
+EK,Equatorial Guinea,1989,0,9,6,15
+EK,Equatorial Guinea,1990,0,15,0,15
+EK,Equatorial Guinea,1991,0,15,0,15
+EK,Equatorial Guinea,1992,0,15,0,15
+EK,Equatorial Guinea,1993,0,0,0,0
+EK,Equatorial Guinea,1994,0,3,0,3
+EK,Equatorial Guinea,1995,0,2,0,2
+EK,Equatorial Guinea,1996,0,1,0,1
+EK,Equatorial Guinea,1997,0,2,0,2
+EK,Equatorial Guinea,1998,0,1,0,1
+EK,Equatorial Guinea,1999,0,0,0,0
+EK,Equatorial Guinea,2000,0,0,0,0
+EK,Equatorial Guinea,2001,0,0,0,0
+EK,Equatorial Guinea,2002,0,0,0,0
+EK,Equatorial Guinea,2003,0,0,0,0
+EK,Equatorial Guinea,2004,0,0,0,0
+EK,Equatorial Guinea,2005,0,0,0,0
+EK,Equatorial Guinea,2006,0,0,0,0
+EK,Equatorial Guinea,2007,0,0,0,0
+EK,Equatorial Guinea,2008,0,0,0,0
+EK,Equatorial Guinea,2009,0,0,0,0
+EK,Equatorial Guinea,2010,0,0,0,0
+EK,Equatorial Guinea,2011,0,0,0,0
+EK,Equatorial Guinea,2012,0,0,0,0
+EK,Equatorial Guinea,2013,0,0,0,0
+EK,Equatorial Guinea,2014,0,0,0,0
+EK,Equatorial Guinea,2015,0,0,0,0
+EK,Equatorial Guinea,2016,0,0,0,0
+EK,Equatorial Guinea,2017,0,0,0,0
+EK,Equatorial Guinea,2018,0,0,0,0
+EK,Equatorial Guinea,2019,0,0,0,0
+EK,Equatorial Guinea,2020,0,0,0,0
+EK,Equatorial Guinea,2021,0,0,0,0
+EK,Equatorial Guinea,2022,0,0,0,0
+EK,Equatorial Guinea,2023,0,0,0,0
+EK,Equatorial Guinea,2024,0,0,0,0
+EK,Equatorial Guinea,2025,0,0,0,0
+EK,Equatorial Guinea,2026,0,0,0,0
+ES,El Salvador,1960,1452,0,0,1452
+ES,El Salvador,1961,1930,0,0,1930
+ES,El Salvador,1962,1638,0,0,1638
+ES,El Salvador,1963,1904,0,0,1904
+ES,El Salvador,1964,2052,0,0,2052
+ES,El Salvador,1965,1810,0,0,1810
+ES,El Salvador,1966,1935,0,0,1935
+ES,El Salvador,1967,2393,0,0,2393
+ES,El Salvador,1968,1817,0,0,1817
+ES,El Salvador,1969,2468,0,0,2468
+ES,El Salvador,1970,2054,0,0,2054
+ES,El Salvador,1971,2680,0,0,2680
+ES,El Salvador,1972,2238,0,0,2238
+ES,El Salvador,1973,2370,0,0,2370
+ES,El Salvador,1974,3800,0,0,3800
+ES,El Salvador,1975,2030,0,0,2030
+ES,El Salvador,1976,2610,0,0,2610
+ES,El Salvador,1977,2800,0,0,2800
+ES,El Salvador,1978,3423,0,0,3423
+ES,El Salvador,1979,3322,0,0,3322
+ES,El Salvador,1980,2940,0,0,2940
+ES,El Salvador,1981,2886,0,0,2886
+ES,El Salvador,1982,2800,0,0,2800
+ES,El Salvador,1983,2400,0,0,2400
+ES,El Salvador,1984,2680,0,0,2680
+ES,El Salvador,1985,2300,0,0,2300
+ES,El Salvador,1986,2275,0,0,2275
+ES,El Salvador,1987,2538,0,0,2538
+ES,El Salvador,1988,1492,0,0,1492
+ES,El Salvador,1989,2787,0,0,2787
+ES,El Salvador,1990,2603,0,0,2603
+ES,El Salvador,1991,2357,0,0,2357
+ES,El Salvador,1992,2894,0,0,2894
+ES,El Salvador,1993,2361,0,0,2361
+ES,El Salvador,1994,2314,0,0,2314
+ES,El Salvador,1995,2325,0,0,2325
+ES,El Salvador,1996,2498,0,0,2498
+ES,El Salvador,1997,2040,0,0,2040
+ES,El Salvador,1998,1860,0,0,1860
+ES,El Salvador,1999,2612,0,0,2612
+ES,El Salvador,2000,1624,0,0,1624
+ES,El Salvador,2001,1610,0,0,1610
+ES,El Salvador,2002,1351,0,0,1351
+ES,El Salvador,2003,1343,0,0,1343
+ES,El Salvador,2004,1329,0,0,1329
+ES,El Salvador,2005,1387,0,0,1387
+ES,El Salvador,2006,1400,0,0,1400
+ES,El Salvador,2007,1650,0,0,1650
+ES,El Salvador,2008,1550,0,0,1550
+ES,El Salvador,2009,1300,0,0,1300
+ES,El Salvador,2010,1860,0,0,1860
+ES,El Salvador,2011,1200,0,0,1200
+ES,El Salvador,2012,1250,0,0,1250
+ES,El Salvador,2013,550,0,0,550
+ES,El Salvador,2014,700,0,0,700
+ES,El Salvador,2015,560,0,0,560
+ES,El Salvador,2016,600,0,0,600
+ES,El Salvador,2017,660,0,0,660
+ES,El Salvador,2018,654,0,0,654
+ES,El Salvador,2019,510,0,0,510
+ES,El Salvador,2020,540,0,0,540
+ES,El Salvador,2021,600,0,0,600
+ES,El Salvador,2022,550,0,0,550
+ES,El Salvador,2023,604,0,0,604
+ES,El Salvador,2024,581,0,0,581
+ES,El Salvador,2025,586,0,0,586
+ES,El Salvador,2026,542,0,0,542
+ET,Ethiopia,1960,1687,0,0,1687
+ET,Ethiopia,1961,2007,0,0,2007
+ET,Ethiopia,1962,2073,0,0,2073
+ET,Ethiopia,1963,2205,0,0,2205
+ET,Ethiopia,1964,2416,0,0,2416
+ET,Ethiopia,1965,2234,0,0,2234
+ET,Ethiopia,1966,2426,0,0,2426
+ET,Ethiopia,1967,2153,0,0,2153
+ET,Ethiopia,1968,1988,0,0,1988
+ET,Ethiopia,1969,2991,0,0,2991
+ET,Ethiopia,1970,2589,0,0,2589
+ET,Ethiopia,1971,2290,0,0,2290
+ET,Ethiopia,1972,2580,0,0,2580
+ET,Ethiopia,1973,2187,0,0,2187
+ET,Ethiopia,1974,2488,0,0,2488
+ET,Ethiopia,1975,2611,0,0,2611
+ET,Ethiopia,1976,2782,0,0,2782
+ET,Ethiopia,1977,3143,0,0,3143
+ET,Ethiopia,1978,3142,0,0,3142
+ET,Ethiopia,1979,3188,0,0,3188
+ET,Ethiopia,1980,3264,0,0,3264
+ET,Ethiopia,1981,3212,0,0,3212
+ET,Ethiopia,1982,3350,0,0,3350
+ET,Ethiopia,1983,3300,0,0,3300
+ET,Ethiopia,1984,2587,0,0,2587
+ET,Ethiopia,1985,2833,0,0,2833
+ET,Ethiopia,1986,2700,0,0,2700
+ET,Ethiopia,1987,3200,0,0,3200
+ET,Ethiopia,1988,3400,0,0,3400
+ET,Ethiopia,1989,3400,0,0,3400
+ET,Ethiopia,1990,3500,0,0,3500
+ET,Ethiopia,1991,3000,0,0,3000
+ET,Ethiopia,1992,3500,0,0,3500
+ET,Ethiopia,1993,3700,0,0,3700
+ET,Ethiopia,1994,3800,0,0,3800
+ET,Ethiopia,1995,3800,0,0,3800
+ET,Ethiopia,1996,3800,0,0,3800
+ET,Ethiopia,1997,3833,0,0,3833
+ET,Ethiopia,1998,3867,0,0,3867
+ET,Ethiopia,1999,3505,0,0,3505
+ET,Ethiopia,2000,2768,0,0,2768
+ET,Ethiopia,2001,3756,0,0,3756
+ET,Ethiopia,2002,3693,0,0,3693
+ET,Ethiopia,2003,3875,0,0,3875
+ET,Ethiopia,2004,4068,0,0,4068
+ET,Ethiopia,2005,4500,0,0,4500
+ET,Ethiopia,2006,5000,0,0,5000
+ET,Ethiopia,2007,5000,0,0,5000
+ET,Ethiopia,2008,5500,0,0,5500
+ET,Ethiopia,2009,6000,0,0,6000
+ET,Ethiopia,2010,6125,0,0,6125
+ET,Ethiopia,2011,6320,0,0,6320
+ET,Ethiopia,2012,6500,0,0,6500
+ET,Ethiopia,2013,6345,0,0,6345
+ET,Ethiopia,2014,6475,0,0,6475
+ET,Ethiopia,2015,6510,0,0,6510
+ET,Ethiopia,2016,6943,0,0,6943
+ET,Ethiopia,2017,7055,0,0,7055
+ET,Ethiopia,2018,7350,0,0,7350
+ET,Ethiopia,2019,7475,0,0,7475
+ET,Ethiopia,2020,7600,0,0,7600
+ET,Ethiopia,2021,8150,0,0,8150
+ET,Ethiopia,2022,7300,0,0,7300
+ET,Ethiopia,2023,9130,0,0,9130
+ET,Ethiopia,2024,11460,0,0,11460
+ET,Ethiopia,2025,11560,0,0,11560
+ET,Ethiopia,2026,12100,0,0,12100
+GB,Gabon,1960,0,14,0,14
+GB,Gabon,1961,0,19,0,19
+GB,Gabon,1962,0,24,0,24
+GB,Gabon,1963,0,16,0,16
+GB,Gabon,1964,0,24,0,24
+GB,Gabon,1965,0,18,0,18
+GB,Gabon,1966,0,13,0,13
+GB,Gabon,1967,0,16,0,16
+GB,Gabon,1968,0,7,0,7
+GB,Gabon,1969,0,11,0,11
+GB,Gabon,1970,0,17,0,17
+GB,Gabon,1971,0,11,0,11
+GB,Gabon,1972,0,12,0,12
+GB,Gabon,1973,0,6,0,6
+GB,Gabon,1974,0,3,0,3
+GB,Gabon,1975,0,1,0,1
+GB,Gabon,1976,0,7,0,7
+GB,Gabon,1977,0,3,0,3
+GB,Gabon,1978,0,6,0,6
+GB,Gabon,1979,0,8,0,8
+GB,Gabon,1980,0,8,0,8
+GB,Gabon,1981,0,15,0,15
+GB,Gabon,1982,0,29,0,29
+GB,Gabon,1983,0,35,0,35
+GB,Gabon,1984,0,40,0,40
+GB,Gabon,1985,0,25,0,25
+GB,Gabon,1986,0,12,0,12
+GB,Gabon,1987,0,30,0,30
+GB,Gabon,1988,0,35,0,35
+GB,Gabon,1989,0,30,0,30
+GB,Gabon,1990,0,37,0,37
+GB,Gabon,1991,0,25,0,25
+GB,Gabon,1992,0,25,0,25
+GB,Gabon,1993,0,3,0,3
+GB,Gabon,1994,0,8,0,8
+GB,Gabon,1995,0,2,0,2
+GB,Gabon,1996,0,2,0,2
+GB,Gabon,1997,0,3,0,3
+GB,Gabon,1998,0,4,0,4
+GB,Gabon,1999,0,2,0,2
+GB,Gabon,2000,0,0,0,0
+GB,Gabon,2001,0,1,0,1
+GB,Gabon,2002,0,1,0,1
+GB,Gabon,2003,0,0,0,0
+GB,Gabon,2005,0,0,0,0
+GB,Gabon,2006,0,0,0,0
+GB,Gabon,2007,0,0,0,0
+GB,Gabon,2008,0,0,0,0
+GB,Gabon,2009,0,0,0,0
+GB,Gabon,2010,0,0,0,0
+GB,Gabon,2011,0,0,0,0
+GB,Gabon,2012,0,0,0,0
+GB,Gabon,2013,0,0,0,0
+GB,Gabon,2014,0,0,0,0
+GB,Gabon,2015,0,0,0,0
+GB,Gabon,2016,0,0,0,0
+GB,Gabon,2017,0,0,0,0
+GB,Gabon,2018,0,0,0,0
+GB,Gabon,2019,0,0,0,0
+GB,Gabon,2020,0,0,0,0
+GB,Gabon,2021,0,0,0,0
+GB,Gabon,2022,0,0,0,0
+GB,Gabon,2023,0,0,0,0
+GB,Gabon,2024,0,0,0,0
+GB,Gabon,2025,0,0,0,0
+GB,Gabon,2026,0,0,0,0
+GH,Ghana,1960,0,54,0,54
+GH,Ghana,1961,0,38,0,38
+GH,Ghana,1962,0,40,0,40
+GH,Ghana,1963,0,116,0,116
+GH,Ghana,1964,0,32,0,32
+GH,Ghana,1965,0,100,0,100
+GH,Ghana,1966,0,66,0,66
+GH,Ghana,1967,0,113,0,113
+GH,Ghana,1968,0,92,0,92
+GH,Ghana,1969,0,83,0,83
+GH,Ghana,1970,0,39,0,39
+GH,Ghana,1971,0,58,0,58
+GH,Ghana,1972,0,60,0,60
+GH,Ghana,1973,0,61,0,61
+GH,Ghana,1974,0,78,0,78
+GH,Ghana,1975,0,56,0,56
+GH,Ghana,1976,0,70,0,70
+GH,Ghana,1977,0,32,0,32
+GH,Ghana,1978,0,31,0,31
+GH,Ghana,1979,0,35,0,35
+GH,Ghana,1980,0,27,0,27
+GH,Ghana,1981,0,35,0,35
+GH,Ghana,1982,0,23,0,23
+GH,Ghana,1983,0,20,0,20
+GH,Ghana,1984,0,15,0,15
+GH,Ghana,1985,0,15,0,15
+GH,Ghana,1986,0,18,0,18
+GH,Ghana,1987,0,14,0,14
+GH,Ghana,1988,0,17,0,17
+GH,Ghana,1989,0,17,0,17
+GH,Ghana,1990,0,35,0,35
+GH,Ghana,1991,0,32,0,32
+GH,Ghana,1992,0,20,0,20
+GH,Ghana,1993,0,46,0,46
+GH,Ghana,1994,0,57,0,57
+GH,Ghana,1995,0,57,0,57
+GH,Ghana,1996,0,32,0,32
+GH,Ghana,1997,0,28,0,28
+GH,Ghana,1998,0,55,0,55
+GH,Ghana,1999,0,89,0,89
+GH,Ghana,2000,0,76,0,76
+GH,Ghana,2001,0,13,0,13
+GH,Ghana,2002,0,29,0,29
+GH,Ghana,2003,0,17,0,17
+GH,Ghana,2004,0,13,0,13
+GH,Ghana,2005,0,17,0,17
+GH,Ghana,2006,0,29,0,29
+GH,Ghana,2007,0,27,0,27
+GH,Ghana,2008,0,19,0,19
+GH,Ghana,2009,0,30,0,30
+GH,Ghana,2010,0,57,0,57
+GH,Ghana,2011,0,70,0,70
+GH,Ghana,2012,0,30,0,30
+GH,Ghana,2013,0,6,0,6
+GH,Ghana,2014,0,4,0,4
+GH,Ghana,2015,0,1,0,1
+GH,Ghana,2016,0,1,0,1
+GH,Ghana,2017,0,1,0,1
+GH,Ghana,2018,0,0,0,0
+GH,Ghana,2019,0,0,0,0
+GH,Ghana,2020,0,0,0,0
+GH,Ghana,2021,0,0,0,0
+GH,Ghana,2022,0,0,0,0
+GH,Ghana,2023,0,0,0,0
+GH,Ghana,2024,0,0,0,0
+GH,Ghana,2025,0,0,0,0
+GH,Ghana,2026,0,0,0,0
+GT,Guatemala,1960,1500,0,0,1500
+GT,Guatemala,1961,1700,0,0,1700
+GT,Guatemala,1962,1929,0,0,1929
+GT,Guatemala,1963,1712,0,0,1712
+GT,Guatemala,1964,1660,0,0,1660
+GT,Guatemala,1965,2095,0,0,2095
+GT,Guatemala,1966,1726,0,0,1726
+GT,Guatemala,1967,1792,0,0,1792
+GT,Guatemala,1968,1716,0,0,1716
+GT,Guatemala,1969,1941,0,0,1941
+GT,Guatemala,1970,1965,0,0,1965
+GT,Guatemala,1971,2099,0,0,2099
+GT,Guatemala,1972,2133,0,0,2133
+GT,Guatemala,1973,2352,0,0,2352
+GT,Guatemala,1974,2386,0,0,2386
+GT,Guatemala,1975,2043,0,0,2043
+GT,Guatemala,1976,2213,0,0,2213
+GT,Guatemala,1977,2541,0,0,2541
+GT,Guatemala,1978,2827,0,0,2827
+GT,Guatemala,1979,2647,0,0,2647
+GT,Guatemala,1980,2702,0,0,2702
+GT,Guatemala,1981,2653,0,0,2653
+GT,Guatemala,1982,2530,0,0,2530
+GT,Guatemala,1983,2340,0,0,2340
+GT,Guatemala,1984,2703,0,0,2703
+GT,Guatemala,1985,2650,0,0,2650
+GT,Guatemala,1986,2843,0,0,2843
+GT,Guatemala,1987,3020,0,0,3020
+GT,Guatemala,1988,2977,45,0,3022
+GT,Guatemala,1989,3427,45,0,3472
+GT,Guatemala,1990,3237,45,0,3282
+GT,Guatemala,1991,3518,31,0,3549
+GT,Guatemala,1992,3553,31,0,3584
+GT,Guatemala,1993,3050,28,0,3078
+GT,Guatemala,1994,3473,27,0,3500
+GT,Guatemala,1995,3800,27,0,3827
+GT,Guatemala,1996,4114,27,0,4141
+GT,Guatemala,1997,4173,27,0,4200
+GT,Guatemala,1998,4273,27,0,4300
+GT,Guatemala,1999,4337,27,0,4364
+GT,Guatemala,2000,4537,27,0,4564
+GT,Guatemala,2001,3503,27,0,3530
+GT,Guatemala,2002,3775,27,0,3802
+GT,Guatemala,2003,3644,27,0,3671
+GT,Guatemala,2004,3802,15,0,3817
+GT,Guatemala,2005,3700,15,0,3715
+GT,Guatemala,2006,4040,10,0,4050
+GT,Guatemala,2007,4100,10,0,4110
+GT,Guatemala,2008,3970,10,0,3980
+GT,Guatemala,2009,4000,10,0,4010
+GT,Guatemala,2010,3950,10,0,3960
+GT,Guatemala,2011,4400,10,0,4410
+GT,Guatemala,2012,4000,10,0,4010
+GT,Guatemala,2013,3500,15,0,3515
+GT,Guatemala,2014,3125,60,0,3185
+GT,Guatemala,2015,3125,170,0,3295
+GT,Guatemala,2016,3400,170,0,3570
+GT,Guatemala,2017,3600,180,0,3780
+GT,Guatemala,2018,3520,250,0,3770
+GT,Guatemala,2019,3515,130,0,3645
+GT,Guatemala,2020,3810,120,0,3930
+GT,Guatemala,2021,3410,130,0,3540
+GT,Guatemala,2022,3150,120,0,3270
+GT,Guatemala,2023,3339,130,0,3469
+GT,Guatemala,2024,3140,130,0,3270
+GT,Guatemala,2025,3025,130,0,3155
+GT,Guatemala,2026,3130,130,0,3260
+GU,Guinea,1960,0,200,0,200
+GU,Guinea,1961,0,235,0,235
+GU,Guinea,1962,0,215,0,215
+GU,Guinea,1963,0,175,0,175
+GU,Guinea,1964,0,150,0,150
+GU,Guinea,1965,0,169,0,169
+GU,Guinea,1966,0,61,0,61
+GU,Guinea,1967,0,103,0,103
+GU,Guinea,1968,0,76,0,76
+GU,Guinea,1969,0,111,0,111
+GU,Guinea,1970,0,125,0,125
+GU,Guinea,1971,0,95,0,95
+GU,Guinea,1972,0,97,0,97
+GU,Guinea,1973,0,70,0,70
+GU,Guinea,1974,0,110,0,110
+GU,Guinea,1975,0,73,0,73
+GU,Guinea,1976,0,89,0,89
+GU,Guinea,1977,0,66,0,66
+GU,Guinea,1978,0,109,0,109
+GU,Guinea,1979,0,48,0,48
+GU,Guinea,1980,0,112,0,112
+GU,Guinea,1981,0,64,0,64
+GU,Guinea,1982,0,65,0,65
+GU,Guinea,1983,0,50,0,50
+GU,Guinea,1984,0,30,0,30
+GU,Guinea,1985,0,85,0,85
+GU,Guinea,1986,0,90,0,90
+GU,Guinea,1987,0,95,0,95
+GU,Guinea,1988,0,100,0,100
+GU,Guinea,1989,0,125,0,125
+GU,Guinea,1990,0,125,0,125
+GU,Guinea,1991,0,125,0,125
+GU,Guinea,1992,0,100,0,100
+GU,Guinea,1993,0,64,0,64
+GU,Guinea,1994,0,198,0,198
+GU,Guinea,1995,0,104,0,104
+GU,Guinea,1996,0,148,0,148
+GU,Guinea,1997,0,172,0,172
+GU,Guinea,1998,0,421,0,421
+GU,Guinea,1999,0,382,0,382
+GU,Guinea,2000,0,368,0,368
+GU,Guinea,2001,0,236,0,236
+GU,Guinea,2002,0,328,0,328
+GU,Guinea,2003,0,366,0,366
+GU,Guinea,2004,0,316,0,316
+GU,Guinea,2005,0,525,0,525
+GU,Guinea,2006,0,400,0,400
+GU,Guinea,2007,0,250,0,250
+GU,Guinea,2008,0,400,0,400
+GU,Guinea,2009,0,445,0,445
+GU,Guinea,2010,0,325,0,325
+GU,Guinea,2011,0,425,0,425
+GU,Guinea,2012,0,165,0,165
+GU,Guinea,2013,0,50,0,50
+GU,Guinea,2014,0,150,0,150
+GU,Guinea,2015,0,280,0,280
+GU,Guinea,2016,0,200,0,200
+GU,Guinea,2017,0,190,0,190
+GU,Guinea,2018,0,70,0,70
+GU,Guinea,2019,0,145,0,145
+GU,Guinea,2020,0,70,0,70
+GU,Guinea,2021,0,300,0,300
+GU,Guinea,2022,0,115,0,115
+GU,Guinea,2023,0,260,0,260
+GU,Guinea,2024,0,110,0,110
+GU,Guinea,2025,0,75,0,75
+GU,Guinea,2026,0,125,0,125
+GY,Guyana,1960,0,1,4,5
+GY,Guyana,1961,0,1,3,4
+GY,Guyana,1962,0,1,4,5
+GY,Guyana,1963,0,1,4,5
+GY,Guyana,1964,0,2,8,10
+GY,Guyana,1965,0,3,16,19
+GY,Guyana,1966,0,3,16,19
+GY,Guyana,1967,0,3,16,19
+GY,Guyana,1968,0,3,17,20
+GY,Guyana,1969,0,3,15,18
+GY,Guyana,1970,0,3,8,11
+GY,Guyana,1971,0,3,9,12
+GY,Guyana,1972,0,3,9,12
+GY,Guyana,1973,0,3,7,10
+GY,Guyana,1974,0,5,10,15
+GY,Guyana,1975,0,5,10,15
+GY,Guyana,1976,0,5,12,17
+GY,Guyana,1977,0,6,12,18
+GY,Guyana,1978,0,6,13,19
+GY,Guyana,1979,0,8,14,22
+GY,Guyana,1980,0,7,19,26
+GY,Guyana,1981,0,7,19,26
+GY,Guyana,1982,0,5,16,21
+GY,Guyana,1983,0,3,14,17
+GY,Guyana,1984,0,3,12,15
+GY,Guyana,1985,0,2,10,12
+GY,Guyana,1986,0,2,5,7
+GY,Guyana,1987,0,2,2,4
+GY,Guyana,1988,0,2,3,5
+GY,Guyana,1989,0,2,3,5
+GY,Guyana,1990,0,5,0,5
+GY,Guyana,1991,0,5,0,5
+GY,Guyana,1992,0,5,0,5
+GY,Guyana,1993,5,0,0,5
+GY,Guyana,1994,5,0,0,5
+GY,Guyana,1995,5,0,0,5
+GY,Guyana,1996,5,0,0,5
+GY,Guyana,1997,5,0,0,5
+GY,Guyana,1998,2,0,0,2
+GY,Guyana,1999,2,0,0,2
+GY,Guyana,2001,3,0,0,3
+GY,Guyana,2002,3,0,0,3
+GY,Guyana,2003,3,0,0,3
+GY,Guyana,2004,2,0,0,2
+GY,Guyana,2005,0,0,0,0
+GY,Guyana,2006,0,0,0,0
+GY,Guyana,2007,0,0,0,0
+GY,Guyana,2008,0,0,0,0
+GY,Guyana,2009,0,0,0,0
+GY,Guyana,2010,0,0,0,0
+GY,Guyana,2011,0,0,0,0
+GY,Guyana,2012,0,0,0,0
+GY,Guyana,2013,0,0,0,0
+GY,Guyana,2014,0,0,0,0
+GY,Guyana,2015,0,0,0,0
+GY,Guyana,2016,0,0,0,0
+GY,Guyana,2017,0,0,0,0
+GY,Guyana,2018,0,0,0,0
+GY,Guyana,2019,0,0,0,0
+GY,Guyana,2020,0,0,0,0
+GY,Guyana,2021,0,0,0,0
+GY,Guyana,2022,0,0,0,0
+GY,Guyana,2023,0,0,0,0
+GY,Guyana,2024,0,0,0,0
+GY,Guyana,2025,0,0,0,0
+GY,Guyana,2026,0,0,0,0
+HA,Haiti,1960,421,0,0,421
+HA,Haiti,1961,746,0,0,746
+HA,Haiti,1962,590,0,0,590
+HA,Haiti,1963,562,0,0,562
+HA,Haiti,1964,588,0,0,588
+HA,Haiti,1965,613,0,0,613
+HA,Haiti,1966,446,0,0,446
+HA,Haiti,1967,534,0,0,534
+HA,Haiti,1968,564,0,0,564
+HA,Haiti,1969,458,0,0,458
+HA,Haiti,1970,564,0,0,564
+HA,Haiti,1971,604,0,0,604
+HA,Haiti,1972,536,0,0,536
+HA,Haiti,1973,580,0,0,580
+HA,Haiti,1974,590,0,0,590
+HA,Haiti,1975,575,0,0,575
+HA,Haiti,1976,486,0,0,486
+HA,Haiti,1977,519,0,0,519
+HA,Haiti,1978,443,0,0,443
+HA,Haiti,1979,669,0,0,669
+HA,Haiti,1980,465,0,0,465
+HA,Haiti,1981,494,0,0,494
+HA,Haiti,1982,674,0,0,674
+HA,Haiti,1983,630,0,0,630
+HA,Haiti,1984,592,0,0,592
+HA,Haiti,1985,505,0,0,505
+HA,Haiti,1986,463,0,0,463
+HA,Haiti,1987,526,0,0,526
+HA,Haiti,1988,479,0,0,479
+HA,Haiti,1989,527,0,0,527
+HA,Haiti,1990,580,0,0,580
+HA,Haiti,1991,550,0,0,550
+HA,Haiti,1992,500,0,0,500
+HA,Haiti,1993,459,0,0,459
+HA,Haiti,1994,358,0,0,358
+HA,Haiti,1995,506,0,0,506
+HA,Haiti,1996,429,0,0,429
+HA,Haiti,1997,435,0,0,435
+HA,Haiti,1998,442,0,0,442
+HA,Haiti,1999,399,0,0,399
+HA,Haiti,2000,420,0,0,420
+HA,Haiti,2001,403,0,0,403
+HA,Haiti,2002,374,0,0,374
+HA,Haiti,2003,350,0,0,350
+HA,Haiti,2004,340,0,0,340
+HA,Haiti,2005,331,0,0,331
+HA,Haiti,2006,337,0,0,337
+HA,Haiti,2007,335,0,0,335
+HA,Haiti,2008,360,0,0,360
+HA,Haiti,2009,275,0,0,275
+HA,Haiti,2010,350,0,0,350
+HA,Haiti,2011,350,0,0,350
+HA,Haiti,2012,325,0,0,325
+HA,Haiti,2013,325,0,0,325
+HA,Haiti,2014,325,0,0,325
+HA,Haiti,2015,0,0,0,0
+HA,Haiti,2016,0,0,0,0
+HA,Haiti,2017,0,0,0,0
+HA,Haiti,2018,0,0,0,0
+HA,Haiti,2019,0,0,0,0
+HA,Haiti,2020,0,0,0,0
+HA,Haiti,2021,0,0,0,0
+HA,Haiti,2022,0,0,0,0
+HA,Haiti,2023,0,0,0,0
+HA,Haiti,2024,0,0,0,0
+HA,Haiti,2025,0,0,0,0
+HA,Haiti,2026,0,0,0,0
+HO,Honduras,1960,291,0,0,291
+HO,Honduras,1961,315,0,0,315
+HO,Honduras,1962,405,0,0,405
+HO,Honduras,1963,390,0,0,390
+HO,Honduras,1964,479,0,0,479
+HO,Honduras,1965,461,0,0,461
+HO,Honduras,1966,431,0,0,431
+HO,Honduras,1967,495,0,0,495
+HO,Honduras,1968,514,0,0,514
+HO,Honduras,1969,443,0,0,443
+HO,Honduras,1970,545,0,0,545
+HO,Honduras,1971,586,0,0,586
+HO,Honduras,1972,759,0,0,759
+HO,Honduras,1973,689,0,0,689
+HO,Honduras,1974,983,0,0,983
+HO,Honduras,1975,847,0,0,847
+HO,Honduras,1976,691,0,0,691
+HO,Honduras,1977,1036,0,0,1036
+HO,Honduras,1978,1132,0,0,1132
+HO,Honduras,1979,1137,0,0,1137
+HO,Honduras,1980,1265,0,0,1265
+HO,Honduras,1981,1200,0,0,1200
+HO,Honduras,1982,1500,0,0,1500
+HO,Honduras,1983,1310,0,0,1310
+HO,Honduras,1984,1400,0,0,1400
+HO,Honduras,1985,1062,0,0,1062
+HO,Honduras,1986,1535,0,0,1535
+HO,Honduras,1987,1553,0,0,1553
+HO,Honduras,1988,1635,0,0,1635
+HO,Honduras,1989,1928,0,0,1928
+HO,Honduras,1990,1685,0,0,1685
+HO,Honduras,1991,2255,0,0,2255
+HO,Honduras,1992,1981,0,0,1981
+HO,Honduras,1993,2060,0,0,2060
+HO,Honduras,1994,2295,0,0,2295
+HO,Honduras,1995,2254,0,0,2254
+HO,Honduras,1996,2279,0,0,2279
+HO,Honduras,1997,2905,0,0,2905
+HO,Honduras,1998,2494,0,0,2494
+HO,Honduras,1999,3067,0,0,3067
+HO,Honduras,2000,2821,0,0,2821
+HO,Honduras,2001,3098,0,0,3098
+HO,Honduras,2002,2496,0,0,2496
+HO,Honduras,2003,2968,0,0,2968
+HO,Honduras,2004,2575,0,0,2575
+HO,Honduras,2005,3204,0,0,3204
+HO,Honduras,2006,3460,0,0,3460
+HO,Honduras,2007,3642,0,0,3642
+HO,Honduras,2008,3225,0,0,3225
+HO,Honduras,2009,3550,0,0,3550
+HO,Honduras,2010,3975,0,0,3975
+HO,Honduras,2011,5600,0,0,5600
+HO,Honduras,2012,4725,0,0,4725
+HO,Honduras,2013,4400,0,0,4400
+HO,Honduras,2014,5100,0,0,5100
+HO,Honduras,2015,5300,0,0,5300
+HO,Honduras,2016,7510,0,0,7510
+HO,Honduras,2017,7600,0,0,7600
+HO,Honduras,2018,7100,0,0,7100
+HO,Honduras,2019,5200,0,0,5200
+HO,Honduras,2020,6500,0,0,6500
+HO,Honduras,2021,4800,0,0,4800
+HO,Honduras,2022,5700,0,0,5700
+HO,Honduras,2023,5050,0,0,5050
+HO,Honduras,2024,5200,0,0,5200
+HO,Honduras,2025,5530,0,0,5530
+HO,Honduras,2026,6030,0,0,6030
+ID,Indonesia,1960,125,1202,3,1330
+ID,Indonesia,1961,131,1723,3,1857
+ID,Indonesia,1962,126,1630,3,1759
+ID,Indonesia,1963,155,2095,3,2253
+ID,Indonesia,1964,141,1839,3,1983
+ID,Indonesia,1965,153,2034,3,2190
+ID,Indonesia,1966,172,2272,3,2447
+ID,Indonesia,1967,207,2796,3,3006
+ID,Indonesia,1968,183,2356,3,2542
+ID,Indonesia,1969,186,2437,3,2626
+ID,Indonesia,1970,168,2159,3,2330
+ID,Indonesia,1971,174,2121,3,2298
+ID,Indonesia,1972,170,2063,3,2236
+ID,Indonesia,1973,191,2415,3,2609
+ID,Indonesia,1974,202,2447,3,2652
+ID,Indonesia,1975,226,2820,3,3049
+ID,Indonesia,1976,229,3152,3,3384
+ID,Indonesia,1977,242,3666,3,3911
+ID,Indonesia,1978,260,4528,0,4788
+ID,Indonesia,1979,229,4574,0,4803
+ID,Indonesia,1980,215,5150,0,5365
+ID,Indonesia,1981,231,5554,0,5785
+ID,Indonesia,1982,247,4503,0,4750
+ID,Indonesia,1983,297,5218,0,5515
+ID,Indonesia,1984,350,5250,0,5600
+ID,Indonesia,1985,400,5400,0,5800
+ID,Indonesia,1986,500,5400,0,5900
+ID,Indonesia,1987,405,5560,0,5965
+ID,Indonesia,1988,410,6340,0,6750
+ID,Indonesia,1989,415,6685,0,7100
+ID,Indonesia,1990,435,7045,0,7480
+ID,Indonesia,1991,435,6665,0,7100
+ID,Indonesia,1992,450,6900,0,7350
+ID,Indonesia,1993,490,6910,0,7400
+ID,Indonesia,1994,430,5970,0,6400
+ID,Indonesia,1995,375,5425,0,5800
+ID,Indonesia,1996,550,7350,0,7900
+ID,Indonesia,1997,450,6550,0,7000
+ID,Indonesia,1998,485,6465,0,6950
+ID,Indonesia,1999,460,6200,0,6660
+ID,Indonesia,2000,455,6040,0,6495
+ID,Indonesia,2001,495,5665,0,6160
+ID,Indonesia,2002,550,6250,0,6800
+ID,Indonesia,2003,650,6600,0,7250
+ID,Indonesia,2004,950,7500,0,8450
+ID,Indonesia,2005,1050,8400,0,9450
+ID,Indonesia,2006,900,6600,0,7500
+ID,Indonesia,2007,800,7200,0,8000
+ID,Indonesia,2008,1300,8700,0,10000
+ID,Indonesia,2009,1500,9000,0,10500
+ID,Indonesia,2010,1375,7950,0,9325
+ID,Indonesia,2011,1300,6670,0,7970
+ID,Indonesia,2012,2000,9900,0,11900
+ID,Indonesia,2013,1900,10000,0,11900
+ID,Indonesia,2014,1270,9200,0,10470
+ID,Indonesia,2015,1500,10600,0,12100
+ID,Indonesia,2016,1300,9300,0,10600
+ID,Indonesia,2017,1000,9400,0,10400
+ID,Indonesia,2018,1200,9400,0,10600
+ID,Indonesia,2019,1250,9450,0,10700
+ID,Indonesia,2020,1300,9400,0,10700
+ID,Indonesia,2021,1280,9300,0,10580
+ID,Indonesia,2022,1200,9500,0,10700
+ID,Indonesia,2023,1350,6800,0,8150
+ID,Indonesia,2024,1400,9300,0,10700
+ID,Indonesia,2025,1370,11000,0,12370
+ID,Indonesia,2026,1380,10000,0,11380
+IN,India,1960,710,515,0,1225
+IN,India,1961,489,280,0,769
+IN,India,1962,620,408,0,1028
+IN,India,1963,699,542,0,1241
+IN,India,1964,700,308,0,1008
+IN,India,1965,694,460,0,1154
+IN,India,1966,738,646,0,1384
+IN,India,1967,684,362,0,1046
+IN,India,1968,885,425,0,1310
+IN,India,1969,682,466,0,1148
+IN,India,1970,1013,901,0,1914
+IN,India,1971,789,447,0,1236
+IN,India,1972,1104,522,0,1626
+IN,India,1973,769,739,0,1508
+IN,India,1974,1125,537,0,1662
+IN,India,1975,885,613,0,1498
+IN,India,1976,1090,663,0,1753
+IN,India,1977,1132,899,0,2031
+IN,India,1978,1085,757,0,1842
+IN,India,1979,1189,1306,0,2495
+IN,India,1980,1000,977,0,1977
+IN,India,1981,1300,1240,0,2540
+IN,India,1982,1241,929,0,2170
+IN,India,1983,1134,533,0,1667
+IN,India,1984,1330,1920,0,3250
+IN,India,1985,1098,935,0,2033
+IN,India,1986,1600,1750,0,3350
+IN,India,1987,1080,970,0,2050
+IN,India,1988,1620,1970,0,3590
+IN,India,1989,1200,950,0,2150
+IN,India,1990,1540,1430,0,2970
+IN,India,1991,1580,1620,0,3200
+IN,India,1992,1300,1400,0,2700
+IN,India,1993,1475,1990,0,3465
+IN,India,1994,1340,1720,0,3060
+IN,India,1995,1710,2007,0,3717
+IN,India,1996,1508,1909,0,3417
+IN,India,1997,1655,2150,0,3805
+IN,India,1998,1615,2800,0,4415
+IN,India,1999,1985,2885,0,4870
+IN,India,2000,1740,3280,0,5020
+IN,India,2001,2350,2660,0,5010
+IN,India,2002,2048,2540,0,4588
+IN,India,2003,2073,2435,0,4508
+IN,India,2004,1725,2870,0,4595
+IN,India,2005,1570,3000,0,4570
+IN,India,2006,1660,3140,0,4800
+IN,India,2007,1540,2825,0,4365
+IN,India,2008,1325,3050,0,4375
+IN,India,2009,1575,3250,0,4825
+IN,India,2010,1570,3465,0,5035
+IN,India,2011,1690,3540,0,5230
+IN,India,2012,1643,3660,0,5303
+IN,India,2013,1703,3372,0,5075
+IN,India,2014,1630,3810,0,5440
+IN,India,2015,1725,4075,0,5800
+IN,India,2016,1583,3617,0,5200
+IN,India,2017,1583,3683,0,5266
+IN,India,2018,1583,3742,0,5325
+IN,India,2019,1450,3517,0,4967
+IN,India,2020,1650,3917,0,5567
+IN,India,2021,1583,4117,0,5700
+IN,India,2022,1667,4200,0,5867
+IN,India,2023,1480,5080,0,6560
+IN,India,2024,1762,4297,0,6059
+IN,India,2025,1730,4700,0,6430
+IN,India,2026,1560,4580,0,6140
+IV,Cote d'Ivoire,1960,0,3134,0,3134
+IV,Cote d'Ivoire,1961,0,1608,0,1608
+IV,Cote d'Ivoire,1962,0,3140,0,3140
+IV,Cote d'Ivoire,1963,0,4275,0,4275
+IV,Cote d'Ivoire,1964,0,3342,0,3342
+IV,Cote d'Ivoire,1965,0,4343,0,4343
+IV,Cote d'Ivoire,1966,0,2010,0,2010
+IV,Cote d'Ivoire,1967,0,4712,0,4712
+IV,Cote d'Ivoire,1968,0,3328,0,3328
+IV,Cote d'Ivoire,1969,0,4414,0,4414
+IV,Cote d'Ivoire,1970,0,3996,0,3996
+IV,Cote d'Ivoire,1971,0,4544,0,4544
+IV,Cote d'Ivoire,1972,0,4007,0,4007
+IV,Cote d'Ivoire,1973,0,4368,0,4368
+IV,Cote d'Ivoire,1974,0,4486,0,4486
+IV,Cote d'Ivoire,1975,0,5266,0,5266
+IV,Cote d'Ivoire,1976,0,4867,0,4867
+IV,Cote d'Ivoire,1977,0,3123,0,3123
+IV,Cote d'Ivoire,1978,0,4742,0,4742
+IV,Cote d'Ivoire,1979,0,3973,0,3973
+IV,Cote d'Ivoire,1980,0,6090,0,6090
+IV,Cote d'Ivoire,1981,0,4160,0,4160
+IV,Cote d'Ivoire,1982,0,4510,0,4510
+IV,Cote d'Ivoire,1983,0,1420,0,1420
+IV,Cote d'Ivoire,1984,0,4609,0,4609
+IV,Cote d'Ivoire,1985,0,4420,0,4420
+IV,Cote d'Ivoire,1986,0,4405,0,4405
+IV,Cote d'Ivoire,1987,0,3103,0,3103
+IV,Cote d'Ivoire,1988,0,3989,0,3989
+IV,Cote d'Ivoire,1989,0,4734,0,4734
+IV,Cote d'Ivoire,1990,0,3300,0,3300
+IV,Cote d'Ivoire,1991,0,3967,0,3967
+IV,Cote d'Ivoire,1992,0,2500,0,2500
+IV,Cote d'Ivoire,1993,0,2700,0,2700
+IV,Cote d'Ivoire,1994,0,3733,0,3733
+IV,Cote d'Ivoire,1995,0,2900,0,2900
+IV,Cote d'Ivoire,1996,0,5333,0,5333
+IV,Cote d'Ivoire,1997,0,4080,0,4080
+IV,Cote d'Ivoire,1998,0,2217,0,2217
+IV,Cote d'Ivoire,1999,0,5700,0,5700
+IV,Cote d'Ivoire,2000,0,5100,0,5100
+IV,Cote d'Ivoire,2001,0,3568,0,3568
+IV,Cote d'Ivoire,2002,0,1825,0,1825
+IV,Cote d'Ivoire,2003,0,2689,0,2689
+IV,Cote d'Ivoire,2004,0,1801,0,1801
+IV,Cote d'Ivoire,2005,0,2062,0,2062
+IV,Cote d'Ivoire,2006,0,2447,0,2447
+IV,Cote d'Ivoire,2007,0,2098,0,2098
+IV,Cote d'Ivoire,2008,0,1853,0,1853
+IV,Cote d'Ivoire,2009,0,2350,0,2350
+IV,Cote d'Ivoire,2010,0,1600,0,1600
+IV,Cote d'Ivoire,2011,0,1600,0,1600
+IV,Cote d'Ivoire,2012,0,1750,0,1750
+IV,Cote d'Ivoire,2013,0,1675,0,1675
+IV,Cote d'Ivoire,2014,0,1400,0,1400
+IV,Cote d'Ivoire,2015,0,1600,0,1600
+IV,Cote d'Ivoire,2016,0,1090,0,1090
+IV,Cote d'Ivoire,2017,0,1250,0,1250
+IV,Cote d'Ivoire,2018,0,2000,0,2000
+IV,Cote d'Ivoire,2019,0,1775,0,1775
+IV,Cote d'Ivoire,2020,0,910,0,910
+IV,Cote d'Ivoire,2021,0,1110,0,1110
+IV,Cote d'Ivoire,2022,0,1020,0,1020
+IV,Cote d'Ivoire,2023,0,1325,0,1325
+IV,Cote d'Ivoire,2024,0,650,0,650
+IV,Cote d'Ivoire,2025,0,1300,0,1300
+IV,Cote d'Ivoire,2026,0,1300,0,1300
+JM,Jamaica,1960,18,0,0,18
+JM,Jamaica,1961,24,0,0,24
+JM,Jamaica,1962,21,0,0,21
+JM,Jamaica,1963,26,0,0,26
+JM,Jamaica,1964,23,0,0,23
+JM,Jamaica,1965,22,0,0,22
+JM,Jamaica,1966,22,0,0,22
+JM,Jamaica,1967,26,0,0,26
+JM,Jamaica,1968,17,0,0,17
+JM,Jamaica,1969,21,0,0,21
+JM,Jamaica,1970,21,0,0,21
+JM,Jamaica,1971,24,0,0,24
+JM,Jamaica,1972,21,0,0,21
+JM,Jamaica,1973,31,0,0,31
+JM,Jamaica,1974,24,0,0,24
+JM,Jamaica,1975,30,0,0,30
+JM,Jamaica,1976,17,0,0,17
+JM,Jamaica,1977,23,0,0,23
+JM,Jamaica,1978,14,0,0,14
+JM,Jamaica,1979,34,0,0,34
+JM,Jamaica,1980,20,0,0,20
+JM,Jamaica,1981,23,0,0,23
+JM,Jamaica,1982,30,0,0,30
+JM,Jamaica,1983,25,0,0,25
+JM,Jamaica,1984,25,0,0,25
+JM,Jamaica,1985,27,0,0,27
+JM,Jamaica,1986,28,0,0,28
+JM,Jamaica,1987,41,0,0,41
+JM,Jamaica,1988,14,0,0,14
+JM,Jamaica,1989,19,0,0,19
+JM,Jamaica,1990,26,0,0,26
+JM,Jamaica,1991,38,0,0,38
+JM,Jamaica,1992,29,0,0,29
+JM,Jamaica,1993,35,0,0,35
+JM,Jamaica,1994,44,0,0,44
+JM,Jamaica,1995,43,0,0,43
+JM,Jamaica,1996,54,0,0,54
+JM,Jamaica,1997,46,0,0,46
+JM,Jamaica,1998,29,0,0,29
+JM,Jamaica,1999,39,0,0,39
+JM,Jamaica,2000,37,0,0,37
+JM,Jamaica,2001,31,0,0,31
+JM,Jamaica,2002,37,0,0,37
+JM,Jamaica,2003,37,0,0,37
+JM,Jamaica,2004,21,0,0,21
+JM,Jamaica,2005,34,0,0,34
+JM,Jamaica,2006,30,0,0,30
+JM,Jamaica,2007,35,0,0,35
+JM,Jamaica,2008,31,0,0,31
+JM,Jamaica,2009,28,0,0,28
+JM,Jamaica,2010,23,0,0,23
+JM,Jamaica,2011,20,0,0,20
+JM,Jamaica,2012,25,0,0,25
+JM,Jamaica,2013,31,0,0,31
+JM,Jamaica,2014,27,0,0,27
+JM,Jamaica,2015,27,0,0,27
+JM,Jamaica,2016,16,0,0,16
+JM,Jamaica,2017,16,0,0,16
+JM,Jamaica,2018,15,0,0,15
+JM,Jamaica,2019,16,0,0,16
+JM,Jamaica,2020,15,0,0,15
+JM,Jamaica,2021,15,0,0,15
+JM,Jamaica,2022,18,0,0,18
+JM,Jamaica,2023,19,0,0,19
+JM,Jamaica,2024,15,0,0,15
+JM,Jamaica,2025,15,0,0,15
+JM,Jamaica,2026,15,0,0,15
+KE,Kenya,1960,566,0,0,566
+KE,Kenya,1961,525,0,0,525
+KE,Kenya,1962,635,0,0,635
+KE,Kenya,1963,724,0,0,724
+KE,Kenya,1964,730,0,0,730
+KE,Kenya,1965,859,0,0,859
+KE,Kenya,1966,923,0,0,923
+KE,Kenya,1967,652,0,0,652
+KE,Kenya,1968,803,0,0,803
+KE,Kenya,1969,913,0,0,913
+KE,Kenya,1970,999,0,0,999
+KE,Kenya,1971,1020,0,0,1020
+KE,Kenya,1972,1266,0,0,1266
+KE,Kenya,1973,1222,0,0,1222
+KE,Kenya,1974,1102,0,0,1102
+KE,Kenya,1975,1244,0,0,1244
+KE,Kenya,1976,1687,0,0,1687
+KE,Kenya,1977,1417,0,0,1417
+KE,Kenya,1978,1239,0,0,1239
+KE,Kenya,1979,1531,0,0,1531
+KE,Kenya,1980,1568,0,0,1568
+KE,Kenya,1981,1396,0,0,1396
+KE,Kenya,1982,1522,0,0,1522
+KE,Kenya,1983,2159,1,0,2160
+KE,Kenya,1984,1619,1,0,1620
+KE,Kenya,1985,1944,1,0,1945
+KE,Kenya,1986,1749,1,0,1750
+KE,Kenya,1987,2159,1,0,2160
+KE,Kenya,1988,1959,1,0,1960
+KE,Kenya,1989,1738,2,0,1740
+KE,Kenya,1990,1453,2,0,1455
+KE,Kenya,1991,1503,2,0,1505
+KE,Kenya,1992,1215,2,0,1217
+KE,Kenya,1993,1228,2,0,1230
+KE,Kenya,1994,1582,2,0,1584
+KE,Kenya,1995,1808,2,0,1810
+KE,Kenya,1996,1136,2,0,1138
+KE,Kenya,1997,1026,2,0,1028
+KE,Kenya,1998,1146,2,0,1148
+KE,Kenya,1999,1683,2,0,1685
+KE,Kenya,2000,862,2,0,864
+KE,Kenya,2001,867,2,0,869
+KE,Kenya,2002,924,2,0,926
+KE,Kenya,2003,845,2,0,847
+KE,Kenya,2004,754,2,0,756
+KE,Kenya,2005,805,0,0,805
+KE,Kenya,2006,876,0,0,876
+KE,Kenya,2007,750,0,0,750
+KE,Kenya,2008,900,0,0,900
+KE,Kenya,2009,900,0,0,900
+KE,Kenya,2010,710,0,0,710
+KE,Kenya,2011,750,0,0,750
+KE,Kenya,2012,660,0,0,660
+KE,Kenya,2013,850,0,0,850
+KE,Kenya,2014,780,0,0,780
+KE,Kenya,2015,750,0,0,750
+KE,Kenya,2016,850,0,0,850
+KE,Kenya,2017,720,0,0,720
+KE,Kenya,2018,850,0,0,850
+KE,Kenya,2019,750,0,0,750
+KE,Kenya,2020,693,0,0,693
+KE,Kenya,2021,860,0,0,860
+KE,Kenya,2022,750,0,0,750
+KE,Kenya,2023,825,0,0,825
+KE,Kenya,2024,950,0,0,950
+KE,Kenya,2025,850,0,0,850
+KE,Kenya,2026,950,0,0,950
+LA,Laos,1983,10,0,0,10
+LA,Laos,1984,25,0,0,25
+LA,Laos,1985,50,0,0,50
+LA,Laos,1986,75,0,0,75
+LA,Laos,1987,85,0,0,85
+LA,Laos,1988,130,0,0,130
+LA,Laos,1989,90,0,0,90
+LA,Laos,1990,0,110,0,110
+LA,Laos,1991,5,95,0,100
+LA,Laos,1992,2,118,0,120
+LA,Laos,1993,3,127,0,130
+LA,Laos,1994,5,95,0,100
+LA,Laos,1995,8,142,0,150
+LA,Laos,1996,8,142,0,150
+LA,Laos,1997,8,142,0,150
+LA,Laos,1998,0,283,0,283
+LA,Laos,1999,0,292,0,292
+LA,Laos,2000,0,392,0,392
+LA,Laos,2001,0,430,0,430
+LA,Laos,2002,0,537,0,537
+LA,Laos,2003,0,464,0,464
+LA,Laos,2004,0,385,0,385
+LA,Laos,2005,0,300,0,300
+LA,Laos,2006,0,420,0,420
+LA,Laos,2007,0,355,0,355
+LA,Laos,2008,0,350,0,350
+LA,Laos,2009,0,390,0,390
+LA,Laos,2010,0,500,0,500
+LA,Laos,2011,0,450,0,450
+LA,Laos,2012,0,460,0,460
+LA,Laos,2013,0,475,0,475
+LA,Laos,2014,0,475,0,475
+LA,Laos,2015,0,475,0,475
+LA,Laos,2016,0,410,0,410
+LA,Laos,2017,0,450,0,450
+LA,Laos,2018,0,375,0,375
+LA,Laos,2019,0,440,0,440
+LA,Laos,2020,0,485,0,485
+LA,Laos,2021,0,385,0,385
+LA,Laos,2022,0,410,0,410
+LA,Laos,2023,0,410,0,410
+LA,Laos,2024,0,450,0,450
+LA,Laos,2025,0,475,0,475
+LA,Laos,2026,0,500,0,500
+LI,Liberia,1960,0,11,4,15
+LI,Liberia,1961,0,21,6,27
+LI,Liberia,1962,0,43,5,48
+LI,Liberia,1963,0,68,4,72
+LI,Liberia,1964,0,51,4,55
+LI,Liberia,1965,0,67,5,72
+LI,Liberia,1966,0,69,5,74
+LI,Liberia,1967,0,79,5,84
+LI,Liberia,1968,0,94,5,99
+LI,Liberia,1969,0,77,5,82
+LI,Liberia,1970,0,79,6,85
+LI,Liberia,1971,0,72,6,78
+LI,Liberia,1972,0,78,8,86
+LI,Liberia,1973,0,59,8,67
+LI,Liberia,1974,0,76,5,81
+LI,Liberia,1975,0,83,3,86
+LI,Liberia,1976,0,151,5,156
+LI,Liberia,1977,0,132,5,137
+LI,Liberia,1978,0,139,5,144
+LI,Liberia,1979,0,165,6,171
+LI,Liberia,1980,0,142,5,147
+LI,Liberia,1981,0,160,5,165
+LI,Liberia,1982,0,154,5,159
+LI,Liberia,1983,0,64,5,69
+LI,Liberia,1984,0,204,5,209
+LI,Liberia,1985,0,65,5,70
+LI,Liberia,1986,0,67,5,72
+LI,Liberia,1987,0,55,5,60
+LI,Liberia,1988,0,82,0,82
+LI,Liberia,1989,0,40,0,40
+LI,Liberia,1990,0,30,0,30
+LI,Liberia,1991,0,30,0,30
+LI,Liberia,1992,0,25,0,25
+LI,Liberia,1993,0,5,0,5
+LI,Liberia,1994,0,5,0,5
+LI,Liberia,1995,0,5,0,5
+LI,Liberia,1996,0,5,0,5
+LI,Liberia,1997,0,5,0,5
+LI,Liberia,1998,0,18,0,18
+LI,Liberia,1999,0,12,0,12
+LI,Liberia,2000,0,14,0,14
+LI,Liberia,2001,0,12,0,12
+LI,Liberia,2002,0,63,0,63
+LI,Liberia,2003,0,66,0,66
+LI,Liberia,2004,0,68,0,68
+LI,Liberia,2005,0,71,0,71
+LI,Liberia,2006,0,53,0,53
+LI,Liberia,2007,0,25,0,25
+LI,Liberia,2008,0,7,0,7
+LI,Liberia,2009,0,2,0,2
+LI,Liberia,2010,0,4,0,4
+LI,Liberia,2011,0,5,0,5
+LI,Liberia,2012,0,5,0,5
+LI,Liberia,2013,0,1,0,1
+LI,Liberia,2014,0,3,0,3
+LI,Liberia,2015,0,0,0,0
+LI,Liberia,2016,0,0,0,0
+LI,Liberia,2017,0,0,0,0
+LI,Liberia,2018,0,0,0,0
+LI,Liberia,2019,0,0,0,0
+LI,Liberia,2020,0,0,0,0
+LI,Liberia,2021,0,0,0,0
+LI,Liberia,2022,0,0,0,0
+LI,Liberia,2023,0,0,0,0
+LI,Liberia,2024,0,0,0,0
+LI,Liberia,2025,0,0,0,0
+LI,Liberia,2026,0,0,0,0
+MA,Madagascar,1960,37,896,0,933
+MA,Madagascar,1961,36,836,0,872
+MA,Madagascar,1962,41,976,0,1017
+MA,Madagascar,1963,33,800,0,833
+MA,Madagascar,1964,45,1072,0,1117
+MA,Madagascar,1965,28,672,0,700
+MA,Madagascar,1966,36,856,0,892
+MA,Madagascar,1967,41,996,0,1037
+MA,Madagascar,1968,45,1075,0,1120
+MA,Madagascar,1969,33,791,0,824
+MA,Madagascar,1970,50,1193,0,1243
+MA,Madagascar,1971,40,960,0,1000
+MA,Madagascar,1972,38,911,0,949
+MA,Madagascar,1973,45,1258,0,1303
+MA,Madagascar,1974,43,1159,0,1202
+MA,Madagascar,1975,45,1178,0,1223
+MA,Madagascar,1976,42,942,0,984
+MA,Madagascar,1977,51,1241,0,1292
+MA,Madagascar,1978,28,786,0,814
+MA,Madagascar,1979,54,1259,0,1313
+MA,Madagascar,1980,60,1090,0,1150
+MA,Madagascar,1981,58,1247,0,1305
+MA,Madagascar,1982,52,948,0,1000
+MA,Madagascar,1983,48,1052,0,1100
+MA,Madagascar,1984,54,1046,0,1100
+MA,Madagascar,1985,45,955,0,1000
+MA,Madagascar,1986,38,962,0,1000
+MA,Madagascar,1987,46,1079,0,1125
+MA,Madagascar,1988,20,1080,0,1100
+MA,Madagascar,1989,20,1080,0,1100
+MA,Madagascar,1990,20,1080,0,1100
+MA,Madagascar,1991,20,1130,0,1150
+MA,Madagascar,1992,20,980,0,1000
+MA,Madagascar,1993,20,422,0,442
+MA,Madagascar,1994,23,619,0,642
+MA,Madagascar,1995,47,738,0,785
+MA,Madagascar,1996,31,818,0,849
+MA,Madagascar,1997,33,590,0,623
+MA,Madagascar,1998,64,928,0,992
+MA,Madagascar,1999,33,394,0,427
+MA,Madagascar,2000,21,345,0,366
+MA,Madagascar,2001,9,138,0,147
+MA,Madagascar,2002,25,420,0,445
+MA,Madagascar,2003,27,408,0,435
+MA,Madagascar,2004,25,497,0,522
+MA,Madagascar,2005,30,562,0,592
+MA,Madagascar,2006,30,552,0,582
+MA,Madagascar,2007,30,525,0,555
+MA,Madagascar,2008,30,500,0,530
+MA,Madagascar,2009,25,450,0,475
+MA,Madagascar,2010,25,525,0,550
+MA,Madagascar,2011,25,525,0,550
+MA,Madagascar,2012,25,500,0,525
+MA,Madagascar,2013,25,525,0,550
+MA,Madagascar,2014,25,475,0,500
+MA,Madagascar,2015,25,230,0,255
+MA,Madagascar,2016,25,270,0,295
+MA,Madagascar,2017,25,225,0,250
+MA,Madagascar,2018,30,250,0,280
+MA,Madagascar,2019,25,300,0,325
+MA,Madagascar,2020,25,300,0,325
+MA,Madagascar,2021,25,275,0,300
+MA,Madagascar,2022,25,300,0,325
+MA,Madagascar,2023,25,275,0,300
+MA,Madagascar,2024,25,275,0,300
+MA,Madagascar,2025,25,275,0,300
+MA,Madagascar,2026,25,275,0,300
+MI,Malawi,1960,2,0,0,2
+MI,Malawi,1961,1,0,0,1
+MI,Malawi,1962,3,0,0,3
+MI,Malawi,1963,2,0,0,2
+MI,Malawi,1964,3,0,0,3
+MI,Malawi,1965,1,0,0,1
+MI,Malawi,1966,2,0,0,2
+MI,Malawi,1967,3,0,0,3
+MI,Malawi,1968,3,0,0,3
+MI,Malawi,1969,4,0,0,4
+MI,Malawi,1970,3,0,0,3
+MI,Malawi,1971,3,0,0,3
+MI,Malawi,1972,3,0,0,3
+MI,Malawi,1973,3,0,0,3
+MI,Malawi,1974,3,0,0,3
+MI,Malawi,1975,2,0,0,2
+MI,Malawi,1976,2,0,0,2
+MI,Malawi,1977,2,0,0,2
+MI,Malawi,1978,3,0,0,3
+MI,Malawi,1979,5,0,0,5
+MI,Malawi,1980,7,0,0,7
+MI,Malawi,1981,10,0,0,10
+MI,Malawi,1982,16,0,0,16
+MI,Malawi,1983,21,0,0,21
+MI,Malawi,1984,36,0,0,36
+MI,Malawi,1985,56,0,0,56
+MI,Malawi,1986,59,0,0,59
+MI,Malawi,1987,83,0,0,83
+MI,Malawi,1988,72,0,0,72
+MI,Malawi,1989,95,0,0,95
+MI,Malawi,1990,90,0,0,90
+MI,Malawi,1991,90,0,0,90
+MI,Malawi,1992,137,0,0,137
+MI,Malawi,1993,62,0,0,62
+MI,Malawi,1994,84,0,0,84
+MI,Malawi,1995,91,0,0,91
+MI,Malawi,1996,49,0,0,49
+MI,Malawi,1997,61,0,0,61
+MI,Malawi,1998,64,0,0,64
+MI,Malawi,1999,59,0,0,59
+MI,Malawi,2000,63,0,0,63
+MI,Malawi,2001,60,0,0,60
+MI,Malawi,2002,42,0,0,42
+MI,Malawi,2003,48,0,0,48
+MI,Malawi,2004,21,0,0,21
+MI,Malawi,2005,24,0,0,24
+MI,Malawi,2006,17,0,0,17
+MI,Malawi,2007,25,0,0,25
+MI,Malawi,2008,15,0,0,15
+MI,Malawi,2009,20,0,0,20
+MI,Malawi,2010,24,0,0,24
+MI,Malawi,2011,21,0,0,21
+MI,Malawi,2012,25,0,0,25
+MI,Malawi,2013,25,0,0,25
+MI,Malawi,2014,21,0,0,21
+MI,Malawi,2015,23,0,0,23
+MI,Malawi,2016,16,0,0,16
+MI,Malawi,2017,12,0,0,12
+MI,Malawi,2018,11,0,0,11
+MI,Malawi,2019,10,0,0,10
+MI,Malawi,2020,0,0,0,0
+MI,Malawi,2021,0,0,0,0
+MI,Malawi,2022,0,0,0,0
+MI,Malawi,2023,0,0,0,0
+MI,Malawi,2024,0,0,0,0
+MI,Malawi,2025,0,0,0,0
+MI,Malawi,2026,0,0,0,0
+MX,Mexico,1960,2100,0,0,2100
+MX,Mexico,1961,2350,0,0,2350
+MX,Mexico,1962,2202,0,0,2202
+MX,Mexico,1963,2900,0,0,2900
+MX,Mexico,1964,2650,0,0,2650
+MX,Mexico,1965,3000,0,0,3000
+MX,Mexico,1966,2700,0,0,2700
+MX,Mexico,1967,2900,0,0,2900
+MX,Mexico,1968,2865,0,0,2865
+MX,Mexico,1969,3082,0,0,3082
+MX,Mexico,1970,3200,0,0,3200
+MX,Mexico,1971,3400,0,0,3400
+MX,Mexico,1972,3914,0,0,3914
+MX,Mexico,1973,3500,0,0,3500
+MX,Mexico,1974,4025,5,0,4030
+MX,Mexico,1975,4126,10,0,4136
+MX,Mexico,1976,3411,20,0,3431
+MX,Mexico,1977,3271,30,0,3301
+MX,Mexico,1978,3977,45,0,4022
+MX,Mexico,1979,3540,60,0,3600
+MX,Mexico,1980,3787,75,0,3862
+MX,Mexico,1981,3815,85,0,3900
+MX,Mexico,1982,4430,100,0,4530
+MX,Mexico,1983,4420,110,0,4530
+MX,Mexico,1984,4160,90,0,4250
+MX,Mexico,1985,4726,100,0,4826
+MX,Mexico,1986,5197,100,0,5297
+MX,Mexico,1987,4617,100,0,4717
+MX,Mexico,1988,5250,250,0,5500
+MX,Mexico,1989,4900,200,0,5100
+MX,Mexico,1990,4350,200,0,4550
+MX,Mexico,1991,4470,150,0,4620
+MX,Mexico,1992,3980,200,0,4180
+MX,Mexico,1993,4000,200,0,4200
+MX,Mexico,1994,3870,160,0,4030
+MX,Mexico,1995,5200,200,0,5400
+MX,Mexico,1996,5100,200,0,5300
+MX,Mexico,1997,4800,150,0,4950
+MX,Mexico,1998,4860,150,0,5010
+MX,Mexico,1999,5993,200,0,6193
+MX,Mexico,2000,4600,200,0,4800
+MX,Mexico,2001,4000,200,0,4200
+MX,Mexico,2002,4200,150,0,4350
+MX,Mexico,2003,4200,100,0,4300
+MX,Mexico,2004,3900,100,0,4000
+MX,Mexico,2005,4000,200,0,4200
+MX,Mexico,2006,4300,200,0,4500
+MX,Mexico,2007,4100,250,0,4350
+MX,Mexico,2008,4300,250,0,4550
+MX,Mexico,2009,3950,200,0,4150
+MX,Mexico,2010,3800,200,0,4000
+MX,Mexico,2011,4100,200,0,4300
+MX,Mexico,2012,4450,200,0,4650
+MX,Mexico,2013,3750,200,0,3950
+MX,Mexico,2014,2980,200,0,3180
+MX,Mexico,2015,2125,175,0,2300
+MX,Mexico,2016,3100,200,0,3300
+MX,Mexico,2017,3800,200,0,4000
+MX,Mexico,2018,3100,450,0,3550
+MX,Mexico,2019,3150,550,0,3700
+MX,Mexico,2020,3000,530,0,3530
+MX,Mexico,2021,3200,540,0,3740
+MX,Mexico,2022,3000,545,0,3545
+MX,Mexico,2023,3356,500,0,3856
+MX,Mexico,2024,3588,340,0,3928
+MX,Mexico,2025,3580,500,0,4080
+MX,Mexico,2026,3575,560,0,4135
+MY,Malaysia,1960,0,12,33,45
+MY,Malaysia,1961,0,13,30,43
+MY,Malaysia,1962,0,14,33,47
+MY,Malaysia,1963,0,20,32,52
+MY,Malaysia,1964,0,10,42,52
+MY,Malaysia,1965,0,12,46,58
+MY,Malaysia,1966,0,12,45,57
+MY,Malaysia,1967,0,14,46,60
+MY,Malaysia,1968,0,12,51,63
+MY,Malaysia,1969,0,9,50,59
+MY,Malaysia,1970,0,6,60,66
+MY,Malaysia,1971,0,7,63,70
+MY,Malaysia,1972,0,7,75,82
+MY,Malaysia,1973,0,7,91,98
+MY,Malaysia,1974,0,7,97,104
+MY,Malaysia,1975,0,6,129,135
+MY,Malaysia,1976,0,7,118,125
+MY,Malaysia,1977,0,6,84,90
+MY,Malaysia,1978,0,5,97,102
+MY,Malaysia,1979,0,5,93,98
+MY,Malaysia,1980,0,5,83,88
+MY,Malaysia,1981,0,5,84,89
+MY,Malaysia,1982,0,5,85,90
+MY,Malaysia,1983,0,5,86,91
+MY,Malaysia,1984,0,5,81,86
+MY,Malaysia,1985,0,5,78,83
+MY,Malaysia,1986,0,5,75,80
+MY,Malaysia,1987,0,5,73,78
+MY,Malaysia,1988,0,5,70,75
+MY,Malaysia,1989,0,5,70,75
+MY,Malaysia,1990,0,5,70,75
+MY,Malaysia,1991,0,5,70,75
+MY,Malaysia,1992,0,5,70,75
+MY,Malaysia,1993,0,150,0,150
+MY,Malaysia,1994,0,153,0,153
+MY,Malaysia,1995,0,158,0,158
+MY,Malaysia,1996,0,160,0,160
+MY,Malaysia,1997,0,195,0,195
+MY,Malaysia,1998,0,217,0,217
+MY,Malaysia,1999,0,250,0,250
+MY,Malaysia,2000,0,700,0,700
+MY,Malaysia,2001,0,800,0,800
+MY,Malaysia,2002,0,950,0,950
+MY,Malaysia,2003,0,1000,0,1000
+MY,Malaysia,2004,0,1000,0,1000
+MY,Malaysia,2005,0,700,0,700
+MY,Malaysia,2006,0,500,0,500
+MY,Malaysia,2007,0,770,0,770
+MY,Malaysia,2008,0,975,0,975
+MY,Malaysia,2009,0,1000,0,1000
+MY,Malaysia,2010,0,1100,0,1100
+MY,Malaysia,2011,0,1450,0,1450
+MY,Malaysia,2012,0,1400,0,1400
+MY,Malaysia,2013,0,1500,0,1500
+MY,Malaysia,2014,0,2100,0,2100
+MY,Malaysia,2015,0,2200,0,2200
+MY,Malaysia,2016,0,2100,0,2100
+MY,Malaysia,2017,0,2100,0,2100
+MY,Malaysia,2018,0,2100,0,2100
+MY,Malaysia,2019,0,1900,0,1900
+MY,Malaysia,2020,0,2000,0,2000
+MY,Malaysia,2021,0,2000,0,2000
+MY,Malaysia,2022,0,2000,0,2000
+MY,Malaysia,2023,0,1330,0,1330
+MY,Malaysia,2024,0,1400,0,1400
+MY,Malaysia,2025,0,1500,0,1500
+MY,Malaysia,2026,0,1500,0,1500
+NC,New Caledonia,1960,10,18,2,30
+NC,New Caledonia,1961,12,20,3,35
+NC,New Caledonia,1962,12,20,3,35
+NC,New Caledonia,1963,12,20,3,35
+NC,New Caledonia,1964,12,20,3,35
+NC,New Caledonia,1965,12,20,3,35
+NC,New Caledonia,1966,12,20,3,35
+NC,New Caledonia,1967,12,20,3,35
+NC,New Caledonia,1968,10,18,2,30
+NC,New Caledonia,1969,10,18,2,30
+NC,New Caledonia,1970,7,18,0,25
+NC,New Caledonia,1971,4,16,0,20
+NC,New Caledonia,1972,3,15,0,18
+NC,New Caledonia,1973,2,13,0,15
+NC,New Caledonia,1974,2,10,0,12
+NC,New Caledonia,1975,1,9,0,10
+NC,New Caledonia,1976,0,9,0,9
+NC,New Caledonia,1977,1,4,0,5
+NC,New Caledonia,1978,2,9,0,11
+NC,New Caledonia,1979,1,9,0,10
+NC,New Caledonia,1980,1,9,0,10
+NC,New Caledonia,1981,1,7,0,8
+NC,New Caledonia,1982,1,5,0,6
+NC,New Caledonia,1983,1,3,0,4
+NC,New Caledonia,1984,1,5,0,6
+NC,New Caledonia,1985,1,5,0,6
+NC,New Caledonia,1986,1,5,0,6
+NC,New Caledonia,1987,1,5,0,6
+NC,New Caledonia,1988,1,5,0,6
+NC,New Caledonia,1989,1,4,0,5
+NC,New Caledonia,1990,5,0,0,5
+NC,New Caledonia,1991,5,0,0,5
+NC,New Caledonia,1992,5,0,0,5
+NC,New Caledonia,1993,5,0,0,5
+NC,New Caledonia,1994,5,0,0,5
+NC,New Caledonia,1995,5,0,0,5
+NC,New Caledonia,1996,5,0,0,5
+NC,New Caledonia,1997,5,0,0,5
+NC,New Caledonia,1998,1,0,0,1
+NC,New Caledonia,1999,1,0,0,1
+NC,New Caledonia,2001,0,0,0,0
+NC,New Caledonia,2003,0,0,0,0
+NC,New Caledonia,2004,0,0,0,0
+NC,New Caledonia,2005,0,0,0,0
+NC,New Caledonia,2006,0,0,0,0
+NC,New Caledonia,2007,0,0,0,0
+NC,New Caledonia,2008,0,0,0,0
+NC,New Caledonia,2009,0,0,0,0
+NC,New Caledonia,2010,0,0,0,0
+NC,New Caledonia,2011,0,0,0,0
+NC,New Caledonia,2012,0,0,0,0
+NC,New Caledonia,2013,0,0,0,0
+NC,New Caledonia,2014,0,0,0,0
+NC,New Caledonia,2015,0,0,0,0
+NC,New Caledonia,2016,0,0,0,0
+NC,New Caledonia,2017,0,0,0,0
+NC,New Caledonia,2018,0,0,0,0
+NC,New Caledonia,2019,0,0,0,0
+NC,New Caledonia,2020,0,0,0,0
+NC,New Caledonia,2021,0,0,0,0
+NC,New Caledonia,2022,0,0,0,0
+NC,New Caledonia,2023,0,0,0,0
+NC,New Caledonia,2024,0,0,0,0
+NC,New Caledonia,2025,0,0,0,0
+NC,New Caledonia,2026,0,0,0,0
+NI,Nigeria,1960,0,18,0,18
+NI,Nigeria,1961,0,20,0,20
+NI,Nigeria,1962,0,36,0,36
+NI,Nigeria,1963,0,95,0,95
+NI,Nigeria,1964,0,45,0,45
+NI,Nigeria,1965,0,74,0,74
+NI,Nigeria,1966,0,44,0,44
+NI,Nigeria,1967,0,52,0,52
+NI,Nigeria,1968,0,75,0,75
+NI,Nigeria,1969,0,60,0,60
+NI,Nigeria,1970,0,83,0,83
+NI,Nigeria,1971,0,58,0,58
+NI,Nigeria,1972,0,45,0,45
+NI,Nigeria,1973,0,41,0,41
+NI,Nigeria,1974,0,42,0,42
+NI,Nigeria,1975,0,67,0,67
+NI,Nigeria,1976,0,53,0,53
+NI,Nigeria,1977,0,43,0,43
+NI,Nigeria,1978,0,60,0,60
+NI,Nigeria,1979,0,40,0,40
+NI,Nigeria,1980,0,52,0,52
+NI,Nigeria,1981,0,52,0,52
+NI,Nigeria,1982,0,45,0,45
+NI,Nigeria,1983,0,42,0,42
+NI,Nigeria,1984,0,48,0,48
+NI,Nigeria,1985,0,60,0,60
+NI,Nigeria,1986,0,80,0,80
+NI,Nigeria,1987,0,95,0,95
+NI,Nigeria,1988,0,90,0,90
+NI,Nigeria,1989,0,95,0,95
+NI,Nigeria,1990,0,90,0,90
+NI,Nigeria,1991,0,90,0,90
+NI,Nigeria,1992,0,40,0,40
+NI,Nigeria,1993,0,45,0,45
+NI,Nigeria,1994,0,52,0,52
+NI,Nigeria,1995,0,53,0,53
+NI,Nigeria,1996,0,46,0,46
+NI,Nigeria,1997,0,45,0,45
+NI,Nigeria,1998,0,53,0,53
+NI,Nigeria,1999,0,46,0,46
+NI,Nigeria,2000,0,48,0,48
+NI,Nigeria,2001,0,44,0,44
+NI,Nigeria,2002,0,50,0,50
+NI,Nigeria,2003,0,36,0,36
+NI,Nigeria,2004,0,35,0,35
+NI,Nigeria,2005,0,59,0,59
+NI,Nigeria,2006,0,51,0,51
+NI,Nigeria,2007,0,35,0,35
+NI,Nigeria,2008,0,30,0,30
+NI,Nigeria,2009,0,30,0,30
+NI,Nigeria,2010,0,30,0,30
+NI,Nigeria,2011,0,40,0,40
+NI,Nigeria,2012,0,30,0,30
+NI,Nigeria,2013,0,20,0,20
+NI,Nigeria,2014,0,20,0,20
+NI,Nigeria,2015,0,20,0,20
+NI,Nigeria,2016,0,10,0,10
+NI,Nigeria,2017,0,5,0,5
+NI,Nigeria,2018,0,0,0,0
+NI,Nigeria,2019,0,0,0,0
+NI,Nigeria,2020,0,0,0,0
+NI,Nigeria,2021,0,0,0,0
+NI,Nigeria,2022,0,0,0,0
+NI,Nigeria,2023,0,0,0,0
+NI,Nigeria,2024,0,0,0,0
+NI,Nigeria,2025,0,0,0,0
+NI,Nigeria,2026,0,0,0,0
+NU,Nicaragua,1960,437,0,0,437
+NU,Nicaragua,1961,432,0,0,432
+NU,Nicaragua,1962,535,0,0,535
+NU,Nicaragua,1963,533,0,0,533
+NU,Nicaragua,1964,610,0,0,610
+NU,Nicaragua,1965,513,0,0,513
+NU,Nicaragua,1966,421,0,0,421
+NU,Nicaragua,1967,556,0,0,556
+NU,Nicaragua,1968,504,0,0,504
+NU,Nicaragua,1969,563,0,0,563
+NU,Nicaragua,1970,641,0,0,641
+NU,Nicaragua,1971,725,0,0,725
+NU,Nicaragua,1972,537,0,0,537
+NU,Nicaragua,1973,683,0,0,683
+NU,Nicaragua,1974,730,0,0,730
+NU,Nicaragua,1975,790,0,0,790
+NU,Nicaragua,1976,852,0,0,852
+NU,Nicaragua,1977,967,0,0,967
+NU,Nicaragua,1978,1004,0,0,1004
+NU,Nicaragua,1979,1019,0,0,1019
+NU,Nicaragua,1980,971,0,0,971
+NU,Nicaragua,1981,1004,0,0,1004
+NU,Nicaragua,1982,1186,0,0,1186
+NU,Nicaragua,1983,809,0,0,809
+NU,Nicaragua,1984,843,0,0,843
+NU,Nicaragua,1985,581,0,0,581
+NU,Nicaragua,1986,712,0,0,712
+NU,Nicaragua,1987,635,0,0,635
+NU,Nicaragua,1988,714,0,0,714
+NU,Nicaragua,1989,743,0,0,743
+NU,Nicaragua,1990,460,0,0,460
+NU,Nicaragua,1991,782,0,0,782
+NU,Nicaragua,1992,545,0,0,545
+NU,Nicaragua,1993,695,0,0,695
+NU,Nicaragua,1994,685,0,0,685
+NU,Nicaragua,1995,986,0,0,986
+NU,Nicaragua,1996,831,0,0,831
+NU,Nicaragua,1997,1083,0,0,1083
+NU,Nicaragua,1998,1079,0,0,1079
+NU,Nicaragua,1999,1514,0,0,1514
+NU,Nicaragua,2000,1610,0,0,1610
+NU,Nicaragua,2001,895,0,0,895
+NU,Nicaragua,2002,1200,0,0,1200
+NU,Nicaragua,2003,1547,0,0,1547
+NU,Nicaragua,2004,1130,0,0,1130
+NU,Nicaragua,2005,1718,0,0,1718
+NU,Nicaragua,2006,1300,0,0,1300
+NU,Nicaragua,2007,1850,0,0,1850
+NU,Nicaragua,2008,1650,0,0,1650
+NU,Nicaragua,2009,1925,0,0,1925
+NU,Nicaragua,2010,1740,0,0,1740
+NU,Nicaragua,2011,2100,0,0,2100
+NU,Nicaragua,2012,1925,0,0,1925
+NU,Nicaragua,2013,2000,0,0,2000
+NU,Nicaragua,2014,2100,25,0,2125
+NU,Nicaragua,2015,2100,25,0,2125
+NU,Nicaragua,2016,2600,25,0,2625
+NU,Nicaragua,2017,2700,30,0,2730
+NU,Nicaragua,2018,2900,50,0,2950
+NU,Nicaragua,2019,2675,80,0,2755
+NU,Nicaragua,2020,2550,100,0,2650
+NU,Nicaragua,2021,2718,120,0,2838
+NU,Nicaragua,2022,2430,160,0,2590
+NU,Nicaragua,2023,2187,160,0,2347
+NU,Nicaragua,2024,2500,160,0,2660
+NU,Nicaragua,2025,2400,160,0,2560
+NU,Nicaragua,2026,2300,140,0,2440
+PA,Paraguay,1960,40,0,0,40
+PA,Paraguay,1961,44,0,0,44
+PA,Paraguay,1962,103,0,0,103
+PA,Paraguay,1963,119,0,0,119
+PA,Paraguay,1964,99,0,0,99
+PA,Paraguay,1965,106,0,0,106
+PA,Paraguay,1966,65,0,0,65
+PA,Paraguay,1967,61,0,0,61
+PA,Paraguay,1968,67,0,0,67
+PA,Paraguay,1969,49,0,0,49
+PA,Paraguay,1970,27,0,0,27
+PA,Paraguay,1971,62,0,0,62
+PA,Paraguay,1972,115,0,0,115
+PA,Paraguay,1973,26,0,0,26
+PA,Paraguay,1974,126,0,0,126
+PA,Paraguay,1975,135,0,0,135
+PA,Paraguay,1976,35,0,0,35
+PA,Paraguay,1977,66,0,0,66
+PA,Paraguay,1978,138,0,0,138
+PA,Paraguay,1979,31,0,0,31
+PA,Paraguay,1980,130,0,0,130
+PA,Paraguay,1981,100,0,0,100
+PA,Paraguay,1982,100,0,0,100
+PA,Paraguay,1983,100,0,0,100
+PA,Paraguay,1984,100,0,0,100
+PA,Paraguay,1985,100,0,0,100
+PA,Paraguay,1986,100,0,0,100
+PA,Paraguay,1987,100,0,0,100
+PA,Paraguay,1988,100,0,0,100
+PA,Paraguay,1989,100,0,0,100
+PA,Paraguay,1990,100,0,0,100
+PA,Paraguay,1991,40,0,0,40
+PA,Paraguay,1992,60,0,0,60
+PA,Paraguay,1993,70,0,0,70
+PA,Paraguay,1994,50,0,0,50
+PA,Paraguay,1995,45,0,0,45
+PA,Paraguay,1996,40,0,0,40
+PA,Paraguay,1997,34,0,0,34
+PA,Paraguay,1998,66,0,0,66
+PA,Paraguay,1999,20,0,0,20
+PA,Paraguay,2000,46,0,0,46
+PA,Paraguay,2001,20,0,0,20
+PA,Paraguay,2002,26,0,0,26
+PA,Paraguay,2003,52,0,0,52
+PA,Paraguay,2004,26,0,0,26
+PA,Paraguay,2005,35,0,0,35
+PA,Paraguay,2006,20,0,0,20
+PA,Paraguay,2007,0,0,0,0
+PA,Paraguay,2008,0,0,0,0
+PA,Paraguay,2009,0,0,0,0
+PA,Paraguay,2010,0,0,0,0
+PA,Paraguay,2011,0,0,0,0
+PA,Paraguay,2012,0,0,0,0
+PA,Paraguay,2013,0,0,0,0
+PA,Paraguay,2014,0,0,0,0
+PA,Paraguay,2015,0,0,0,0
+PA,Paraguay,2016,0,0,0,0
+PA,Paraguay,2017,0,0,0,0
+PA,Paraguay,2018,0,0,0,0
+PA,Paraguay,2019,0,0,0,0
+PA,Paraguay,2020,0,0,0,0
+PA,Paraguay,2021,0,0,0,0
+PA,Paraguay,2022,0,0,0,0
+PA,Paraguay,2023,0,0,0,0
+PA,Paraguay,2024,0,0,0,0
+PA,Paraguay,2025,0,0,0,0
+PA,Paraguay,2026,0,0,0,0
+PE,Peru,1960,598,0,0,598
+PE,Peru,1961,670,0,0,670
+PE,Peru,1962,827,0,0,827
+PE,Peru,1963,800,0,0,800
+PE,Peru,1964,872,0,0,872
+PE,Peru,1965,826,0,0,826
+PE,Peru,1966,789,0,0,789
+PE,Peru,1967,952,0,0,952
+PE,Peru,1968,940,0,0,940
+PE,Peru,1969,951,0,0,951
+PE,Peru,1970,1114,0,0,1114
+PE,Peru,1971,947,0,0,947
+PE,Peru,1972,1087,0,0,1087
+PE,Peru,1973,949,0,0,949
+PE,Peru,1974,875,0,0,875
+PE,Peru,1975,881,0,0,881
+PE,Peru,1976,947,0,0,947
+PE,Peru,1977,1050,0,0,1050
+PE,Peru,1978,1130,0,0,1130
+PE,Peru,1979,1265,0,0,1265
+PE,Peru,1980,1170,0,0,1170
+PE,Peru,1981,1100,0,0,1100
+PE,Peru,1982,1100,0,0,1100
+PE,Peru,1983,1270,0,0,1270
+PE,Peru,1984,1150,0,0,1150
+PE,Peru,1985,1250,0,0,1250
+PE,Peru,1986,1200,0,0,1200
+PE,Peru,1987,1020,0,0,1020
+PE,Peru,1988,1400,0,0,1400
+PE,Peru,1989,1400,0,0,1400
+PE,Peru,1990,1170,0,0,1170
+PE,Peru,1991,1150,0,0,1150
+PE,Peru,1992,1190,0,0,1190
+PE,Peru,1993,1022,0,0,1022
+PE,Peru,1994,1453,0,0,1453
+PE,Peru,1995,1811,0,0,1811
+PE,Peru,1996,1583,0,0,1583
+PE,Peru,1997,1820,0,0,1820
+PE,Peru,1998,1980,0,0,1980
+PE,Peru,1999,2571,0,0,2571
+PE,Peru,2000,2824,0,0,2824
+PE,Peru,2001,2550,0,0,2550
+PE,Peru,2002,2760,0,0,2760
+PE,Peru,2003,2870,0,0,2870
+PE,Peru,2004,3550,0,0,3550
+PE,Peru,2005,2420,0,0,2420
+PE,Peru,2006,4400,0,0,4400
+PE,Peru,2007,2800,0,0,2800
+PE,Peru,2008,4000,0,0,4000
+PE,Peru,2009,3300,0,0,3300
+PE,Peru,2010,4100,0,0,4100
+PE,Peru,2011,5200,0,0,5200
+PE,Peru,2012,4300,0,0,4300
+PE,Peru,2013,4250,0,0,4250
+PE,Peru,2014,2900,0,0,2900
+PE,Peru,2015,3500,0,0,3500
+PE,Peru,2016,4225,0,0,4225
+PE,Peru,2017,4375,0,0,4375
+PE,Peru,2018,4390,0,0,4390
+PE,Peru,2019,3925,0,0,3925
+PE,Peru,2020,3369,0,0,3369
+PE,Peru,2021,4200,0,0,4200
+PE,Peru,2022,3475,0,0,3475
+PE,Peru,2023,3912,0,0,3912
+PE,Peru,2024,4120,0,0,4120
+PE,Peru,2025,4764,0,0,4764
+PE,Peru,2026,4780,0,0,4780
+PN,Panama,1960,67,0,0,67
+PN,Panama,1961,84,0,0,84
+PN,Panama,1962,73,0,0,73
+PN,Panama,1963,76,0,0,76
+PN,Panama,1964,72,0,0,72
+PN,Panama,1965,72,0,0,72
+PN,Panama,1966,84,0,0,84
+PN,Panama,1967,86,0,0,86
+PN,Panama,1968,75,0,0,75
+PN,Panama,1969,86,0,0,86
+PN,Panama,1970,74,0,0,74
+PN,Panama,1971,89,0,0,89
+PN,Panama,1972,83,0,0,83
+PN,Panama,1973,72,0,0,72
+PN,Panama,1974,75,0,0,75
+PN,Panama,1975,66,0,0,66
+PN,Panama,1976,78,0,0,78
+PN,Panama,1977,105,0,0,105
+PN,Panama,1978,104,0,0,104
+PN,Panama,1979,105,0,0,105
+PN,Panama,1980,142,0,0,142
+PN,Panama,1981,119,0,0,119
+PN,Panama,1982,138,0,0,138
+PN,Panama,1983,150,0,0,150
+PN,Panama,1984,237,0,0,237
+PN,Panama,1985,207,0,0,207
+PN,Panama,1986,195,0,0,195
+PN,Panama,1987,171,0,0,171
+PN,Panama,1988,163,0,0,163
+PN,Panama,1989,182,0,0,182
+PN,Panama,1990,182,0,0,182
+PN,Panama,1991,192,0,0,192
+PN,Panama,1992,172,0,0,172
+PN,Panama,1993,202,0,0,202
+PN,Panama,1994,190,0,0,190
+PN,Panama,1995,209,0,0,209
+PN,Panama,1996,211,0,0,211
+PN,Panama,1997,218,0,0,218
+PN,Panama,1998,192,0,0,192
+PN,Panama,1999,167,0,0,167
+PN,Panama,2000,170,0,0,170
+PN,Panama,2001,160,0,0,160
+PN,Panama,2002,140,0,0,140
+PN,Panama,2003,172,0,0,172
+PN,Panama,2004,90,0,0,90
+PN,Panama,2005,150,0,0,150
+PN,Panama,2006,150,0,0,150
+PN,Panama,2007,150,0,0,150
+PN,Panama,2008,100,0,0,100
+PN,Panama,2009,100,0,0,100
+PN,Panama,2010,125,0,0,125
+PN,Panama,2011,100,0,0,100
+PN,Panama,2012,100,0,0,100
+PN,Panama,2013,95,0,0,95
+PN,Panama,2014,120,0,0,120
+PN,Panama,2015,85,0,0,85
+PN,Panama,2016,95,0,0,95
+PN,Panama,2017,75,0,0,75
+PN,Panama,2018,75,0,0,75
+PN,Panama,2019,75,0,0,75
+PN,Panama,2020,75,0,0,75
+PN,Panama,2021,75,0,0,75
+PN,Panama,2022,85,0,0,85
+PN,Panama,2023,75,0,0,75
+PN,Panama,2024,100,0,0,100
+PN,Panama,2025,80,0,0,80
+PN,Panama,2026,100,0,0,100
+PP,Papua New Guinea,1960,32,1,0,33
+PP,Papua New Guinea,1961,53,1,0,54
+PP,Papua New Guinea,1962,76,1,0,77
+PP,Papua New Guinea,1963,105,2,0,107
+PP,Papua New Guinea,1964,138,3,0,141
+PP,Papua New Guinea,1965,171,4,0,175
+PP,Papua New Guinea,1966,202,7,0,209
+PP,Papua New Guinea,1967,200,10,0,210
+PP,Papua New Guinea,1968,280,15,1,296
+PP,Papua New Guinea,1969,408,15,1,424
+PP,Papua New Guinea,1970,383,18,0,401
+PP,Papua New Guinea,1971,421,27,0,448
+PP,Papua New Guinea,1972,591,28,0,619
+PP,Papua New Guinea,1973,576,32,0,608
+PP,Papua New Guinea,1974,510,33,0,543
+PP,Papua New Guinea,1975,553,35,0,588
+PP,Papua New Guinea,1976,768,34,0,802
+PP,Papua New Guinea,1977,620,35,0,655
+PP,Papua New Guinea,1978,783,35,0,818
+PP,Papua New Guinea,1979,739,36,1,776
+PP,Papua New Guinea,1980,843,36,1,880
+PP,Papua New Guinea,1981,875,41,1,917
+PP,Papua New Guinea,1982,605,42,1,648
+PP,Papua New Guinea,1983,882,42,1,925
+PP,Papua New Guinea,1984,733,42,0,775
+PP,Papua New Guinea,1985,816,44,0,860
+PP,Papua New Guinea,1986,710,46,0,756
+PP,Papua New Guinea,1987,1050,50,0,1100
+PP,Papua New Guinea,1988,1120,55,0,1175
+PP,Papua New Guinea,1989,1063,29,0,1092
+PP,Papua New Guinea,1990,934,30,0,964
+PP,Papua New Guinea,1991,800,41,0,841
+PP,Papua New Guinea,1992,1000,30,0,1030
+PP,Papua New Guinea,1993,989,30,0,1019
+PP,Papua New Guinea,1994,1099,40,0,1139
+PP,Papua New Guinea,1995,949,53,0,1002
+PP,Papua New Guinea,1996,1032,57,0,1089
+PP,Papua New Guinea,1997,1009,67,0,1076
+PP,Papua New Guinea,1998,1299,52,0,1351
+PP,Papua New Guinea,1999,1326,61,0,1387
+PP,Papua New Guinea,2000,988,53,0,1041
+PP,Papua New Guinea,2001,1009,54,0,1063
+PP,Papua New Guinea,2002,1031,54,0,1085
+PP,Papua New Guinea,2003,755,58,0,813
+PP,Papua New Guinea,2004,950,50,0,1000
+PP,Papua New Guinea,2005,1200,65,0,1265
+PP,Papua New Guinea,2006,780,30,0,810
+PP,Papua New Guinea,2007,925,45,0,970
+PP,Papua New Guinea,2008,1000,35,0,1035
+PP,Papua New Guinea,2009,1050,35,0,1085
+PP,Papua New Guinea,2010,825,40,0,865
+PP,Papua New Guinea,2011,1350,50,0,1400
+PP,Papua New Guinea,2012,775,50,0,825
+PP,Papua New Guinea,2013,815,40,0,855
+PP,Papua New Guinea,2014,760,50,0,810
+PP,Papua New Guinea,2015,700,50,0,750
+PP,Papua New Guinea,2016,1065,50,0,1115
+PP,Papua New Guinea,2017,760,50,0,810
+PP,Papua New Guinea,2018,915,50,0,965
+PP,Papua New Guinea,2019,775,50,0,825
+PP,Papua New Guinea,2020,650,50,0,700
+PP,Papua New Guinea,2021,725,50,0,775
+PP,Papua New Guinea,2022,825,50,0,875
+PP,Papua New Guinea,2023,930,50,0,980
+PP,Papua New Guinea,2024,750,40,0,790
+PP,Papua New Guinea,2025,750,50,0,800
+PP,Papua New Guinea,2026,750,50,0,800
+RH,Zimbabwe,1960,0,0,0,0
+RH,Zimbabwe,1961,0,0,0,0
+RH,Zimbabwe,1962,0,0,0,0
+RH,Zimbabwe,1963,1,0,0,1
+RH,Zimbabwe,1964,1,0,0,1
+RH,Zimbabwe,1965,1,0,0,1
+RH,Zimbabwe,1966,2,0,0,2
+RH,Zimbabwe,1967,2,0,0,2
+RH,Zimbabwe,1968,7,0,0,7
+RH,Zimbabwe,1969,11,0,0,11
+RH,Zimbabwe,1970,15,0,0,15
+RH,Zimbabwe,1971,21,0,0,21
+RH,Zimbabwe,1972,27,0,0,27
+RH,Zimbabwe,1973,33,0,0,33
+RH,Zimbabwe,1974,49,0,0,49
+RH,Zimbabwe,1975,77,0,0,77
+RH,Zimbabwe,1976,77,0,0,77
+RH,Zimbabwe,1977,71,0,0,71
+RH,Zimbabwe,1978,77,0,0,77
+RH,Zimbabwe,1979,68,0,0,68
+RH,Zimbabwe,1980,94,0,0,94
+RH,Zimbabwe,1981,82,0,0,82
+RH,Zimbabwe,1982,117,0,0,117
+RH,Zimbabwe,1983,147,0,0,147
+RH,Zimbabwe,1984,180,0,0,180
+RH,Zimbabwe,1985,188,0,0,188
+RH,Zimbabwe,1986,200,0,0,200
+RH,Zimbabwe,1987,250,0,0,250
+RH,Zimbabwe,1988,175,0,0,175
+RH,Zimbabwe,1989,225,0,0,225
+RH,Zimbabwe,1990,208,0,0,208
+RH,Zimbabwe,1991,201,0,0,201
+RH,Zimbabwe,1992,78,0,0,78
+RH,Zimbabwe,1993,12,0,0,12
+RH,Zimbabwe,1994,106,0,0,106
+RH,Zimbabwe,1995,131,0,0,131
+RH,Zimbabwe,1996,174,0,0,174
+RH,Zimbabwe,1997,130,0,0,130
+RH,Zimbabwe,1998,149,0,0,149
+RH,Zimbabwe,1999,125,0,0,125
+RH,Zimbabwe,2000,109,0,0,109
+RH,Zimbabwe,2001,121,0,0,121
+RH,Zimbabwe,2002,110,0,0,110
+RH,Zimbabwe,2003,92,0,0,92
+RH,Zimbabwe,2004,120,0,0,120
+RH,Zimbabwe,2005,66,0,0,66
+RH,Zimbabwe,2006,45,0,0,45
+RH,Zimbabwe,2007,31,0,0,31
+RH,Zimbabwe,2008,22,0,0,22
+RH,Zimbabwe,2009,0,0,0,0
+RH,Zimbabwe,2010,0,0,0,0
+RH,Zimbabwe,2011,0,0,0,0
+RH,Zimbabwe,2012,0,0,0,0
+RH,Zimbabwe,2013,0,0,0,0
+RH,Zimbabwe,2014,0,0,0,0
+RH,Zimbabwe,2015,0,0,0,0
+RH,Zimbabwe,2016,0,0,0,0
+RH,Zimbabwe,2017,0,0,0,0
+RH,Zimbabwe,2018,0,0,0,0
+RH,Zimbabwe,2019,0,0,0,0
+RH,Zimbabwe,2020,0,0,0,0
+RH,Zimbabwe,2021,0,0,0,0
+RH,Zimbabwe,2022,0,0,0,0
+RH,Zimbabwe,2023,0,0,0,0
+RH,Zimbabwe,2024,0,0,0,0
+RH,Zimbabwe,2025,0,0,0,0
+RH,Zimbabwe,2026,0,0,0,0
+RP,Philippines,1960,3,236,213,452
+RP,Philippines,1961,4,278,227,509
+RP,Philippines,1962,4,263,223,490
+RP,Philippines,1963,4,260,221,485
+RP,Philippines,1964,4,271,225,500
+RP,Philippines,1965,5,278,220,503
+RP,Philippines,1966,5,297,219,521
+RP,Philippines,1967,6,295,215,516
+RP,Philippines,1968,6,293,220,519
+RP,Philippines,1969,6,316,222,544
+RP,Philippines,1970,7,318,210,535
+RP,Philippines,1971,9,308,204,521
+RP,Philippines,1972,8,281,195,484
+RP,Philippines,1973,9,268,183,460
+RP,Philippines,1974,10,273,184,467
+RP,Philippines,1975,11,268,204,483
+RP,Philippines,1976,13,309,235,557
+RP,Philippines,1977,19,279,265,563
+RP,Philippines,1978,37,360,281,678
+RP,Philippines,1979,51,482,278,811
+RP,Philippines,1980,73,551,320,944
+RP,Philippines,1981,97,595,375,1067
+RP,Philippines,1982,123,766,336,1225
+RP,Philippines,1983,101,548,324,973
+RP,Philippines,1984,109,638,364,1111
+RP,Philippines,1985,60,725,353,1138
+RP,Philippines,1986,60,697,368,1125
+RP,Philippines,1987,97,660,288,1045
+RP,Philippines,1988,115,985,250,1350
+RP,Philippines,1989,110,820,219,1149
+RP,Philippines,1990,100,670,200,970
+RP,Philippines,1991,105,640,205,950
+RP,Philippines,1992,100,600,200,900
+RP,Philippines,1993,87,580,208,875
+RP,Philippines,1994,78,600,200,878
+RP,Philippines,1995,76,620,180,876
+RP,Philippines,1996,49,833,98,980
+RP,Philippines,1997,35,630,35,700
+RP,Philippines,1998,34,616,34,684
+RP,Philippines,1999,35,675,30,740
+RP,Philippines,2000,40,670,35,745
+RP,Philippines,2001,40,665,30,735
+RP,Philippines,2002,38,660,28,726
+RP,Philippines,2003,35,630,25,690
+RP,Philippines,2004,35,640,25,700
+RP,Philippines,2005,35,650,25,710
+RP,Philippines,2006,35,645,25,705
+RP,Philippines,2007,35,425,0,460
+RP,Philippines,2008,35,325,0,360
+RP,Philippines,2009,20,225,0,245
+RP,Philippines,2010,35,425,0,460
+RP,Philippines,2011,30,425,0,455
+RP,Philippines,2012,30,425,0,455
+RP,Philippines,2013,25,425,0,450
+RP,Philippines,2014,25,450,0,475
+RP,Philippines,2015,25,400,0,425
+RP,Philippines,2016,25,450,0,475
+RP,Philippines,2017,25,425,0,450
+RP,Philippines,2018,25,400,0,425
+RP,Philippines,2019,25,425,0,450
+RP,Philippines,2020,25,400,0,425
+RP,Philippines,2021,25,425,0,450
+RP,Philippines,2022,25,450,0,475
+RP,Philippines,2023,25,425,0,450
+RP,Philippines,2024,25,425,0,450
+RP,Philippines,2025,25,425,0,450
+RP,Philippines,2026,25,450,0,475
+RW,Rwanda,1960,187,0,0,187
+RW,Rwanda,1961,161,0,0,161
+RW,Rwanda,1962,192,0,0,192
+RW,Rwanda,1963,83,0,0,83
+RW,Rwanda,1964,177,0,0,177
+RW,Rwanda,1965,167,0,0,167
+RW,Rwanda,1966,146,0,0,146
+RW,Rwanda,1967,197,0,0,197
+RW,Rwanda,1968,192,0,0,192
+RW,Rwanda,1969,208,0,0,208
+RW,Rwanda,1970,246,0,0,246
+RW,Rwanda,1971,257,0,0,257
+RW,Rwanda,1972,184,0,0,184
+RW,Rwanda,1973,435,0,0,435
+RW,Rwanda,1974,497,0,0,497
+RW,Rwanda,1975,434,0,0,434
+RW,Rwanda,1976,531,0,0,531
+RW,Rwanda,1977,362,0,0,362
+RW,Rwanda,1978,311,0,0,311
+RW,Rwanda,1979,501,0,0,501
+RW,Rwanda,1980,506,0,0,506
+RW,Rwanda,1981,502,0,0,502
+RW,Rwanda,1982,377,0,0,377
+RW,Rwanda,1983,536,0,0,536
+RW,Rwanda,1984,542,0,0,542
+RW,Rwanda,1985,717,0,0,717
+RW,Rwanda,1986,643,0,0,643
+RW,Rwanda,1987,705,0,0,705
+RW,Rwanda,1988,679,0,0,679
+RW,Rwanda,1989,561,0,0,561
+RW,Rwanda,1990,619,0,0,619
+RW,Rwanda,1991,550,0,0,550
+RW,Rwanda,1992,650,0,0,650
+RW,Rwanda,1993,443,0,0,443
+RW,Rwanda,1994,22,0,0,22
+RW,Rwanda,1995,330,0,0,330
+RW,Rwanda,1996,293,0,0,293
+RW,Rwanda,1997,194,0,0,194
+RW,Rwanda,1998,222,0,0,222
+RW,Rwanda,1999,308,0,0,308
+RW,Rwanda,2000,273,0,0,273
+RW,Rwanda,2001,296,0,0,296
+RW,Rwanda,2002,320,0,0,320
+RW,Rwanda,2003,266,0,0,266
+RW,Rwanda,2004,317,0,0,317
+RW,Rwanda,2005,340,0,0,340
+RW,Rwanda,2006,400,0,0,400
+RW,Rwanda,2007,230,0,0,230
+RW,Rwanda,2008,340,0,0,340
+RW,Rwanda,2009,240,0,0,240
+RW,Rwanda,2010,317,0,0,317
+RW,Rwanda,2011,245,0,0,245
+RW,Rwanda,2012,260,0,0,260
+RW,Rwanda,2013,250,0,0,250
+RW,Rwanda,2014,240,0,0,240
+RW,Rwanda,2015,300,0,0,300
+RW,Rwanda,2016,230,0,0,230
+RW,Rwanda,2017,275,0,0,275
+RW,Rwanda,2018,275,0,0,275
+RW,Rwanda,2019,350,0,0,350
+RW,Rwanda,2020,345,0,0,345
+RW,Rwanda,2021,270,0,0,270
+RW,Rwanda,2022,400,0,0,400
+RW,Rwanda,2023,280,0,0,280
+RW,Rwanda,2024,260,0,0,260
+RW,Rwanda,2025,350,0,0,350
+RW,Rwanda,2026,350,0,0,350
+SL,Sierra Leone,1960,0,89,0,89
+SL,Sierra Leone,1961,0,87,0,87
+SL,Sierra Leone,1962,0,88,0,88
+SL,Sierra Leone,1963,0,104,0,104
+SL,Sierra Leone,1964,0,69,0,69
+SL,Sierra Leone,1965,0,173,0,173
+SL,Sierra Leone,1966,0,52,0,52
+SL,Sierra Leone,1967,0,73,0,73
+SL,Sierra Leone,1968,0,138,0,138
+SL,Sierra Leone,1969,0,109,0,109
+SL,Sierra Leone,1970,0,163,0,163
+SL,Sierra Leone,1971,0,129,0,129
+SL,Sierra Leone,1972,0,195,0,195
+SL,Sierra Leone,1973,0,57,0,57
+SL,Sierra Leone,1974,0,111,0,111
+SL,Sierra Leone,1975,0,64,0,64
+SL,Sierra Leone,1976,0,168,0,168
+SL,Sierra Leone,1977,0,77,0,77
+SL,Sierra Leone,1978,0,230,0,230
+SL,Sierra Leone,1979,0,172,0,172
+SL,Sierra Leone,1980,0,147,0,147
+SL,Sierra Leone,1981,0,176,0,176
+SL,Sierra Leone,1982,0,233,0,233
+SL,Sierra Leone,1983,0,42,0,42
+SL,Sierra Leone,1984,0,129,0,129
+SL,Sierra Leone,1985,0,107,0,107
+SL,Sierra Leone,1986,0,95,0,95
+SL,Sierra Leone,1987,0,110,0,110
+SL,Sierra Leone,1988,0,92,0,92
+SL,Sierra Leone,1989,0,100,0,100
+SL,Sierra Leone,1990,0,100,0,100
+SL,Sierra Leone,1991,0,90,0,90
+SL,Sierra Leone,1992,0,90,0,90
+SL,Sierra Leone,1993,0,37,0,37
+SL,Sierra Leone,1994,0,73,0,73
+SL,Sierra Leone,1995,0,44,0,44
+SL,Sierra Leone,1996,0,41,0,41
+SL,Sierra Leone,1997,0,50,0,50
+SL,Sierra Leone,1998,0,27,0,27
+SL,Sierra Leone,1999,0,59,0,59
+SL,Sierra Leone,2000,0,53,0,53
+SL,Sierra Leone,2001,0,79,0,79
+SL,Sierra Leone,2002,0,42,0,42
+SL,Sierra Leone,2003,0,34,0,34
+SL,Sierra Leone,2004,0,15,0,15
+SL,Sierra Leone,2005,0,60,0,60
+SL,Sierra Leone,2006,0,31,0,31
+SL,Sierra Leone,2007,0,42,0,42
+SL,Sierra Leone,2008,0,87,0,87
+SL,Sierra Leone,2009,0,90,0,90
+SL,Sierra Leone,2010,0,45,0,45
+SL,Sierra Leone,2011,0,90,0,90
+SL,Sierra Leone,2012,0,70,0,70
+SL,Sierra Leone,2013,0,45,0,45
+SL,Sierra Leone,2014,0,65,0,65
+SL,Sierra Leone,2015,0,60,0,60
+SL,Sierra Leone,2016,0,60,0,60
+SL,Sierra Leone,2017,0,65,0,65
+SL,Sierra Leone,2018,0,50,0,50
+SL,Sierra Leone,2019,0,65,0,65
+SL,Sierra Leone,2020,0,75,0,75
+SL,Sierra Leone,2021,0,33,0,33
+SL,Sierra Leone,2022,0,55,0,55
+SL,Sierra Leone,2023,0,35,0,35
+SL,Sierra Leone,2024,0,58,0,58
+SL,Sierra Leone,2025,0,30,0,30
+SL,Sierra Leone,2026,0,30,0,30
+TD,Trinidad and Tobago,1960,1,37,0,38
+TD,Trinidad and Tobago,1961,1,27,0,28
+TD,Trinidad and Tobago,1962,1,58,0,59
+TD,Trinidad and Tobago,1963,1,61,0,62
+TD,Trinidad and Tobago,1964,1,55,0,56
+TD,Trinidad and Tobago,1965,1,40,0,41
+TD,Trinidad and Tobago,1966,1,44,0,45
+TD,Trinidad and Tobago,1967,1,72,0,73
+TD,Trinidad and Tobago,1968,1,43,0,44
+TD,Trinidad and Tobago,1969,1,33,0,34
+TD,Trinidad and Tobago,1970,1,56,0,57
+TD,Trinidad and Tobago,1971,1,53,0,54
+TD,Trinidad and Tobago,1972,1,45,0,46
+TD,Trinidad and Tobago,1973,1,30,0,31
+TD,Trinidad and Tobago,1974,1,64,0,65
+TD,Trinidad and Tobago,1975,1,41,0,42
+TD,Trinidad and Tobago,1976,1,59,0,60
+TD,Trinidad and Tobago,1977,1,40,0,41
+TD,Trinidad and Tobago,1978,1,38,0,39
+TD,Trinidad and Tobago,1979,1,36,0,37
+TD,Trinidad and Tobago,1980,1,45,0,46
+TD,Trinidad and Tobago,1981,1,43,0,44
+TD,Trinidad and Tobago,1982,1,22,0,23
+TD,Trinidad and Tobago,1983,1,29,0,30
+TD,Trinidad and Tobago,1984,1,29,0,30
+TD,Trinidad and Tobago,1985,1,34,0,35
+TD,Trinidad and Tobago,1986,1,30,0,31
+TD,Trinidad and Tobago,1987,1,9,0,10
+TD,Trinidad and Tobago,1988,1,19,0,20
+TD,Trinidad and Tobago,1989,1,14,0,15
+TD,Trinidad and Tobago,1990,1,14,0,15
+TD,Trinidad and Tobago,1991,1,14,0,15
+TD,Trinidad and Tobago,1992,1,14,0,15
+TD,Trinidad and Tobago,1993,1,15,0,16
+TD,Trinidad and Tobago,1994,1,17,0,18
+TD,Trinidad and Tobago,1995,1,17,0,18
+TD,Trinidad and Tobago,1996,1,17,0,18
+TD,Trinidad and Tobago,1997,1,19,0,20
+TD,Trinidad and Tobago,1998,1,16,0,17
+TD,Trinidad and Tobago,1999,1,15,0,16
+TD,Trinidad and Tobago,2000,1,13,0,14
+TD,Trinidad and Tobago,2001,1,15,0,16
+TD,Trinidad and Tobago,2002,1,15,0,16
+TD,Trinidad and Tobago,2003,1,15,0,16
+TD,Trinidad and Tobago,2004,1,14,0,15
+TD,Trinidad and Tobago,2005,1,14,0,15
+TD,Trinidad and Tobago,2006,1,11,0,12
+TD,Trinidad and Tobago,2007,1,1,0,2
+TD,Trinidad and Tobago,2008,1,1,0,2
+TD,Trinidad and Tobago,2009,0,0,0,0
+TD,Trinidad and Tobago,2010,0,0,0,0
+TD,Trinidad and Tobago,2011,0,0,0,0
+TD,Trinidad and Tobago,2012,0,0,0,0
+TD,Trinidad and Tobago,2013,0,0,0,0
+TD,Trinidad and Tobago,2014,0,0,0,0
+TD,Trinidad and Tobago,2015,0,0,0,0
+TD,Trinidad and Tobago,2016,0,0,0,0
+TD,Trinidad and Tobago,2017,0,0,0,0
+TD,Trinidad and Tobago,2018,0,0,0,0
+TD,Trinidad and Tobago,2019,0,0,0,0
+TD,Trinidad and Tobago,2020,0,0,0,0
+TD,Trinidad and Tobago,2021,0,0,0,0
+TD,Trinidad and Tobago,2022,0,0,0,0
+TD,Trinidad and Tobago,2023,0,0,0,0
+TD,Trinidad and Tobago,2024,0,0,0,0
+TD,Trinidad and Tobago,2025,0,0,0,0
+TD,Trinidad and Tobago,2026,0,0,0,0
+TH,Thailand,1960,0,1,0,1
+TH,Thailand,1961,0,1,0,1
+TH,Thailand,1962,0,1,0,1
+TH,Thailand,1963,0,1,0,1
+TH,Thailand,1964,1,1,0,2
+TH,Thailand,1965,1,1,0,2
+TH,Thailand,1966,1,1,0,2
+TH,Thailand,1967,1,2,0,3
+TH,Thailand,1968,1,3,0,4
+TH,Thailand,1969,1,9,0,10
+TH,Thailand,1970,1,18,0,19
+TH,Thailand,1971,1,27,0,28
+TH,Thailand,1972,1,36,0,37
+TH,Thailand,1973,2,65,0,67
+TH,Thailand,1974,2,80,0,82
+TH,Thailand,1975,2,100,0,102
+TH,Thailand,1976,2,103,0,105
+TH,Thailand,1977,2,122,0,124
+TH,Thailand,1978,3,122,0,125
+TH,Thailand,1979,3,149,0,152
+TH,Thailand,1980,3,198,0,201
+TH,Thailand,1981,4,273,0,277
+TH,Thailand,1982,5,319,0,324
+TH,Thailand,1983,5,359,0,364
+TH,Thailand,1984,6,464,0,470
+TH,Thailand,1985,6,521,0,527
+TH,Thailand,1986,6,421,0,427
+TH,Thailand,1987,6,586,0,592
+TH,Thailand,1988,6,1019,0,1025
+TH,Thailand,1989,6,794,0,800
+TH,Thailand,1990,50,735,0,785
+TH,Thailand,1991,10,990,0,1000
+TH,Thailand,1992,10,1165,0,1175
+TH,Thailand,1993,10,1265,0,1275
+TH,Thailand,1994,10,1389,0,1399
+TH,Thailand,1995,10,1307,0,1317
+TH,Thailand,1996,20,1383,0,1403
+TH,Thailand,1997,10,1283,0,1293
+TH,Thailand,1998,10,906,0,916
+TH,Thailand,1999,0,1273,0,1273
+TH,Thailand,2000,0,1692,0,1692
+TH,Thailand,2001,0,715,0,715
+TH,Thailand,2002,0,732,0,732
+TH,Thailand,2003,0,827,0,827
+TH,Thailand,2004,0,884,0,884
+TH,Thailand,2005,0,1000,0,1000
+TH,Thailand,2006,0,850,0,850
+TH,Thailand,2007,0,900,0,900
+TH,Thailand,2008,0,800,0,800
+TH,Thailand,2009,0,900,0,900
+TH,Thailand,2010,0,1000,0,1000
+TH,Thailand,2011,0,1000,0,1000
+TH,Thailand,2012,0,1000,0,1000
+TH,Thailand,2013,0,1000,0,1000
+TH,Thailand,2014,0,1000,0,1000
+TH,Thailand,2015,0,700,0,700
+TH,Thailand,2016,0,800,0,800
+TH,Thailand,2017,0,700,0,700
+TH,Thailand,2018,0,650,0,650
+TH,Thailand,2019,0,700,0,700
+TH,Thailand,2020,0,600,0,600
+TH,Thailand,2021,0,650,0,650
+TH,Thailand,2022,0,700,0,700
+TH,Thailand,2023,0,750,0,750
+TH,Thailand,2024,0,900,0,900
+TH,Thailand,2025,0,900,0,900
+TH,Thailand,2026,0,900,0,900
+TO,Togo,1960,0,167,0,167
+TO,Togo,1961,0,196,0,196
+TO,Togo,1962,0,119,0,119
+TO,Togo,1963,0,280,0,280
+TO,Togo,1964,0,144,0,144
+TO,Togo,1965,0,249,0,249
+TO,Togo,1966,0,58,0,58
+TO,Togo,1967,0,173,0,173
+TO,Togo,1968,0,277,0,277
+TO,Togo,1969,0,232,0,232
+TO,Togo,1970,0,213,0,213
+TO,Togo,1971,0,103,0,103
+TO,Togo,1972,0,190,0,190
+TO,Togo,1973,0,238,0,238
+TO,Togo,1974,0,115,0,115
+TO,Togo,1975,0,151,0,151
+TO,Togo,1976,0,177,0,177
+TO,Togo,1977,0,82,0,82
+TO,Togo,1978,0,105,0,105
+TO,Togo,1979,0,182,0,182
+TO,Togo,1980,0,165,0,165
+TO,Togo,1981,0,225,0,225
+TO,Togo,1982,0,284,0,284
+TO,Togo,1983,0,275,0,275
+TO,Togo,1984,0,215,0,215
+TO,Togo,1985,0,275,0,275
+TO,Togo,1986,0,260,0,260
+TO,Togo,1987,0,290,0,290
+TO,Togo,1988,0,300,0,300
+TO,Togo,1989,0,215,0,215
+TO,Togo,1990,0,161,0,161
+TO,Togo,1991,0,432,0,432
+TO,Togo,1992,0,86,0,86
+TO,Togo,1993,0,195,0,195
+TO,Togo,1994,0,176,0,176
+TO,Togo,1995,0,85,0,85
+TO,Togo,1996,0,290,0,290
+TO,Togo,1997,0,222,0,222
+TO,Togo,1998,0,321,0,321
+TO,Togo,1999,0,263,0,263
+TO,Togo,2000,0,197,0,197
+TO,Togo,2001,0,112,0,112
+TO,Togo,2002,0,68,0,68
+TO,Togo,2003,0,144,0,144
+TO,Togo,2004,0,166,0,166
+TO,Togo,2005,0,140,0,140
+TO,Togo,2006,0,180,0,180
+TO,Togo,2007,0,255,0,255
+TO,Togo,2008,0,185,0,185
+TO,Togo,2009,0,436,0,436
+TO,Togo,2010,0,615,0,615
+TO,Togo,2011,0,560,0,560
+TO,Togo,2012,0,200,0,200
+TO,Togo,2013,0,165,0,165
+TO,Togo,2014,0,175,0,175
+TO,Togo,2015,0,120,0,120
+TO,Togo,2016,0,80,0,80
+TO,Togo,2017,0,130,0,130
+TO,Togo,2018,0,95,0,95
+TO,Togo,2019,0,100,0,100
+TO,Togo,2020,0,85,0,85
+TO,Togo,2021,0,80,0,80
+TO,Togo,2022,0,110,0,110
+TO,Togo,2023,0,75,0,75
+TO,Togo,2024,0,90,0,90
+TO,Togo,2025,0,90,0,90
+TO,Togo,2026,0,90,0,90
+TZ,Tanzania,1960,308,154,0,462
+TZ,Tanzania,1961,200,100,0,300
+TZ,Tanzania,1962,300,148,0,448
+TZ,Tanzania,1963,340,169,0,509
+TZ,Tanzania,1964,352,176,0,528
+TZ,Tanzania,1965,507,253,0,760
+TZ,Tanzania,1966,563,281,0,844
+TZ,Tanzania,1967,418,209,0,627
+TZ,Tanzania,1968,610,341,0,951
+TZ,Tanzania,1969,400,199,0,599
+TZ,Tanzania,1970,606,303,0,909
+TZ,Tanzania,1971,606,302,0,908
+TZ,Tanzania,1972,749,374,0,1123
+TZ,Tanzania,1973,331,165,0,496
+TZ,Tanzania,1974,624,311,0,935
+TZ,Tanzania,1975,640,319,0,959
+TZ,Tanzania,1976,537,268,0,805
+TZ,Tanzania,1977,577,258,0,835
+TZ,Tanzania,1978,571,285,0,856
+TZ,Tanzania,1979,475,286,0,761
+TZ,Tanzania,1980,819,241,0,1060
+TZ,Tanzania,1981,737,222,0,959
+TZ,Tanzania,1982,801,232,0,1033
+TZ,Tanzania,1983,625,218,0,843
+TZ,Tanzania,1984,600,196,0,796
+TZ,Tanzania,1985,642,225,0,867
+TZ,Tanzania,1986,503,198,0,701
+TZ,Tanzania,1987,638,180,0,818
+TZ,Tanzania,1988,759,203,0,962
+TZ,Tanzania,1989,613,275,0,888
+TZ,Tanzania,1990,553,210,0,763
+TZ,Tanzania,1991,640,150,0,790
+TZ,Tanzania,1992,792,200,0,992
+TZ,Tanzania,1993,626,110,0,736
+TZ,Tanzania,1994,475,205,0,680
+TZ,Tanzania,1995,754,143,0,897
+TZ,Tanzania,1996,572,193,0,765
+TZ,Tanzania,1997,427,197,0,624
+TZ,Tanzania,1998,493,246,0,739
+TZ,Tanzania,1999,623,219,0,842
+TZ,Tanzania,2000,628,181,0,809
+TZ,Tanzania,2001,449,175,0,624
+TZ,Tanzania,2002,478,346,0,824
+TZ,Tanzania,2003,379,233,0,612
+TZ,Tanzania,2004,570,500,0,1070
+TZ,Tanzania,2005,460,150,0,610
+TZ,Tanzania,2006,590,325,0,915
+TZ,Tanzania,2007,490,250,0,740
+TZ,Tanzania,2008,650,500,0,1150
+TZ,Tanzania,2009,400,200,0,600
+TZ,Tanzania,2010,600,450,0,1050
+TZ,Tanzania,2011,365,200,0,565
+TZ,Tanzania,2012,610,570,0,1180
+TZ,Tanzania,2013,450,350,0,800
+TZ,Tanzania,2014,600,550,0,1150
+TZ,Tanzania,2015,600,500,0,1100
+TZ,Tanzania,2016,550,500,0,1050
+TZ,Tanzania,2017,600,550,0,1150
+TZ,Tanzania,2018,650,550,0,1200
+TZ,Tanzania,2019,625,575,0,1200
+TZ,Tanzania,2020,600,525,0,1125
+TZ,Tanzania,2021,650,550,0,1200
+TZ,Tanzania,2022,650,550,0,1200
+TZ,Tanzania,2023,750,600,0,1350
+TZ,Tanzania,2024,700,650,0,1350
+TZ,Tanzania,2025,750,700,0,1450
+TZ,Tanzania,2026,850,750,0,1600
+UG,Uganda,1960,150,1775,0,1925
+UG,Uganda,1961,150,1873,0,2023
+UG,Uganda,1962,220,2731,0,2951
+UG,Uganda,1963,190,2344,0,2534
+UG,Uganda,1964,175,2278,0,2453
+UG,Uganda,1965,250,2328,0,2578
+UG,Uganda,1966,200,2537,0,2737
+UG,Uganda,1967,250,2028,0,2278
+UG,Uganda,1968,410,3708,0,4118
+UG,Uganda,1969,260,3019,0,3279
+UG,Uganda,1970,220,2447,0,2667
+UG,Uganda,1971,380,2503,0,2883
+UG,Uganda,1972,400,3780,0,4180
+UG,Uganda,1973,240,3026,0,3266
+UG,Uganda,1974,270,3061,0,3331
+UG,Uganda,1975,150,2064,0,2214
+UG,Uganda,1976,200,2460,0,2660
+UG,Uganda,1977,150,1778,0,1928
+UG,Uganda,1978,150,1794,0,1944
+UG,Uganda,1979,175,1867,0,2042
+UG,Uganda,1980,170,1963,0,2133
+UG,Uganda,1981,190,2695,0,2885
+UG,Uganda,1982,220,2780,0,3000
+UG,Uganda,1983,210,2490,0,2700
+UG,Uganda,1984,200,2600,0,2800
+UG,Uganda,1985,200,2500,0,2700
+UG,Uganda,1986,180,2520,0,2700
+UG,Uganda,1987,180,2420,0,2600
+UG,Uganda,1988,375,2925,0,3300
+UG,Uganda,1989,285,2215,0,2500
+UG,Uganda,1990,180,2520,0,2700
+UG,Uganda,1991,200,2700,0,2900
+UG,Uganda,1992,200,2600,0,2800
+UG,Uganda,1993,200,2500,0,2700
+UG,Uganda,1994,200,2900,0,3100
+UG,Uganda,1995,200,4000,0,4200
+UG,Uganda,1996,408,3889,0,4297
+UG,Uganda,1997,325,2707,0,3032
+UG,Uganda,1998,436,3204,0,3640
+UG,Uganda,1999,436,3272,0,3708
+UG,Uganda,2000,355,2742,0,3097
+UG,Uganda,2001,415,2850,0,3265
+UG,Uganda,2002,450,2306,0,2756
+UG,Uganda,2003,524,2221,0,2745
+UG,Uganda,2004,545,2149,0,2694
+UG,Uganda,2005,625,1550,0,2175
+UG,Uganda,2006,579,2326,0,2905
+UG,Uganda,2007,508,2982,0,3490
+UG,Uganda,2008,650,2610,0,3260
+UG,Uganda,2009,818,2052,0,2870
+UG,Uganda,2010,644,2568,0,3212
+UG,Uganda,2011,875,2200,0,3075
+UG,Uganda,2012,800,2800,0,3600
+UG,Uganda,2013,850,3000,0,3850
+UG,Uganda,2014,800,2700,0,3500
+UG,Uganda,2015,950,2600,0,3550
+UG,Uganda,2016,1100,3775,0,4875
+UG,Uganda,2017,1200,3400,0,4600
+UG,Uganda,2018,1050,3600,0,4650
+UG,Uganda,2019,1025,4450,0,5475
+UG,Uganda,2020,730,5900,0,6630
+UG,Uganda,2021,990,5060,0,6050
+UG,Uganda,2022,990,5575,0,6565
+UG,Uganda,2023,1000,5400,0,6400
+UG,Uganda,2024,1030,5670,0,6700
+UG,Uganda,2025,1120,5975,0,7095
+UG,Uganda,2026,1135,6025,0,7160
+US,United States,1960,277,0,0,277
+US,United States,1961,316,0,0,316
+US,United States,1962,380,0,0,380
+US,United States,1963,278,0,0,278
+US,United States,1964,344,0,0,344
+US,United States,1965,272,0,0,272
+US,United States,1966,264,0,0,264
+US,United States,1967,279,0,0,279
+US,United States,1968,231,0,0,231
+US,United States,1969,176,0,0,176
+US,United States,1970,283,0,0,283
+US,United States,1971,199,0,0,199
+US,United States,1972,226,0,0,226
+US,United States,1973,246,0,0,246
+US,United States,1974,184,0,0,184
+US,United States,1975,202,0,0,202
+US,United States,1976,158,0,0,158
+US,United States,1977,213,0,0,213
+US,United States,1978,169,0,0,169
+US,United States,1979,211,0,0,211
+US,United States,1980,236,0,0,236
+US,United States,1981,229,0,0,229
+US,United States,1982,267,0,0,267
+US,United States,1983,221,0,0,221
+US,United States,1984,245,0,0,245
+US,United States,1985,200,0,0,200
+US,United States,1986,284,0,0,284
+US,United States,1987,230,0,0,230
+US,United States,1988,257,0,0,257
+US,United States,1989,239,0,0,239
+US,United States,1990,229,0,0,229
+US,United States,1991,229,0,0,229
+US,United States,1992,225,0,0,225
+US,United States,1993,228,0,0,228
+US,United States,1994,237,0,0,237
+US,United States,1995,236,0,0,236
+US,United States,1996,270,0,0,270
+US,United States,1997,232,0,0,232
+US,United States,1998,163,0,0,163
+US,United States,1999,185,0,0,185
+US,United States,2000,183,0,0,183
+US,United States,2001,163,0,0,163
+US,United States,2002,163,0,0,163
+US,United States,2003,186,0,0,186
+US,United States,2004,140,0,0,140
+US,United States,2005,161,0,0,161
+US,United States,2006,152,0,0,152
+US,United States,2007,136,0,0,136
+US,United States,2008,125,0,0,125
+US,United States,2009,53,0,0,53
+US,United States,2010,53,0,0,53
+US,United States,2011,46,0,0,46
+US,United States,2012,42,0,0,42
+US,United States,2013,51,0,0,51
+US,United States,2014,45,0,0,45
+US,United States,2015,40,0,0,40
+US,United States,2016,33,0,0,33
+US,United States,2017,32,0,0,32
+US,United States,2018,54,0,0,54
+US,United States,2019,39,0,0,39
+US,United States,2020,33,0,0,33
+US,United States,2021,38,0,0,38
+US,United States,2022,40,0,0,40
+US,United States,2023,50,0,0,50
+US,United States,2024,50,0,0,50
+US,United States,2025,50,0,0,50
+US,United States,2026,50,0,0,50
+VE,Venezuela,1960,902,0,0,902
+VE,Venezuela,1961,714,0,0,714
+VE,Venezuela,1962,874,0,0,874
+VE,Venezuela,1963,872,0,0,872
+VE,Venezuela,1964,786,0,0,786
+VE,Venezuela,1965,907,0,0,907
+VE,Venezuela,1966,898,0,0,898
+VE,Venezuela,1967,687,0,0,687
+VE,Venezuela,1968,898,0,0,898
+VE,Venezuela,1969,973,0,0,973
+VE,Venezuela,1970,936,0,0,936
+VE,Venezuela,1971,965,0,0,965
+VE,Venezuela,1972,846,0,0,846
+VE,Venezuela,1973,1083,0,0,1083
+VE,Venezuela,1974,1060,0,0,1060
+VE,Venezuela,1975,923,0,0,923
+VE,Venezuela,1976,656,0,0,656
+VE,Venezuela,1977,1061,0,0,1061
+VE,Venezuela,1978,1011,0,0,1011
+VE,Venezuela,1979,1031,0,0,1031
+VE,Venezuela,1980,1109,0,0,1109
+VE,Venezuela,1981,1107,0,0,1107
+VE,Venezuela,1982,791,0,0,791
+VE,Venezuela,1983,1025,0,0,1025
+VE,Venezuela,1984,1213,0,0,1213
+VE,Venezuela,1985,960,0,0,960
+VE,Venezuela,1986,1169,0,0,1169
+VE,Venezuela,1987,1331,0,0,1331
+VE,Venezuela,1988,1127,0,0,1127
+VE,Venezuela,1989,1075,0,0,1075
+VE,Venezuela,1990,843,0,0,843
+VE,Venezuela,1991,1350,0,0,1350
+VE,Venezuela,1992,750,0,0,750
+VE,Venezuela,1993,920,0,0,920
+VE,Venezuela,1994,920,0,0,920
+VE,Venezuela,1995,1067,0,0,1067
+VE,Venezuela,1996,843,0,0,843
+VE,Venezuela,1997,1380,0,0,1380
+VE,Venezuela,1998,1250,0,0,1250
+VE,Venezuela,1999,880,0,0,880
+VE,Venezuela,2000,1027,0,0,1027
+VE,Venezuela,2001,1065,0,0,1065
+VE,Venezuela,2002,920,0,0,920
+VE,Venezuela,2003,825,0,0,825
+VE,Venezuela,2004,800,0,0,800
+VE,Venezuela,2005,820,0,0,820
+VE,Venezuela,2006,862,0,0,862
+VE,Venezuela,2007,996,0,0,996
+VE,Venezuela,2008,1000,0,0,1000
+VE,Venezuela,2009,725,0,0,725
+VE,Venezuela,2010,625,0,0,625
+VE,Venezuela,2011,700,0,0,700
+VE,Venezuela,2012,730,0,0,730
+VE,Venezuela,2013,700,0,0,700
+VE,Venezuela,2014,460,0,0,460
+VE,Venezuela,2015,500,0,0,500
+VE,Venezuela,2016,530,0,0,530
+VE,Venezuela,2017,575,0,0,575
+VE,Venezuela,2018,585,0,0,585
+VE,Venezuela,2019,550,0,0,550
+VE,Venezuela,2020,480,0,0,480
+VE,Venezuela,2021,500,0,0,500
+VE,Venezuela,2022,500,0,0,500
+VE,Venezuela,2023,500,0,0,500
+VE,Venezuela,2024,500,0,0,500
+VE,Venezuela,2025,500,0,0,500
+VE,Venezuela,2026,500,0,0,500
+VM,Vietnam,1960,3,50,23,76
+VM,Vietnam,1961,2,44,20,66
+VM,Vietnam,1962,2,44,20,66
+VM,Vietnam,1963,2,40,18,60
+VM,Vietnam,1964,2,44,20,66
+VM,Vietnam,1965,3,50,23,76
+VM,Vietnam,1966,3,57,26,86
+VM,Vietnam,1967,2,44,20,66
+VM,Vietnam,1968,2,44,20,66
+VM,Vietnam,1969,2,44,20,66
+VM,Vietnam,1970,2,37,17,56
+VM,Vietnam,1971,2,34,15,51
+VM,Vietnam,1972,2,37,17,56
+VM,Vietnam,1973,2,37,17,56
+VM,Vietnam,1974,2,40,18,60
+VM,Vietnam,1975,0,54,0,54
+VM,Vietnam,1976,0,93,0,93
+VM,Vietnam,1977,0,91,0,91
+VM,Vietnam,1978,0,84,0,84
+VM,Vietnam,1979,0,140,0,140
+VM,Vietnam,1980,0,77,0,77
+VM,Vietnam,1981,0,77,0,77
+VM,Vietnam,1982,0,83,0,83
+VM,Vietnam,1983,0,69,0,69
+VM,Vietnam,1984,0,206,0,206
+VM,Vietnam,1985,0,314,0,314
+VM,Vietnam,1986,0,454,0,454
+VM,Vietnam,1987,0,579,0,579
+VM,Vietnam,1988,0,922,0,922
+VM,Vietnam,1989,0,985,0,985
+VM,Vietnam,1990,0,1200,0,1200
+VM,Vietnam,1991,0,1980,0,1980
+VM,Vietnam,1992,0,2250,0,2250
+VM,Vietnam,1993,0,2500,0,2500
+VM,Vietnam,1994,0,3500,0,3500
+VM,Vietnam,1995,17,3900,0,3917
+VM,Vietnam,1996,50,5700,0,5750
+VM,Vietnam,1997,67,6933,0,7000
+VM,Vietnam,1998,67,7433,0,7500
+VM,Vietnam,1999,90,10920,0,11010
+VM,Vietnam,2000,117,15216,0,15333
+VM,Vietnam,2001,166,12667,0,12833
+VM,Vietnam,2002,250,10917,0,11167
+VM,Vietnam,2003,266,14734,0,15000
+VM,Vietnam,2004,383,14117,0,14500
+VM,Vietnam,2005,335,16000,0,16335
+VM,Vietnam,2006,500,19000,0,19500
+VM,Vietnam,2007,400,17600,0,18000
+VM,Vietnam,2008,480,16500,0,16980
+VM,Vietnam,2009,450,18050,0,18500
+VM,Vietnam,2010,650,18765,0,19415
+VM,Vietnam,2011,800,25200,0,26000
+VM,Vietnam,2012,900,25600,0,26500
+VM,Vietnam,2013,1175,28658,0,29833
+VM,Vietnam,2014,1050,26350,0,27400
+VM,Vietnam,2015,1100,27830,0,28930
+VM,Vietnam,2016,1100,25600,0,26700
+VM,Vietnam,2017,1026,28274,0,29300
+VM,Vietnam,2018,1064,29336,0,30400
+VM,Vietnam,2019,1100,30200,0,31300
+VM,Vietnam,2020,950,28050,0,29000
+VM,Vietnam,2021,1100,30480,0,31580
+VM,Vietnam,2022,1000,27300,0,28300
+VM,Vietnam,2023,1000,26550,0,27550
+VM,Vietnam,2024,1000,28000,0,29000
+VM,Vietnam,2025,1200,30500,0,31700
+VM,Vietnam,2026,1100,31400,0,32500
+YE,Yemen (Sanaa),1960,90,0,0,90
+YE,Yemen (Sanaa),1961,90,0,0,90
+YE,Yemen (Sanaa),1962,82,0,0,82
+YE,Yemen (Sanaa),1963,80,0,0,80
+YE,Yemen (Sanaa),1964,90,0,0,90
+YE,Yemen (Sanaa),1965,75,0,0,75
+YE,Yemen (Sanaa),1966,60,0,0,60
+YE,Yemen (Sanaa),1967,60,0,0,60
+YE,Yemen (Sanaa),1968,70,0,0,70
+YE,Yemen (Sanaa),1969,60,0,0,60
+YE,Yemen (Sanaa),1970,60,0,0,60
+YE,Yemen (Sanaa),1971,55,0,0,55
+YE,Yemen (Sanaa),1972,55,0,0,55
+YE,Yemen (Sanaa),1973,45,0,0,45
+YE,Yemen (Sanaa),1974,45,0,0,45
+YE,Yemen (Sanaa),1975,45,0,0,45
+YE,Yemen (Sanaa),1976,45,0,0,45
+YE,Yemen (Sanaa),1977,48,0,0,48
+YE,Yemen (Sanaa),1978,50,0,0,50
+YE,Yemen (Sanaa),1979,53,0,0,53
+YE,Yemen (Sanaa),1980,60,0,0,60
+YE,Yemen (Sanaa),1981,58,0,0,58
+YE,Yemen (Sanaa),1982,57,0,0,57
+YE,Yemen (Sanaa),1983,50,0,0,50
+YE,Yemen (Sanaa),1984,53,0,0,53
+YE,Yemen (Sanaa),1985,65,0,0,65
+YE,Yemen (Sanaa),1986,55,0,0,55
+YE,Yemen (Sanaa),1987,60,0,0,60
+YE,Yemen (Sanaa),1988,65,0,0,65
+YE,Yemen (Sanaa),1989,65,0,0,65
+YE,Yemen (Sanaa),1990,65,0,0,65
+YM,Yemen,1991,65,0,0,65
+YM,Yemen,1992,65,0,0,65
+YM,Yemen,1993,65,0,0,65
+YM,Yemen,1994,50,0,0,50
+YM,Yemen,1995,70,0,0,70
+YM,Yemen,1996,70,0,0,70
+YM,Yemen,1997,75,0,0,75
+YM,Yemen,1998,188,0,0,188
+YM,Yemen,1999,186,0,0,186
+YM,Yemen,2000,189,0,0,189
+YM,Yemen,2001,198,0,0,198
+YM,Yemen,2002,192,0,0,192
+YM,Yemen,2003,193,0,0,193
+YM,Yemen,2004,171,0,0,171
+YM,Yemen,2005,189,0,0,189
+YM,Yemen,2006,200,0,0,200
+YM,Yemen,2007,150,0,0,150
+YM,Yemen,2008,150,0,0,150
+YM,Yemen,2009,150,0,0,150
+YM,Yemen,2010,145,0,0,145
+YM,Yemen,2011,135,0,0,135
+YM,Yemen,2012,140,0,0,140
+YM,Yemen,2013,135,0,0,135
+YM,Yemen,2014,130,0,0,130
+YM,Yemen,2015,0,0,0,0
+YM,Yemen,2016,0,0,0,0
+YM,Yemen,2017,0,0,0,0
+YM,Yemen,2018,0,0,0,0
+YM,Yemen,2019,0,0,0,0
+YM,Yemen,2020,0,0,0,0
+YM,Yemen,2021,0,0,0,0
+YM,Yemen,2022,0,0,0,0
+YM,Yemen,2023,0,0,0,0
+YM,Yemen,2024,0,0,0,0
+YM,Yemen,2025,0,0,0,0
+YM,Yemen,2026,0,0,0,0
+ZA,Zambia,1960,0,0,0,0
+ZA,Zambia,1961,0,0,0,0
+ZA,Zambia,1962,0,0,0,0
+ZA,Zambia,1963,0,0,0,0
+ZA,Zambia,1964,0,0,0,0
+ZA,Zambia,1965,0,0,0,0
+ZA,Zambia,1966,1,0,0,1
+ZA,Zambia,1967,1,0,0,1
+ZA,Zambia,1968,1,0,0,1
+ZA,Zambia,1969,1,0,0,1
+ZA,Zambia,1970,1,0,0,1
+ZA,Zambia,1971,1,0,0,1
+ZA,Zambia,1972,1,0,0,1
+ZA,Zambia,1973,1,0,0,1
+ZA,Zambia,1974,1,0,0,1
+ZA,Zambia,1975,2,0,0,2
+ZA,Zambia,1976,2,0,0,2
+ZA,Zambia,1977,2,0,0,2
+ZA,Zambia,1978,2,0,0,2
+ZA,Zambia,1979,1,0,0,1
+ZA,Zambia,1980,2,0,0,2
+ZA,Zambia,1981,2,0,0,2
+ZA,Zambia,1982,3,0,0,3
+ZA,Zambia,1983,7,0,0,7
+ZA,Zambia,1984,6,0,0,6
+ZA,Zambia,1985,10,0,0,10
+ZA,Zambia,1986,13,0,0,13
+ZA,Zambia,1987,11,0,0,11
+ZA,Zambia,1988,10,0,0,10
+ZA,Zambia,1989,15,0,0,15
+ZA,Zambia,1990,15,0,0,15
+ZA,Zambia,1991,15,0,0,15
+ZA,Zambia,1992,28,0,0,28
+ZA,Zambia,1993,27,0,0,27
+ZA,Zambia,1994,22,0,0,22
+ZA,Zambia,1995,27,0,0,27
+ZA,Zambia,1996,33,0,0,33
+ZA,Zambia,1997,40,0,0,40
+ZA,Zambia,1998,62,0,0,62
+ZA,Zambia,1999,59,0,0,59
+ZA,Zambia,2000,94,0,0,94
+ZA,Zambia,2001,100,0,0,100
+ZA,Zambia,2002,119,0,0,119
+ZA,Zambia,2003,100,0,0,100
+ZA,Zambia,2004,110,0,0,110
+ZA,Zambia,2005,103,0,0,103
+ZA,Zambia,2006,56,0,0,56
+ZA,Zambia,2007,60,0,0,60
+ZA,Zambia,2008,39,0,0,39
+ZA,Zambia,2009,27,0,0,27
+ZA,Zambia,2010,0,0,0,0
+ZA,Zambia,2011,0,0,0,0
+ZA,Zambia,2012,0,0,0,0
+ZA,Zambia,2013,0,0,0,0
+ZA,Zambia,2014,0,0,0,0
+ZA,Zambia,2015,0,0,0,0
+ZA,Zambia,2016,0,0,0,0
+ZA,Zambia,2017,0,0,0,0
+ZA,Zambia,2018,0,0,0,0
+ZA,Zambia,2019,0,0,0,0
+ZA,Zambia,2020,0,0,0,0
+ZA,Zambia,2021,0,0,0,0
+ZA,Zambia,2022,0,0,0,0
+ZA,Zambia,2023,0,0,0,0
+ZA,Zambia,2024,0,0,0,0
+ZA,Zambia,2025,0,0,0,0
+ZA,Zambia,2026,0,0,0,0

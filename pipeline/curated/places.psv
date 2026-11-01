@@ -1,0 +1,24 @@
+# Plain-English names for the outlier places on /belt/. Matched to outliers.json by species and position (±0.2°).
+# Edited by hand; each note says what the record is, read from the GBIF record itself (gbif.org/occurrence/<id>).
+species|lat|lon|place|note
+arabica|64.9|-147.8|Fairbanks, Alaska, US|specimen from a University of Alaska greenhouse
+arabica|63.4|10.7|near Trondheim, Norway|living plant record
+arabica|59.4|18.1|Stockholm, Sweden|living plant, Bergianska trädgården (botanic garden)
+arabica|53.9|27.6|Minsk, Belarus|observation in the Central Botanical Garden
+arabica|53.1|10.8|Lower Saxony, Germany|specimen labelled "cultivated, Royal Gardens of Herrenhausen, Hannover"
+arabica|51.0|7.0|Bonn, Germany|1865 specimen from the botanic garden
+arabica|50.1|8.7|Frankfurt, Germany|observation in the Palmengarten
+arabica|48.0|9.9|Baden-Württemberg, Germany|1853 specimen labelled "Heidelberg, Bot. Garten"
+arabica|47.7|-122.6|Seattle area, US|specimens from a spice shop at Pike Place Market
+arabica|43.8|10.5|Lucca, Italy|specimen from the Orto Botanico, "pianta culta"
+arabica|-43.5|172.6|Christchurch, New Zealand|specimens from the botanic gardens
+arabica|40.4|-80.0|Pittsburgh, US|specimens from Phipps Conservatory
+arabica|39.7|-105.0|Denver, US|specimens from Denver Botanic Gardens
+arabica|38.8|-77.0|Washington DC, US|United States Botanic Garden production facility
+robusta|38.8|-77.0|Washington DC, US|United States Botanic Garden production facility
+arabica|38.6|-90.3|St Louis, US|Missouri Botanical Garden's Climatron
+robusta|52.0|5.6|Wageningen, Netherlands|specimen from the university's tropical crops department, 1968
+liberica|43.9|12.5|San Marino|lab sample (GenBank) placed at the country's centre point
+excelsa|43.9|12.5|San Marino|lab sample (GenBank) placed at the country's centre point
+liberica|-29.9|31.1|Durban, South Africa|specimens from Durban Botanic Gardens
+excelsa|-29.9|31.1|Durban, South Africa|specimen from Durban Botanic Gardens, 1989

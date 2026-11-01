@@ -1,0 +1,11 @@
+[project]
+name = "sinturon-pipeline"
+version = "1.0.0"
+description = "Builds Sinturon's data releases: where the four coffee species have been recorded (GBIF) and which countries grow them (USDA FAS PSD)."
+requires-python = ">=3.12"
+dependencies = [
+  "certifi>=2024.2.2",   # CA bundle for the GBIF and USDA fetches (macOS Python ships without one)
+]
+
+[tool.uv]
+package = false
