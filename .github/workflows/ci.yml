@@ -1,0 +1,70 @@
+name: CI
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions: { contents: read }
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+jobs:
+  web:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    defaults: { run: { working-directory: web } }
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with: { node-version-file: web/.node-version, cache: npm, cache-dependency-path: web/package-lock.json }
+      - name: No AI attribution in commits
+        working-directory: .
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            scripts/check-attribution.sh "origin/${{ github.base_ref }}..HEAD"
+          else
+            scripts/check-attribution.sh "${{ github.event.before }}..${{ github.sha }}" || scripts/check-attribution.sh HEAD~1..HEAD
+          fi
+      - name: Pull the pinned data release (sha256-checked)
+        working-directory: .
+        run: scripts/data-pull.sh
+      - run: npm ci
+      - name: Vendored Nordic Rose files are unchanged (hash check; the design repo is private)
+        run: npm run design:verify
+      - name: Type-check, data validation against the schemas, WCAG contrast and build
+        run: npm run build
+
+  pipeline:
+    # Rebuilds the data from the inputs in git whenever the pipeline or a curated file changes, and checks the
+    # result against the site's schemas by building the site on it. Nothing is published from here.
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with: { node-version-file: web/.node-version, cache: npm, cache-dependency-path: web/package-lock.json }
+      - uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2 # v10.3.3
+        with: { enable-cache: true, cache-dependency-glob: pipeline/uv.lock }
+      - name: Build data from this branch
+        run: pipeline/build.sh 0
+      - name: Site builds on the new data
+        run: |
+          V=$(python3 -c "import json; print(json.load(open('data.lock.json'))['version'])")
+          rm -rf "pipeline/build/v$V" && cp -R pipeline/build/v0 "pipeline/build/v$V"
+          scripts/data-pull.sh --local
+          cd web && npm ci && npm run build
+      - name: What changed vs the pinned release
+        run: |
+          python3 - >> "$GITHUB_STEP_SUMMARY" <<'PY'
+          import json, urllib.request
+          lock = json.load(open("data.lock.json"))
+          new = json.load(open("pipeline/build/v0/manifest.json"))
+          url = f"https://github.com/mendozaivanka/sinturon/releases/download/{lock['tag']}/manifest.json"
+          try: old = json.load(urllib.request.urlopen(url))
+          except Exception as e: old = {"files": {}, "counts": {}}
+          print(f"### Data vs {lock['tag']}\n\n| | {lock['tag']} | this branch |\n|---|---|---|")
+          for k in sorted(set(old["counts"]) | set(new["counts"])): print(f"| {k} | {old['counts'].get(k)} | {new['counts'].get(k)} |")
+          changed = [f for f in new["files"] if old["files"].get(f, {}).get("sha256") != new["files"][f]["sha256"]]
+          print(f"\nFiles changed: {', '.join(changed) or 'none'}")
+          PY

@@ -1,0 +1,92 @@
+name: Data
+# Monthly: refetch GBIF records and the USDA PSD coffee table, rebuild every read model, check the site still builds
+# on them, and if anything changed publish data-v<N+1> and open an "Adopt data v<N+1>" pull request (new snapshots +
+# data.lock.json).
+# Merging that PR deploys the new data. Nothing live changes until then.
+on:
+  schedule: [{ cron: "0 18 3 * *" }]   # 02:00 Asia/Manila on the 4th of each month (Timpla runs on the 2nd)
+  workflow_dispatch:
+    inputs:
+      refetch: { description: "Refetch GBIF and USDA PSD", type: boolean, default: true }
+      force_release: { description: "Release even if no read model changed", type: boolean, default: false }
+permissions: { contents: write, pull-requests: write, issues: write }
+concurrency: { group: data, cancel-in-progress: false }
+jobs:
+  data:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with: { node-version-file: web/.node-version, cache: npm, cache-dependency-path: web/package-lock.json }
+      - uses: astral-sh/setup-uv@68559e99cc807c1eb7e9238fd43a15bba460eec2 # v10.3.3
+        with: { enable-cache: true, cache-dependency-glob: pipeline/uv.lock }
+
+      - name: Refetch GBIF occurrences (keyless search API, about 45 pages) and dataset credits
+        if: github.event_name == 'schedule' || inputs.refetch
+        working-directory: pipeline
+        run: uv run python gbif/fetch.py
+
+      - name: Refetch USDA PSD coffee (skipped when USDA's Last-Modified is unchanged)
+        if: github.event_name == 'schedule' || inputs.refetch
+        working-directory: pipeline
+        run: uv run python psd/fetch.py
+
+      - name: Build the next version
+        id: build
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          last=$(gh release list --limit 100 --json tagName --jq '[.[].tagName | select(startswith("data-v")) | ltrimstr("data-v") | tonumber] | max // 0')
+          v=$((last + 1)); echo "version=$v" >> "$GITHUB_OUTPUT"
+          pipeline/build.sh "$v"
+
+      - name: Did any read model change?
+        id: diff
+        env: { V: "${{ steps.build.outputs.version }}", FORCE: "${{ inputs.force_release }}" }
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          lock = json.load(open("data.lock.json"))
+          new = json.load(open(f"pipeline/build/v{os.environ['V']}/manifest.json"))
+          old = json.load(urllib.request.urlopen(f"https://github.com/{os.environ['GITHUB_REPOSITORY']}/releases/download/{lock['tag']}/manifest.json"))
+          changed = [f for f in new["files"] if old["files"].get(f, {}).get("sha256") != new["files"][f]["sha256"] and not f.endswith("summary.json")]  # summary.json carries the fetch date
+          release = bool(changed) or os.environ.get("FORCE") == "true"
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as s:
+              s.write(f"### Data v{os.environ['V']} vs {lock['tag']}\n\nChanged: {', '.join(changed) or 'nothing'}\n\ncounts: {old.get('counts')} → {new.get('counts')}\n")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as o: o.write(f"release={'true' if release else 'false'}\n")
+          PY
+
+      - name: Site builds on the new data (schemas, pages, contrast)
+        if: steps.diff.outputs.release == 'true'
+        env: { V: "${{ steps.build.outputs.version }}" }
+        run: |
+          cp data.lock.json /tmp/lock.json
+          python3 -c "import json,os; l=json.load(open('data.lock.json')); l['version']=int(os.environ['V']); json.dump(l,open('data.lock.json','w'))"
+          scripts/data-pull.sh --local
+          (cd web && npm ci && npm run build)
+          cp /tmp/lock.json data.lock.json
+
+      - name: Publish data-v<N> and pin it
+        if: steps.diff.outputs.release == 'true'
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: scripts/release-data.sh "${{ steps.build.outputs.version }}"
+
+      - name: Open the "Adopt data" pull request
+        if: steps.diff.outputs.release == 'true'
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+        with:
+          branch: data/v${{ steps.build.outputs.version }}
+          title: Adopt data v${{ steps.build.outputs.version }}
+          commit-message: Adopt data v${{ steps.build.outputs.version }} (refreshed GBIF and PSD snapshots, pin)
+          body: |
+            The monthly data run published [data-v${{ steps.build.outputs.version }}](https://github.com/${{ github.repository }}/releases/tag/data-v${{ steps.build.outputs.version }}).
+            Merging this pins the site to it and commits the refreshed inputs. The run summary lists what changed.
+          add-paths: |
+            data.lock.json
+            pipeline/gbif/snapshot/**
+            pipeline/psd/snapshot/**
+
+      - name: Open an issue if the scheduled run failed
+        if: failure() && github.event_name == 'schedule'
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: gh issue create -t "Data run failed ($(date -u +%F))" -b "See $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" || true
