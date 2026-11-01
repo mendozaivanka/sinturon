@@ -13,7 +13,7 @@ const deg = (v: number, pos: string, neg: string) => `${Math.abs(v).toFixed(1)}�
 <SinturonLayout title="The belt" current="belt">
   <section class="grid gap-4 pt-10">
     <span class="label-mono">The belt · latitude</span>
-    <h1 class="max-w-[24ch] font-heading text-4xl font-normal text-balance">
+    <h1 class="max-w-[24ch] font-heading text-4xl font-bold tracking-[-0.035em] text-balance">
       {pct(s.insideTropicsPct.all)} of coffee records lie between 23.4° N and 23.4° S
     </h1>
     <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
@@ -26,7 +26,7 @@ const deg = (v: number, pos: string, neg: string) => `${Math.abs(v).toFixed(1)}�
   </section>
 
   <section class="grid gap-4 pt-16" aria-labelledby="out-h">
-    <h2 id="out-h" class="font-heading text-3xl font-normal">The outliers, named and kept</h2>
+    <h2 id="out-h" class="font-heading text-3xl font-bold tracking-[-0.025em]">The outliers, named and kept</h2>
     <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
       Every place with a record beyond {o.thresholdLat}° from the equator, plus each species' southernmost place. None of
       these is a farm: they are greenhouse plants, garden specimens and one lab sample filed at a country's centre point.

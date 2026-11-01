@@ -15,7 +15,7 @@ const colours = Object.fromEntries(SPECIES.map((x) => [x, info[x].colour])) as R
 <SinturonLayout title="Map" current="map">
   <section class="grid gap-4 pt-10">
     <span class="label-mono">Map · 3° cells · circle area ∝ records</span>
-    <h1 class="font-heading text-4xl font-normal">{fmt(s.records)} records of four coffees</h1>
+    <h1 class="font-heading text-4xl font-bold tracking-[-0.035em]">{fmt(s.records)} records of four coffees</h1>
     <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
       Turn species on and off. Circles are sized on one shared scale (the largest cell holds {fmt(max)} records), so a
       small liberica circle really is a few records. Records show where coffee was collected, photographed or planted in a

@@ -11,7 +11,7 @@ const libExcRaw = ph.bySpeciesBeforeDedupe.liberica + ph.bySpeciesBeforeDedupe.e
 <SinturonLayout title="Barako" current="barako">
   <section class="grid gap-4 pt-10">
     <span class="label-mono">Barako · the Philippine chapter · in progress</span>
-    <h1 class="max-w-[24ch] font-heading text-4xl font-normal text-balance">Kapeng barako, and why the records barely see it</h1>
+    <h1 class="max-w-[24ch] font-heading text-4xl font-bold tracking-[-0.035em] text-balance">Kapeng barako, and why the records barely see it</h1>
     <p class="max-w-[62ch] rounded-xl border border-dashed border-border bg-card p-4 text-sm leading-relaxed text-muted-foreground">
       Placeholder. This chapter is planned, not written. The headings below are its outline; the one figure filled in so far
       comes from this release.
@@ -19,7 +19,7 @@ const libExcRaw = ph.bySpeciesBeforeDedupe.liberica + ph.bySpeciesBeforeDedupe.e
   </section>
 
   <section class="grid gap-3 pt-10" aria-labelledby="h-records">
-    <h2 id="h-records" class="font-heading text-2xl font-normal">What GBIF holds for the Philippines</h2>
+    <h2 id="h-records" class="font-heading text-2xl font-bold tracking-[-0.025em]">What GBIF holds for the Philippines</h2>
     <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
       {libExcRaw} open-licence liberica and excelsa records with clean coordinates; {libExc} once a herbarium set published
       twice in GBIF is counted once. Six of those are University of the Philippines Los Baños herbarium sheets collected
@@ -37,7 +37,7 @@ const libExcRaw = ph.bySpeciesBeforeDedupe.liberica + ph.bySpeciesBeforeDedupe.e
     ["h-mark", "The kapeng barako collective mark", "A short timeline, every step cited (planned)."],
   ].map(([id, h, p]) => (
     <section class="grid gap-2 pt-8" aria-labelledby={id}>
-      <h2 id={id} class="font-heading text-2xl font-normal">{h}</h2>
+      <h2 id={id} class="font-heading text-2xl font-bold tracking-[-0.025em]">{h}</h2>
       <p class="max-w-[62ch] text-muted-foreground">{p}</p>
     </section>
   ))}

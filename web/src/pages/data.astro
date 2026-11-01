@@ -13,7 +13,7 @@ const top = ds.datasets.slice(0, 25);
 <SinturonLayout title="About the data" current="data">
   <section class="grid gap-4 pt-10">
     <span class="label-mono">About the data</span>
-    <h1 class="font-heading text-4xl font-normal">Sources, licences and downloads</h1>
+    <h1 class="font-heading text-4xl font-bold tracking-[-0.035em]">Sources, licences and downloads</h1>
     <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
       Everything on this site is built from open data, fetched by a script, released as a versioned file and pinned by its
       sha256. Nothing is modelled or estimated here; where USDA forecasts, the page says so.
@@ -21,7 +21,7 @@ const top = ds.datasets.slice(0, 25);
   </section>
 
   <section class="grid gap-3 pt-10" aria-labelledby="h-src">
-    <h2 id="h-src" class="font-heading text-2xl font-normal">Sources</h2>
+    <h2 id="h-src" class="font-heading text-2xl font-bold tracking-[-0.025em]">Sources</h2>
     <div class="overflow-x-auto">
       <table class="w-full min-w-[600px] text-sm">
         <thead class="text-left"><tr class="border-b border-border"><th class="py-2 pr-3 font-medium">Source</th><th class="py-2 pr-3 font-medium">Used for</th><th class="py-2 pr-3 font-medium">Licence</th><th class="py-2 font-medium">Fetched</th></tr></thead>
@@ -38,7 +38,7 @@ const top = ds.datasets.slice(0, 25);
   </section>
 
   <section class="grid gap-3 pt-10" aria-labelledby="h-clean">
-    <h2 id="h-clean" class="font-heading text-2xl font-normal">What was kept, what was dropped</h2>
+    <h2 id="h-clean" class="font-heading text-2xl font-bold tracking-[-0.025em]">What was kept, what was dropped</h2>
     <ul class="grid max-w-[66ch] list-disc gap-2 pl-5 leading-relaxed text-muted-foreground">
       <li>GBIF filters: coordinates present, no geospatial issue flagged, licence CC0 1.0 or CC BY 4.0. Coordinates are rounded to 0.01°.</li>
       <li>Species: {SPECIES.map((x, i) => <>{info[x].name} ({fmt(s.countsBeforeDedupe[x])} fetched → {fmt(s.counts[x])} kept){i < 3 ? ", " : "."}</>)} Excelsa is every C. liberica record filed under var. dewevrei or its synonym C. dewevrei.</li>
@@ -53,7 +53,7 @@ const top = ds.datasets.slice(0, 25);
   </section>
 
   <section class="grid gap-3 pt-10" aria-labelledby="h-dl">
-    <h2 id="h-dl" class="font-heading text-2xl font-normal">Download</h2>
+    <h2 id="h-dl" class="font-heading text-2xl font-bold tracking-[-0.025em]">Download</h2>
     <p class="max-w-[62ch] text-muted-foreground">The exact files this site was built from (CC BY 4.0, keep the GBIF credits). <a class="link" href={`${base}data/latest.json`}>latest.json</a> points at the current version.</p>
     <ul class="flex flex-wrap gap-2">
       {files.map((f) => <li><a class="inline-flex min-h-11 items-center rounded-full border border-border bg-card px-4 font-mono text-sm" href={`${base}data/v1/sinturon/${f}`}>{f}</a></li>)}
@@ -62,7 +62,7 @@ const top = ds.datasets.slice(0, 25);
   </section>
 
   <section class="grid gap-3 pt-10" aria-labelledby="h-ds">
-    <h2 id="h-ds" class="font-heading text-2xl font-normal">Datasets credited</h2>
+    <h2 id="h-ds" class="font-heading text-2xl font-bold tracking-[-0.025em]">Datasets credited</h2>
     <p class="max-w-[62ch] text-muted-foreground">The {top.length} largest of {ds.datasets.length} GBIF datasets behind the records. The full list, with DOIs, is in <a class="link" href={`${base}data/v1/sinturon/datasets.json`}>datasets.json</a>.</p>
     <div class="overflow-x-auto">
       <table class="w-full min-w-[600px] text-sm">

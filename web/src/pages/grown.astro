@@ -18,7 +18,7 @@ const ph = prod.countries.find((c) => c.code === "RP")?.series.find(([y]) => y =
 <SinturonLayout title="Who grows it" current="grown">
   <section class="grid gap-4 pt-10">
     <span class="label-mono">Who grows it · USDA FAS PSD · marketing year {year}</span>
-    <h1 class="max-w-[26ch] font-heading text-4xl font-normal text-balance">
+    <h1 class="max-w-[26ch] font-heading text-4xl font-bold tracking-[-0.035em] text-balance">
       USDA estimates {fmt(Math.round(w.t / 1000))} million 60 kg bags of coffee for {year}
     </h1>
     <p class="max-w-[62ch] leading-relaxed text-muted-foreground">

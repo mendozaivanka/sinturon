@@ -74,18 +74,23 @@ def dedupe(rows: list[dict]) -> tuple[list[dict], dict]:
 def cells(rows):
     out = {}
     for sp in SPECIES:
-        acc = defaultdict(lambda: [0, None, None])
+        # Each circle sits at the mean position of its records, not the cell centre, so the map follows the
+        # records instead of drawing a lattice
+        acc = defaultdict(lambda: [0, None, None, 0.0, 0.0])
         for r in rows:
             if r["species"] != sp:
                 continue
-            la = math.floor(r["lat"] / CELL) * CELL + CELL / 2
-            lo = math.floor(r["lon"] / CELL) * CELL + CELL / 2
-            c = acc[(la, lo)]
+            c = acc[(math.floor(r["lat"] / CELL), math.floor(r["lon"] / CELL))]
             c[0] += 1
+            c[3] += r["lat"]
+            c[4] += r["lon"]
             if r["year"]:
                 c[1] = r["year"] if c[1] is None else min(c[1], r["year"])
                 c[2] = r["year"] if c[2] is None else max(c[2], r["year"])
-        out[sp] = sorted([[la, lo, n, a, b] for (la, lo), (n, a, b) in acc.items()], key=lambda c: -c[2])
+        out[sp] = sorted(
+            [[round(sla / n, 2), round(slo / n, 2), n, a, b] for (n, a, b, sla, slo) in acc.values()],
+            key=lambda c: -c[2],
+        )
     return {"cellDegrees": CELL, "columns": ["lat", "lon", "n", "firstYear", "lastYear"], "species": out}
 
 

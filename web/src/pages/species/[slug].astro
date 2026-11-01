@@ -67,28 +67,28 @@ const others = SPECIES.filter((x) => x !== slug);
       }
     </nav>
     <span class="label-mono">Species · GBIF taxon {sp.gbifKey}</span>
-    <h1 class="font-heading text-5xl font-normal">{sp.name}</h1>
+    <h1 class="font-heading text-5xl font-bold tracking-[-0.035em]">{sp.name}</h1>
     <p class="text-lg text-muted-foreground italic">{sp.scientific}</p>
     {sp.naming && <p class="max-w-[62ch] rounded-xl border border-border bg-card p-4 leading-relaxed">{sp.naming}</p>}
     <p class="max-w-[62ch] leading-relaxed text-muted-foreground">{sp.blurb}</p>
     <dl class="grid grid-cols-[repeat(auto-fit,minmax(160px,1fr))] gap-3">
       <div class="rounded-2xl border border-border bg-card p-4">
-        <dd class="m-0 font-heading text-3xl">{fmt(s.counts[slug])}</dd><dt class="label-mono mt-1">records kept</dt>
+        <dd class="m-0 font-heading text-3xl font-bold tracking-tight">{fmt(s.counts[slug])}</dd><dt class="label-mono mt-1">records kept</dt>
       </div>
       <div class="rounded-2xl border border-border bg-card p-4">
-        <dd class="m-0 font-heading text-3xl">{pct(s.insideTropicsPct[slug])}</dd><dt class="label-mono mt-1">between the tropics</dt>
+        <dd class="m-0 font-heading text-3xl font-bold tracking-tight">{pct(s.insideTropicsPct[slug])}</dd><dt class="label-mono mt-1">between the tropics</dt>
       </div>
       <div class="rounded-2xl border border-border bg-card p-4">
-        <dd class="m-0 font-heading text-3xl">{years[0] ?? "–"}–{years.at(-1) ?? ""}</dd><dt class="label-mono mt-1">years recorded</dt>
+        <dd class="m-0 font-heading text-3xl font-bold tracking-tight">{years[0] ?? "–"}–{years.at(-1) ?? ""}</dd><dt class="label-mono mt-1">years recorded</dt>
       </div>
       <div class="rounded-2xl border border-border bg-card p-4">
-        <dd class="m-0 font-heading text-3xl">{ph}</dd><dt class="label-mono mt-1">in the Philippines</dt>
+        <dd class="m-0 font-heading text-3xl font-bold tracking-tight">{ph}</dd><dt class="label-mono mt-1">in the Philippines</dt>
       </div>
     </dl>
   </section>
 
   <section class="grid gap-3 pt-12" aria-labelledby="where-h">
-    <h2 id="where-h" class="font-heading text-3xl font-normal">Where it has been recorded</h2>
+    <h2 id="where-h" class="font-heading text-3xl font-bold tracking-[-0.025em]">Where it has been recorded</h2>
     <div class="rounded-2xl border border-border bg-card p-3 sm:p-5">
       <WorldMap species={[slug]} rmax={slug === "excelsa" || slug === "liberica" ? 14 : 18} />
     </div>
@@ -97,11 +97,11 @@ const others = SPECIES.filter((x) => x !== slug);
 
   <section class="flex flex-wrap gap-10 pt-12">
     <div class="min-w-0 flex-[1_1_260px]">
-      <h2 class="font-heading text-2xl font-normal">By latitude</h2>
+      <h2 class="font-heading text-2xl font-bold tracking-[-0.025em]">By latitude</h2>
       <LatitudeBelt species={[slug]} class="mt-3 max-w-[300px]" />
     </div>
     <div class="min-w-0 flex-[1_1_260px]">
-      <h2 class="font-heading text-2xl font-normal">Countries with most records</h2>
+      <h2 class="font-heading text-2xl font-bold tracking-[-0.025em]">Countries with most records</h2>
       <table class="mt-3 w-full text-sm">
         <tbody>
           {
@@ -114,7 +114,7 @@ const others = SPECIES.filter((x) => x !== slug);
           }
         </tbody>
       </table>
-      <h3 class="mt-6 font-heading text-xl font-normal">What the records are</h3>
+      <h3 class="mt-6 font-heading text-xl font-semibold">What the records are</h3>
       <table class="mt-2 w-full text-sm">
         <tbody>
           {
@@ -129,7 +129,7 @@ const others = SPECIES.filter((x) => x !== slug);
       </table>
     </div>
     <div class="min-w-0 flex-[1_1_260px]">
-      <h2 class="font-heading text-2xl font-normal">Who grows it (USDA)</h2>
+      <h2 class="font-heading text-2xl font-bold tracking-[-0.025em]">Who grows it (USDA)</h2>
       {
         producers.length ? (
           <>
