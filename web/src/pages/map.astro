@@ -1,0 +1,34 @@
+---
+import SinturonLayout from "@/components/sinturon/SinturonLayout.astro";
+import WorldMap from "@/components/sinturon/WorldMap.astro";
+import MapExplorer from "@/components/sinturon/MapExplorer";
+import { getCells, getSummary } from "@/lib/data";
+import { H, W, dots } from "@/lib/geo";
+import { SPECIES, species as info, fmt, type Species } from "@/lib/sinturon";
+
+const [cells, s] = await Promise.all([getCells(), getSummary()]);
+const { dots: d, max } = dots(cells.species);
+const names = Object.fromEntries(SPECIES.map((x) => [x, info[x].name])) as Record<Species, string>;
+const colours = Object.fromEntries(SPECIES.map((x) => [x, info[x].colour])) as Record<Species, string>;
+---
+
+<SinturonLayout title="Map" current="map">
+  <section class="grid gap-4 pt-10">
+    <span class="label-mono">Map · 3° cells · circle area ∝ records</span>
+    <h1 class="font-heading text-4xl font-normal">{fmt(s.records)} records of four coffees</h1>
+    <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
+      Turn species on and off. Circles are sized on one shared scale (the largest cell holds {fmt(max)} records), so a
+      small liberica circle really is a few records. Records show where coffee was collected, photographed or planted in a
+      garden, not where it is farmed: for that, see <a class="link" href="/sinturon/grown/">who grows it</a>.
+    </p>
+    <div class="rounded-2xl border border-border bg-card p-3 sm:p-5">
+      <MapExplorer client:load dots={d} names={names} colours={colours} totals={s.counts} width={W} height={H}>
+        <WorldMap species={[]} />
+      </MapExplorer>
+    </div>
+    <p class="text-[13px] text-muted-foreground">
+      Cells are 3° by 3° (about 330 km at the equator), counted from <a class="link" href="/sinturon/data/">the open data release</a>.
+      Records with the same specimen published twice were merged first.
+    </p>
+  </section>
+</SinturonLayout>

@@ -1,0 +1,44 @@
+---
+import SinturonLayout from "@/components/sinturon/SinturonLayout.astro";
+import { getSummary } from "@/lib/data";
+
+const s = await getSummary();
+const ph = s.philippines;
+const libExc = ph.bySpecies.liberica + ph.bySpecies.excelsa;
+const libExcRaw = ph.bySpeciesBeforeDedupe.liberica + ph.bySpeciesBeforeDedupe.excelsa;
+---
+
+<SinturonLayout title="Barako" current="barako">
+  <section class="grid gap-4 pt-10">
+    <span class="label-mono">Barako · the Philippine chapter · in progress</span>
+    <h1 class="max-w-[24ch] font-heading text-4xl font-normal text-balance">Kapeng barako, and why the records barely see it</h1>
+    <p class="max-w-[62ch] rounded-xl border border-dashed border-border bg-card p-4 text-sm leading-relaxed text-muted-foreground">
+      Placeholder. This chapter is planned, not written. The headings below are its outline; the one figure filled in so far
+      comes from this release.
+    </p>
+  </section>
+
+  <section class="grid gap-3 pt-10" aria-labelledby="h-records">
+    <h2 id="h-records" class="font-heading text-2xl font-normal">What GBIF holds for the Philippines</h2>
+    <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
+      {libExcRaw} open-licence liberica and excelsa records with clean coordinates; {libExc} once a herbarium set published
+      twice in GBIF is counted once. Six of those are University of the Philippines Los Baños herbarium sheets collected
+      at Los Baños (14.15° N, 121.24° E) between 1913 and 1958; the others are a 1983 Missouri Botanical Garden specimen
+      from northern Luzon and a 1991 excelsa specimen held in Leiden. They show where botanists worked, not where barako
+      is grown.
+    </p>
+  </section>
+
+  {[
+    ["h-native", "Native range: West and Central Africa", "WCVP native regions for liberica and var. dewevrei (planned; WCVP is CC BY)."],
+    ["h-provinces", "Where the Philippines grows it", "Liberica and excelsa production by province, read from Timpla's released PSA data (planned)."],
+    ["h-two", "Two national numbers that disagree", "PSA (calendar year, tonnes) beside USDA PSD (marketing year, 60 kg bags), with the method difference written out (planned)."],
+    ["h-name", "Excelsa is a liberica", "Why GBIF files excelsa as Coffea liberica var. dewevrei, and what that means for the labels on a bag (planned)."],
+    ["h-mark", "The kapeng barako collective mark", "A short timeline, every step cited (planned)."],
+  ].map(([id, h, p]) => (
+    <section class="grid gap-2 pt-8" aria-labelledby={id}>
+      <h2 id={id} class="font-heading text-2xl font-normal">{h}</h2>
+      <p class="max-w-[62ch] text-muted-foreground">{p}</p>
+    </section>
+  ))}
+</SinturonLayout>

@@ -1,0 +1,68 @@
+---
+import SinturonLayout from "@/components/sinturon/SinturonLayout.astro";
+import LatitudeBelt from "@/components/sinturon/LatitudeBelt.astro";
+import { getOutliers, getSummary } from "@/lib/data";
+import { BASIS_LABEL, species as info, fmt, pct } from "@/lib/sinturon";
+
+const [o, s] = await Promise.all([getOutliers(), getSummary()]);
+const named = o.places.filter((p) => p.place);
+const rest = o.places.filter((p) => !p.place);
+const deg = (v: number, pos: string, neg: string) => `${Math.abs(v).toFixed(1)}° ${v >= 0 ? pos : neg}`;
+---
+
+<SinturonLayout title="The belt" current="belt">
+  <section class="grid gap-4 pt-10">
+    <span class="label-mono">The belt · latitude</span>
+    <h1 class="max-w-[24ch] font-heading text-4xl font-normal text-balance">
+      {pct(s.insideTropicsPct.all)} of coffee records lie between 23.4° N and 23.4° S
+    </h1>
+    <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
+      Robusta is the most tropical ({pct(s.insideTropicsPct.robusta)}), then excelsa ({pct(s.insideTropicsPct.excelsa)}),
+      liberica ({pct(s.insideTropicsPct.liberica)}) and arabica ({pct(s.insideTropicsPct.arabica)}). Arabica strays
+      furthest because it is the coffee botanic gardens and greenhouses keep. Bars show each species' share of its own
+      records per 5° band.
+    </p>
+    <LatitudeBelt class="pt-2" />
+  </section>
+
+  <section class="grid gap-4 pt-16" aria-labelledby="out-h">
+    <h2 id="out-h" class="font-heading text-3xl font-normal">The outliers, named and kept</h2>
+    <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
+      Every place with a record beyond {o.thresholdLat}° from the equator, plus each species' southernmost place. None of
+      these is a farm: they are greenhouse plants, garden specimens and one lab sample filed at a country's centre point.
+      They stay in the data because removing them would hide how the records were made.
+    </p>
+    <div class="overflow-x-auto">
+      <table class="w-full min-w-[640px] text-sm">
+        <thead class="text-left">
+          <tr class="border-b border-border"><th class="py-2 pr-3 font-medium">Place</th><th class="py-2 pr-3 font-medium">Species</th><th class="py-2 pr-3 font-medium">Latitude</th><th class="py-2 pr-3 font-medium">What it is</th><th class="py-2 pr-3 text-right font-medium">Records</th><th class="py-2 font-medium">Year</th></tr>
+        </thead>
+        <tbody>
+          {named.map((p) => (
+            <tr class="border-b border-border align-top">
+              <td class="py-2 pr-3"><a class="link" href={`https://www.gbif.org/occurrence/${p.gbifID}`}>{p.place}</a></td>
+              <td class="py-2 pr-3"><span class="inline-flex items-center gap-1.5"><span class="species-dot" style={`color:${info[p.species].colour}`}></span>{info[p.species].name}</span></td>
+              <td class="py-2 pr-3 font-mono">{deg(p.lat, "N", "S")}</td>
+              <td class="py-2 pr-3 text-muted-foreground">{p.note}</td>
+              <td class="py-2 pr-3 text-right font-mono">{p.records}</td>
+              <td class="py-2 font-mono">{p.firstYear ?? "–"}{p.lastYear && p.lastYear !== p.firstYear ? `–${p.lastYear}` : ""}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    {rest.length > 0 && (
+      <details class="rounded-xl border border-border bg-card p-4">
+        <summary class="cursor-pointer font-medium">{rest.length} more places beyond {o.thresholdLat}°, not yet described</summary>
+        <ul class="mt-3 grid gap-1 text-sm text-muted-foreground">
+          {rest.map((p) => (
+            <li>
+              <a class="link" href={`https://www.gbif.org/occurrence/${p.gbifID}`}>{deg(p.lat, "N", "S")}, {deg(p.lon, "E", "W")}</a>
+              {" "}· {info[p.species].name} · {p.countryCode} · {p.basis.map((b) => BASIS_LABEL[b] ?? b).join(", ")} · {fmt(p.records)} record{p.records === 1 ? "" : "s"}{p.locality ? ` · “${p.locality}”` : ""}
+            </li>
+          ))}
+        </ul>
+      </details>
+    )}
+  </section>
+</SinturonLayout>

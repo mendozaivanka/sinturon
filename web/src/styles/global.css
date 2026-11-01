@@ -1,0 +1,58 @@
+/* Sinturon styles. Nordic Rose comes first: it is vendored from ../nordic-rose (npm run design:sync), so edit it there.
+   Everything below is Sinturon's own: the four species colours and the map's land and tropics. Sinturon keeps the
+   default Nordic Rose palette (no data-palette). */
+@import "./nordic-rose.css";
+
+/* Species colours, usable as Tailwind classes (bg-arabica, text-robusta …) */
+@theme inline {
+  --color-arabica: var(--sp-arabica);
+  --color-robusta: var(--sp-robusta);
+  --color-liberica: var(--sp-liberica);
+  --color-excelsa: var(--sp-excelsa);
+}
+:root {
+  --sp-arabica: #3f6178;
+  --sp-robusta: #8f3a5c;
+  --sp-liberica: #5f8f6c;
+  --sp-excelsa: #9c86c9;
+  --land: #e4e9ee;
+  --tropics: #fbeef2;
+  --tropics-line: #e39cb3;
+}
+[data-theme="dark"] {
+  --sp-arabica: #9cc0d8;
+  --sp-robusta: #f2a3bc;
+  --sp-liberica: #93c4a0;
+  --sp-excelsa: #bfaee6;
+  --land: #26303b;
+  --tropics: #2a1a21;
+  --tropics-line: #7c4560;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --sp-arabica: #9cc0d8;
+    --sp-robusta: #f2a3bc;
+    --sp-liberica: #93c4a0;
+    --sp-excelsa: #bfaee6;
+    --land: #26303b;
+    --tropics: #2a1a21;
+    --tropics-line: #7c4560;
+  }
+}
+
+@layer components {
+  .species-dot {
+    display: inline-block;
+    flex: none;
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 9999px;
+    border: 1px solid currentColor;
+    background: color-mix(in srgb, currentColor 35%, transparent);
+  }
+  .link {
+    color: var(--primary-strong);
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+}

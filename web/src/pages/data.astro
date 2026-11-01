@@ -1,0 +1,83 @@
+---
+import SinturonLayout from "@/components/sinturon/SinturonLayout.astro";
+import { getDatasets, getProduction, getSummary } from "@/lib/data";
+import { SPECIES, species as info, fmt } from "@/lib/sinturon";
+
+const [s, ds, prod] = await Promise.all([getSummary(), getDatasets(), getProduction()]);
+const base = import.meta.env.BASE_URL.replace(/\/?$/, "/");
+const files = ["records.json", "cells-3deg.json", "latitude.json", "outliers.json", "production.json", "datasets.json", "summary.json"];
+const LIC: Record<string, string> = { CC0_1_0: "CC0 1.0", CC_BY_4_0: "CC BY 4.0" };
+const top = ds.datasets.slice(0, 25);
+---
+
+<SinturonLayout title="About the data" current="data">
+  <section class="grid gap-4 pt-10">
+    <span class="label-mono">About the data</span>
+    <h1 class="font-heading text-4xl font-normal">Sources, licences and downloads</h1>
+    <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
+      Everything on this site is built from open data, fetched by a script, released as a versioned file and pinned by its
+      sha256. Nothing is modelled or estimated here; where USDA forecasts, the page says so.
+    </p>
+  </section>
+
+  <section class="grid gap-3 pt-10" aria-labelledby="h-src">
+    <h2 id="h-src" class="font-heading text-2xl font-normal">Sources</h2>
+    <div class="overflow-x-auto">
+      <table class="w-full min-w-[600px] text-sm">
+        <thead class="text-left"><tr class="border-b border-border"><th class="py-2 pr-3 font-medium">Source</th><th class="py-2 pr-3 font-medium">Used for</th><th class="py-2 pr-3 font-medium">Licence</th><th class="py-2 font-medium">Fetched</th></tr></thead>
+        <tbody>
+          <tr class="border-b border-border align-top"><td class="py-2 pr-3"><a class="link" href="https://www.gbif.org/">GBIF occurrence search API</a></td><td class="py-2 pr-3">{fmt(s.records)} records from {s.datasets} datasets</td><td class="py-2 pr-3">CC0 1.0 or CC BY 4.0 per record; CC BY-NC records are never fetched</td><td class="py-2 font-mono">{s.fetchedAt}</td></tr>
+          <tr class="border-b border-border align-top"><td class="py-2 pr-3"><a class="link" href="https://apps.fas.usda.gov/psdonline/">USDA FAS PSD Online</a></td><td class="py-2 pr-3">production by country, {prod.firstYear}–{prod.latestYear}</td><td class="py-2 pr-3">public domain (US government work)</td><td class="py-2 font-mono">{prod.fetchedAt} (release {prod.release})</td></tr>
+          <tr class="border-b border-border align-top"><td class="py-2 pr-3"><a class="link" href="https://www.naturalearthdata.com/">Natural Earth</a> 110m land, via world-atlas</td><td class="py-2 pr-3">map outlines</td><td class="py-2 pr-3">public domain</td><td class="py-2 font-mono">world-atlas 2.0.2</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="max-w-[62ch] text-sm leading-relaxed text-muted-foreground">
+      <strong class="font-semibold text-foreground">Cite as:</strong> {s.citation}. {s.citationNote}
+    </p>
+  </section>
+
+  <section class="grid gap-3 pt-10" aria-labelledby="h-clean">
+    <h2 id="h-clean" class="font-heading text-2xl font-normal">What was kept, what was dropped</h2>
+    <ul class="grid max-w-[66ch] list-disc gap-2 pl-5 leading-relaxed text-muted-foreground">
+      <li>GBIF filters: coordinates present, no geospatial issue flagged, licence CC0 1.0 or CC BY 4.0. Coordinates are rounded to 0.01°.</li>
+      <li>Species: {SPECIES.map((x, i) => <>{info[x].name} ({fmt(s.countsBeforeDedupe[x])} fetched → {fmt(s.counts[x])} kept){i < 3 ? ", " : "."}</>)} Excelsa is every C. liberica record filed under var. dewevrei or its synonym C. dewevrei.</li>
+      <li>
+        Duplicates: {s.dedupe.removed} records removed ({fmt(s.dedupe.before)} → {fmt(s.dedupe.after)}). Rule: {s.dedupe.rule}.
+        The largest share ({s.dedupe.removedByDataset.find((d) => d.note)?.records ?? 0}) comes from the UPLB herbarium's
+        "Rubiaceae of Luzon Island" set, which is published in GBIF twice.
+      </li>
+      <li>Records: {Object.entries(s.licences).map(([k, v]) => `${fmt(v)} ${LIC[k] ?? k}`).join(", ")}. Years {s.years.first}–{s.years.last}; {fmt(s.years.undated)} undated.</li>
+      <li><strong class="font-semibold text-foreground">Records are not farms.</strong> Herbarium sheets, phone photos and botanic-garden plants all count. GBIF shows where people looked.</li>
+    </ul>
+  </section>
+
+  <section class="grid gap-3 pt-10" aria-labelledby="h-dl">
+    <h2 id="h-dl" class="font-heading text-2xl font-normal">Download</h2>
+    <p class="max-w-[62ch] text-muted-foreground">The exact files this site was built from (CC BY 4.0, keep the GBIF credits). <a class="link" href={`${base}data/latest.json`}>latest.json</a> points at the current version.</p>
+    <ul class="flex flex-wrap gap-2">
+      {files.map((f) => <li><a class="inline-flex min-h-11 items-center rounded-full border border-border bg-card px-4 font-mono text-sm" href={`${base}data/v1/sinturon/${f}`}>{f}</a></li>)}
+    </ul>
+    <p class="text-sm text-muted-foreground">Versions: <a class="link" href="https://github.com/mendozaivanka/sinturon/releases">GitHub releases</a> (data-v1, data-v2 …), each with a manifest and SHA256SUMS.</p>
+  </section>
+
+  <section class="grid gap-3 pt-10" aria-labelledby="h-ds">
+    <h2 id="h-ds" class="font-heading text-2xl font-normal">Datasets credited</h2>
+    <p class="max-w-[62ch] text-muted-foreground">The {top.length} largest of {ds.datasets.length} GBIF datasets behind the records. The full list, with DOIs, is in <a class="link" href={`${base}data/v1/sinturon/datasets.json`}>datasets.json</a>.</p>
+    <div class="overflow-x-auto">
+      <table class="w-full min-w-[600px] text-sm">
+        <thead class="text-left"><tr class="border-b border-border"><th class="py-2 pr-3 font-medium">Dataset</th><th class="py-2 pr-3 font-medium">Publisher</th><th class="py-2 pr-3 font-medium">Licence</th><th class="py-2 text-right font-medium">Records</th></tr></thead>
+        <tbody>
+          {top.map((d) => (
+            <tr class="border-b border-border align-top">
+              <td class="py-1.5 pr-3"><a class="link" href={`https://www.gbif.org/dataset/${d.key}`}>{d.title || d.key}</a></td>
+              <td class="py-1.5 pr-3 text-muted-foreground">{d.publisher}</td>
+              <td class="py-1.5 pr-3">{LIC[d.licence] ?? d.licence}</td>
+              <td class="py-1.5 text-right font-mono">{fmt(d.records)}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+</SinturonLayout>

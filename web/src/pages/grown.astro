@@ -1,0 +1,36 @@
+---
+import SinturonLayout from "@/components/sinturon/SinturonLayout.astro";
+import ProductionBars from "@/components/sinturon/ProductionBars.astro";
+import { getProduction } from "@/lib/data";
+import { fmt } from "@/lib/sinturon";
+
+const prod = await getProduction();
+const year = prod.latestYear - 1;
+const at = (y: number) =>
+  prod.countries.reduce((acc, c) => {
+    const r = c.series.find(([yy]) => yy === y);
+    return r ? { a: acc.a + r[1], r: acc.r + r[2], t: acc.t + r[4] } : acc;
+  }, { a: 0, r: 0, t: 0 });
+const w = at(year);
+const ph = prod.countries.find((c) => c.code === "RP")?.series.find(([y]) => y === year);
+---
+
+<SinturonLayout title="Who grows it" current="grown">
+  <section class="grid gap-4 pt-10">
+    <span class="label-mono">Who grows it · USDA FAS PSD · marketing year {year}</span>
+    <h1 class="max-w-[26ch] font-heading text-4xl font-normal text-balance">
+      USDA estimates {fmt(Math.round(w.t / 1000))} million 60 kg bags of coffee for {year}
+    </h1>
+    <p class="max-w-[62ch] leading-relaxed text-muted-foreground">
+      {Math.round((100 * w.a) / w.t)}% arabica, {Math.round((100 * w.r) / w.t)}% robusta, across {prod.countries.length}
+      countries in USDA's series since {prod.firstYear}. This is where coffee is farmed; the map is where it has been
+      recorded. Liberica and excelsa have no column of their own in PSD.
+      {ph && <> The Philippines: {fmt(ph[4])} thousand bags ({fmt(ph[1])} arabica, {fmt(ph[2])} robusta).</>}
+    </p>
+    <ProductionBars year={year} top={20} />
+    <p class="text-[13px] text-muted-foreground">
+      {prod.note} Marketing year {prod.forecastYear} is in the release as a forecast and is not drawn. A year-by-year view
+      comes later.
+    </p>
+  </section>
+</SinturonLayout>

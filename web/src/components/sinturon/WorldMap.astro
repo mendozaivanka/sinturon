@@ -1,0 +1,46 @@
+---
+// The belt map, rendered at build time: Equal Earth, Natural Earth land, the tropics band, and one translucent
+// circle per 3° cell (area ∝ records). Pass `species` to draw a subset, or [] for the base map only (the map
+// island draws its own circles on top). Hovering a circle shows its count (SVG <title>).
+import { getCells } from "@/lib/data";
+import { H, W, cellLabel, dots, landPath, tropics } from "@/lib/geo";
+import { SPECIES, species as info, type Species } from "@/lib/sinturon";
+
+type Props = { species?: Species[]; class?: string; label?: string; rmax?: number };
+const { species: only = [...SPECIES], class: cls = "", label, rmax } = Astro.props;
+const cells = await getCells();
+const { dots: d } = dots(cells.species, { only: only.length ? only : undefined, rmax });
+const draw = only.length ? only : [];
+const total = draw.reduce((a, s) => a + d[s].reduce((b, x) => b + x.n, 0), 0);
+---
+
+<svg
+  viewBox={`0 0 ${W} ${H}`}
+  class={`block h-auto w-full ${cls}`}
+  role="img"
+  aria-label={label ?? (draw.length
+    ? `World map of ${total.toLocaleString("en-US")} GBIF records of ${draw.map((s) => info[s].name).join(", ")}, in 3° cells. Most fall between the tropics.`
+    : "World map with the tropics marked")}
+>
+  <rect x="0" y={tropics.north} width={W} height={tropics.south - tropics.north} fill="var(--tropics)"></rect>
+  <path d={landPath} fill="var(--land)"></path>
+  <g stroke="var(--tropics-line)" stroke-width="1" stroke-dasharray="4 4">
+    <line x1="0" x2={W} y1={tropics.north} y2={tropics.north}></line>
+    <line x1="0" x2={W} y1={tropics.south} y2={tropics.south}></line>
+  </g>
+  <g font-family="var(--font-mono)" font-size="11" fill="var(--muted-foreground)">
+    <text x="6" y={tropics.north - 5}>23.4° N</text>
+    <text x="6" y={tropics.south + 14}>23.4° S</text>
+  </g>
+  {
+    draw.map((s) => (
+      <g fill={info[s].colour} fill-opacity="0.35" stroke={info[s].colour} stroke-width="1" data-species={s}>
+        {d[s].map((x) => (
+          <circle cx={x.x} cy={x.y} r={x.r}>
+            <title>{cellLabel(x, info[s].name)}</title>
+          </circle>
+        ))}
+      </g>
+    ))
+  }
+</svg>

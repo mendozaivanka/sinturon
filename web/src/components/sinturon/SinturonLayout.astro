@@ -1,0 +1,88 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import ThemeMenu from "@/components/ThemeMenu";
+import { getSummary } from "@/lib/data";
+
+type Current = "home" | "map" | "species" | "belt" | "grown" | "barako" | "data";
+type Props = { title: string; description?: string; current?: Current };
+const { title, description, current } = Astro.props;
+const summary = await getSummary();
+
+const links: { id: Current; label: string; href: string }[] = [
+  { id: "home", label: "Overview", href: "/sinturon/" },
+  { id: "map", label: "Map", href: "/sinturon/map/" },
+  { id: "species", label: "Species", href: "/sinturon/species/arabica/" },
+  { id: "belt", label: "The belt", href: "/sinturon/belt/" },
+  { id: "grown", label: "Who grows it", href: "/sinturon/grown/" },
+  { id: "barako", label: "Barako", href: "/sinturon/barako/" },
+  { id: "data", label: "About the data", href: "/sinturon/data/" },
+];
+const family = [
+  { name: "Timpla", href: "/timpla/", line: "Manila's cafés" },
+  { name: "Sinturon", href: "/sinturon/", line: "the bean belt", here: true },
+  { name: "Pigâ", line: "soon" },
+  { name: "Sangkap", line: "soon" },
+];
+---
+
+<Layout
+  title={`${title} · Sinturon`}
+  description={description ??
+    `Where the world's coffee has been recorded: ${summary.records.toLocaleString("en-US")} open GBIF records of arabica, robusta, liberica and excelsa, ${summary.insideTropicsPct.all}% of them between the tropics.`}
+>
+  <header class="horizon flex flex-wrap items-center gap-x-6 gap-y-2 border-b border-border pt-5 pb-4 print:hidden">
+    <a href="/sinturon/" class="flex items-center gap-2 font-heading text-2xl font-medium" aria-label="Sinturon, overview">
+      <!-- Sinturon's mark: a pink latitude band (the belt) across a rose rounded square, edged by two thin white lines -->
+      <svg width="28" height="28" viewBox="0 0 52 52" aria-hidden="true">
+        <rect x="2" y="2" width="48" height="48" rx="14" fill="#8f3a5c"></rect>
+        <rect x="2" y="19" width="48" height="14" fill="#f4b3c6"></rect>
+        <line x1="2" x2="50" y1="19" y2="19" stroke="#fff" stroke-width="1.5"></line>
+        <line x1="2" x2="50" y1="33" y2="33" stroke="#fff" stroke-width="1.5"></line>
+      </svg>
+      Sinturon
+    </a>
+    <nav aria-label="Sinturon">
+      <ul class="flex list-none flex-wrap gap-x-5 gap-y-1 p-0 text-[15px] font-medium text-muted-foreground">
+        {
+          links.map((l) => (
+            <li>
+              <a
+                href={l.href}
+                aria-current={current === l.id ? "page" : undefined}
+                class="inline-flex min-h-11 items-center hover:text-foreground aria-[current=page]:text-foreground aria-[current=page]:underline aria-[current=page]:decoration-primary-strong aria-[current=page]:underline-offset-8"
+              >
+                {l.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+    <div class="ml-auto flex items-center gap-3">
+      <a href="/" class="font-mono text-xs text-muted-foreground hover:text-foreground">a side project by Ivanka Mendoza ↗</a>
+      <ThemeMenu client:load />
+    </div>
+  </header>
+  <slot />
+  <footer class="mt-16 grid gap-4 border-t border-border pt-5 text-[13px] text-muted-foreground">
+    <nav aria-label="Coffee, four ways" class="flex flex-wrap items-baseline gap-x-5 gap-y-1">
+      <span class="label-mono">Coffee, four ways</span>
+      {
+        family.map((f) =>
+          f.href ? (
+            <a href={f.href} aria-current={f.here ? "page" : undefined} class={f.here ? "font-semibold text-foreground" : "hover:text-foreground"}>
+              {f.name} <span class="text-muted-foreground font-normal">· {f.line}</span>
+            </a>
+          ) : (
+            <span>{f.name} <span>· {f.line}</span></span>
+          ),
+        )
+      }
+    </nav>
+    <p>
+      Data as of {summary.fetchedAt}. Records: <a class="underline underline-offset-4" href="https://www.gbif.org/">GBIF.org</a>
+      (CC0 and CC BY 4.0 records only) · production: USDA FAS PSD (public domain) · land: Natural Earth (public domain) ·
+      records show where coffee was collected or seen, not where it is farmed.
+    </p>
+  </footer>
+</Layout>

@@ -1,0 +1,64 @@
+---
+import SinturonLayout from "@/components/sinturon/SinturonLayout.astro";
+import WorldMap from "@/components/sinturon/WorldMap.astro";
+import LatitudeBelt from "@/components/sinturon/LatitudeBelt.astro";
+import { getSummary } from "@/lib/data";
+import { SPECIES, species as info, fmt, pct } from "@/lib/sinturon";
+
+const s = await getSummary();
+---
+
+<SinturonLayout title="Where the world's coffee has been recorded" current="home">
+  <section class="grid gap-6 pt-10 sm:pt-14">
+    <span class="label-mono">Four coffees · {fmt(s.records)} open records · GBIF, {s.fetchedAt.slice(0, 4)}</span>
+    <h1 class="max-w-[22ch] font-heading text-[clamp(2.25rem,6vw,3.75rem)] leading-[1.04] font-normal tracking-tight text-balance">
+      Coffee grows in a belt. Here is where it has been <em class="text-primary-strong italic">recorded</em>.
+    </h1>
+    <p class="max-w-[60ch] text-lg leading-relaxed text-muted-foreground">
+      Every open-licence GBIF record of arabica, robusta, liberica and excelsa with clean coordinates, grouped into 3°
+      cells. Bigger circles, more records. {pct(s.insideTropicsPct.all)} fall between the tropics.
+    </p>
+    <figure class="m-0 grid gap-3">
+      <a href="/sinturon/map/" class="block rounded-2xl border border-border bg-card p-3 sm:p-5" aria-label="Open the map with species filters">
+        <WorldMap />
+      </a>
+      <figcaption class="flex flex-wrap gap-x-4 gap-y-1.5 text-[13px] text-muted-foreground">
+        {SPECIES.map((sp) => (
+          <a href={`/sinturon/species/${sp}/`} class="inline-flex items-center gap-1.5 hover:text-foreground">
+            <span class="species-dot" style={`color:${info[sp].colour}`}></span>{info[sp].name} <span class="font-mono">{fmt(s.counts[sp])}</span>
+          </a>
+        ))}
+        <span><strong class="font-semibold text-foreground">Records, not farms.</strong> A record is a herbarium sheet, a photo or a garden plant.</span>
+      </figcaption>
+    </figure>
+    <dl class="grid grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-3">
+      <div class="rounded-2xl border border-border bg-card p-5">
+        <dd class="m-0 font-heading text-4xl leading-none">{fmt(s.records)}</dd>
+        <dt class="label-mono mt-2">records kept</dt>
+        <p class="mt-2 text-[13px] text-muted-foreground">after removing {s.dedupe.removed} duplicates and every CC BY-NC record</p>
+      </div>
+      <div class="rounded-2xl border border-border bg-card p-5">
+        <dd class="m-0 font-heading text-4xl leading-none">{pct(s.insideTropicsPct.all)}</dd>
+        <dt class="label-mono mt-2">between the tropics</dt>
+        <p class="mt-2 text-[13px] text-muted-foreground">robusta {pct(s.insideTropicsPct.robusta)}, arabica {pct(s.insideTropicsPct.arabica)}</p>
+      </div>
+      <div class="rounded-2xl border border-border bg-card p-5">
+        <dd class="m-0 font-heading text-4xl leading-none">{s.producingCountries ?? "–"}</dd>
+        <dt class="label-mono mt-2">producing countries</dt>
+        <p class="mt-2 text-[13px] text-muted-foreground">in USDA's coffee production series since 1960</p>
+      </div>
+    </dl>
+  </section>
+
+  <section aria-labelledby="belt-h" class="grid gap-5 pt-16 sm:pt-20">
+    <div>
+      <span class="label-mono">The belt</span>
+      <h2 id="belt-h" class="mt-1 font-heading text-4xl font-normal">Latitude, species by species</h2>
+      <p class="mt-2 max-w-[62ch] leading-relaxed text-muted-foreground">
+        Share of each species' records in each 5° band. The pink band is the tropics. The few records far outside it are
+        mostly greenhouse and botanic-garden plants, <a class="link" href="/sinturon/belt/">named on the belt page</a>.
+      </p>
+    </div>
+    <LatitudeBelt />
+  </section>
+</SinturonLayout>
