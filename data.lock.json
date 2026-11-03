@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "tag": "data-v1",
-  "asset": "read-models-v1.tar.gz",
-  "sha256": "59022392196543f38ce0162fd1b729709db62cd13f6483e5da55cb0fa8cbc2fc"
+  "version": 2,
+  "tag": "data-v2",
+  "asset": "read-models-v2.tar.gz",
+  "sha256": "6f69241675961640214139e32cdedca740337cf83e9bbceea417f2d0c31673e3"
 }

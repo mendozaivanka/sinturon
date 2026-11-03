@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-11-01",
- "fetchedAtUtc": "2026-11-01T15:45:29+00:00",
+ "fetchedAt": "2026-11-03",
+ "fetchedAtUtc": "2026-11-03T22:56:38+00:00",
  "api": "https://api.gbif.org/v1/occurrence/search",
  "filters": {
   "hasCoordinate": "true",
@@ -19,8 +19,8 @@
    "group": "arabica",
    "taxonKey": 2895345,
    "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=2895345&hasCoordinate=true&hasGeospatialIssue=false&license=CC0_1_0&license=CC_BY_4_0",
-   "gbifCount": 7741,
-   "rows": 7741
+   "gbifCount": 7754,
+   "rows": 7754
   },
   {
    "group": "robusta",
@@ -38,10 +38,10 @@
   }
  ],
  "rowsBySpecies": {
-  "arabica": 7741,
+  "arabica": 7754,
   "excelsa": 189,
   "liberica": 474,
   "robusta": 4155
  },
- "rows": 12559
+ "rows": 12572
 }
